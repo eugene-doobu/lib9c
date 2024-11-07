@@ -7170,6 +7170,134 @@ references:
   fullName.vb: Nekoyume.Action.CostumeSlotUnlockException.New
   nameWithType: CostumeSlotUnlockException.CostumeSlotUnlockException
   nameWithType.vb: CostumeSlotUnlockException.New
+- uid: Nekoyume.Action.CostumeSummon
+  name: CostumeSummon
+  href: api/Nekoyume.Action.CostumeSummon.html
+  commentId: T:Nekoyume.Action.CostumeSummon
+  fullName: Nekoyume.Action.CostumeSummon
+  nameWithType: CostumeSummon
+- uid: Nekoyume.Action.CostumeSummon.#ctor
+  name: CostumeSummon()
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon__ctor
+  commentId: M:Nekoyume.Action.CostumeSummon.#ctor
+  name.vb: New()
+  fullName: Nekoyume.Action.CostumeSummon.CostumeSummon()
+  fullName.vb: Nekoyume.Action.CostumeSummon.New()
+  nameWithType: CostumeSummon.CostumeSummon()
+  nameWithType.vb: CostumeSummon.New()
+- uid: Nekoyume.Action.CostumeSummon.#ctor(Libplanet.Crypto.Address,System.Int32,System.Int32)
+  name: CostumeSummon(Address, int, int)
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon__ctor_Libplanet_Crypto_Address_System_Int32_System_Int32_
+  commentId: M:Nekoyume.Action.CostumeSummon.#ctor(Libplanet.Crypto.Address,System.Int32,System.Int32)
+  name.vb: New(Address, Integer, Integer)
+  fullName: Nekoyume.Action.CostumeSummon.CostumeSummon(Libplanet.Crypto.Address, int, int)
+  fullName.vb: Nekoyume.Action.CostumeSummon.New(Libplanet.Crypto.Address, Integer, Integer)
+  nameWithType: CostumeSummon.CostumeSummon(Address, int, int)
+  nameWithType.vb: CostumeSummon.New(Address, Integer, Integer)
+- uid: Nekoyume.Action.CostumeSummon.#ctor*
+  name: CostumeSummon
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon__ctor_
+  commentId: Overload:Nekoyume.Action.CostumeSummon.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Nekoyume.Action.CostumeSummon.CostumeSummon
+  fullName.vb: Nekoyume.Action.CostumeSummon.New
+  nameWithType: CostumeSummon.CostumeSummon
+  nameWithType.vb: CostumeSummon.New
+- uid: Nekoyume.Action.CostumeSummon.AvatarAddress
+  name: AvatarAddress
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_AvatarAddress
+  commentId: F:Nekoyume.Action.CostumeSummon.AvatarAddress
+  fullName: Nekoyume.Action.CostumeSummon.AvatarAddress
+  nameWithType: CostumeSummon.AvatarAddress
+- uid: Nekoyume.Action.CostumeSummon.AvatarAddressKey
+  name: AvatarAddressKey
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_AvatarAddressKey
+  commentId: F:Nekoyume.Action.CostumeSummon.AvatarAddressKey
+  fullName: Nekoyume.Action.CostumeSummon.AvatarAddressKey
+  nameWithType: CostumeSummon.AvatarAddressKey
+- uid: Nekoyume.Action.CostumeSummon.Execute(Libplanet.Action.IActionContext)
+  name: Execute(IActionContext)
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_Execute_Libplanet_Action_IActionContext_
+  commentId: M:Nekoyume.Action.CostumeSummon.Execute(Libplanet.Action.IActionContext)
+  fullName: Nekoyume.Action.CostumeSummon.Execute(Libplanet.Action.IActionContext)
+  nameWithType: CostumeSummon.Execute(IActionContext)
+- uid: Nekoyume.Action.CostumeSummon.Execute*
+  name: Execute
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_Execute_
+  commentId: Overload:Nekoyume.Action.CostumeSummon.Execute
+  isSpec: "True"
+  fullName: Nekoyume.Action.CostumeSummon.Execute
+  nameWithType: CostumeSummon.Execute
+- uid: Nekoyume.Action.CostumeSummon.GroupId
+  name: GroupId
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_GroupId
+  commentId: F:Nekoyume.Action.CostumeSummon.GroupId
+  fullName: Nekoyume.Action.CostumeSummon.GroupId
+  nameWithType: CostumeSummon.GroupId
+- uid: Nekoyume.Action.CostumeSummon.GroupIdKey
+  name: GroupIdKey
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_GroupIdKey
+  commentId: F:Nekoyume.Action.CostumeSummon.GroupIdKey
+  fullName: Nekoyume.Action.CostumeSummon.GroupIdKey
+  nameWithType: CostumeSummon.GroupIdKey
+- uid: Nekoyume.Action.CostumeSummon.LoadPlainValueInternal(System.Collections.Immutable.IImmutableDictionary{System.String,Bencodex.Types.IValue})
+  name: LoadPlainValueInternal(IImmutableDictionary<string, IValue>)
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_LoadPlainValueInternal_System_Collections_Immutable_IImmutableDictionary_System_String_Bencodex_Types_IValue__
+  commentId: M:Nekoyume.Action.CostumeSummon.LoadPlainValueInternal(System.Collections.Immutable.IImmutableDictionary{System.String,Bencodex.Types.IValue})
+  name.vb: LoadPlainValueInternal(IImmutableDictionary(Of String, IValue))
+  fullName: Nekoyume.Action.CostumeSummon.LoadPlainValueInternal(System.Collections.Immutable.IImmutableDictionary<string, Bencodex.Types.IValue>)
+  fullName.vb: Nekoyume.Action.CostumeSummon.LoadPlainValueInternal(System.Collections.Immutable.IImmutableDictionary(Of String, Bencodex.Types.IValue))
+  nameWithType: CostumeSummon.LoadPlainValueInternal(IImmutableDictionary<string, IValue>)
+  nameWithType.vb: CostumeSummon.LoadPlainValueInternal(IImmutableDictionary(Of String, IValue))
+- uid: Nekoyume.Action.CostumeSummon.LoadPlainValueInternal*
+  name: LoadPlainValueInternal
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_LoadPlainValueInternal_
+  commentId: Overload:Nekoyume.Action.CostumeSummon.LoadPlainValueInternal
+  isSpec: "True"
+  fullName: Nekoyume.Action.CostumeSummon.LoadPlainValueInternal
+  nameWithType: CostumeSummon.LoadPlainValueInternal
+- uid: Nekoyume.Action.CostumeSummon.PlainValueInternal
+  name: PlainValueInternal
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_PlainValueInternal
+  commentId: P:Nekoyume.Action.CostumeSummon.PlainValueInternal
+  fullName: Nekoyume.Action.CostumeSummon.PlainValueInternal
+  nameWithType: CostumeSummon.PlainValueInternal
+- uid: Nekoyume.Action.CostumeSummon.PlainValueInternal*
+  name: PlainValueInternal
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_PlainValueInternal_
+  commentId: Overload:Nekoyume.Action.CostumeSummon.PlainValueInternal
+  isSpec: "True"
+  fullName: Nekoyume.Action.CostumeSummon.PlainValueInternal
+  nameWithType: CostumeSummon.PlainValueInternal
+- uid: Nekoyume.Action.CostumeSummon.SimulateSummon(System.String,Nekoyume.TableData.CostumeItemSheet,Nekoyume.TableData.Summon.SummonSheet.Row,System.Int32,Libplanet.Action.IRandom)
+  name: SimulateSummon(string, CostumeItemSheet, Row, int, IRandom)
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_SimulateSummon_System_String_Nekoyume_TableData_CostumeItemSheet_Nekoyume_TableData_Summon_SummonSheet_Row_System_Int32_Libplanet_Action_IRandom_
+  commentId: M:Nekoyume.Action.CostumeSummon.SimulateSummon(System.String,Nekoyume.TableData.CostumeItemSheet,Nekoyume.TableData.Summon.SummonSheet.Row,System.Int32,Libplanet.Action.IRandom)
+  name.vb: SimulateSummon(String, CostumeItemSheet, Row, Integer, IRandom)
+  fullName: Nekoyume.Action.CostumeSummon.SimulateSummon(string, Nekoyume.TableData.CostumeItemSheet, Nekoyume.TableData.Summon.SummonSheet.Row, int, Libplanet.Action.IRandom)
+  fullName.vb: Nekoyume.Action.CostumeSummon.SimulateSummon(String, Nekoyume.TableData.CostumeItemSheet, Nekoyume.TableData.Summon.SummonSheet.Row, Integer, Libplanet.Action.IRandom)
+  nameWithType: CostumeSummon.SimulateSummon(string, CostumeItemSheet, SummonSheet.Row, int, IRandom)
+  nameWithType.vb: CostumeSummon.SimulateSummon(String, CostumeItemSheet, SummonSheet.Row, Integer, IRandom)
+- uid: Nekoyume.Action.CostumeSummon.SimulateSummon*
+  name: SimulateSummon
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_SimulateSummon_
+  commentId: Overload:Nekoyume.Action.CostumeSummon.SimulateSummon
+  isSpec: "True"
+  fullName: Nekoyume.Action.CostumeSummon.SimulateSummon
+  nameWithType: CostumeSummon.SimulateSummon
+- uid: Nekoyume.Action.CostumeSummon.SummonCount
+  name: SummonCount
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_SummonCount
+  commentId: F:Nekoyume.Action.CostumeSummon.SummonCount
+  fullName: Nekoyume.Action.CostumeSummon.SummonCount
+  nameWithType: CostumeSummon.SummonCount
+- uid: Nekoyume.Action.CostumeSummon.SummonCountKey
+  name: SummonCountKey
+  href: api/Nekoyume.Action.CostumeSummon.html#Nekoyume_Action_CostumeSummon_SummonCountKey
+  commentId: F:Nekoyume.Action.CostumeSummon.SummonCountKey
+  fullName: Nekoyume.Action.CostumeSummon.SummonCountKey
+  nameWithType: CostumeSummon.SummonCountKey
 - uid: Nekoyume.Action.Coupons
   name: Nekoyume.Action.Coupons
   href: api/Nekoyume.Action.Coupons.html
@@ -29806,6 +29934,63 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Helper.RuneHelper.TryEnhancement
   nameWithType: RuneHelper.TryEnhancement
+- uid: Nekoyume.Helper.SummonHelper
+  name: SummonHelper
+  href: api/Nekoyume.Helper.SummonHelper.html
+  commentId: T:Nekoyume.Helper.SummonHelper
+  fullName: Nekoyume.Helper.SummonHelper
+  nameWithType: SummonHelper
+- uid: Nekoyume.Helper.SummonHelper.AllowedSummonCount
+  name: AllowedSummonCount
+  href: api/Nekoyume.Helper.SummonHelper.html#Nekoyume_Helper_SummonHelper_AllowedSummonCount
+  commentId: F:Nekoyume.Helper.SummonHelper.AllowedSummonCount
+  fullName: Nekoyume.Helper.SummonHelper.AllowedSummonCount
+  nameWithType: SummonHelper.AllowedSummonCount
+- uid: Nekoyume.Helper.SummonHelper.CalculateSummonCount(System.Int32)
+  name: CalculateSummonCount(int)
+  href: api/Nekoyume.Helper.SummonHelper.html#Nekoyume_Helper_SummonHelper_CalculateSummonCount_System_Int32_
+  commentId: M:Nekoyume.Helper.SummonHelper.CalculateSummonCount(System.Int32)
+  name.vb: CalculateSummonCount(Integer)
+  fullName: Nekoyume.Helper.SummonHelper.CalculateSummonCount(int)
+  fullName.vb: Nekoyume.Helper.SummonHelper.CalculateSummonCount(Integer)
+  nameWithType: SummonHelper.CalculateSummonCount(int)
+  nameWithType.vb: SummonHelper.CalculateSummonCount(Integer)
+- uid: Nekoyume.Helper.SummonHelper.CalculateSummonCount*
+  name: CalculateSummonCount
+  href: api/Nekoyume.Helper.SummonHelper.html#Nekoyume_Helper_SummonHelper_CalculateSummonCount_
+  commentId: Overload:Nekoyume.Helper.SummonHelper.CalculateSummonCount
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SummonHelper.CalculateSummonCount
+  nameWithType: SummonHelper.CalculateSummonCount
+- uid: Nekoyume.Helper.SummonHelper.CheckSummonCountIsValid(System.Int32)
+  name: CheckSummonCountIsValid(int)
+  href: api/Nekoyume.Helper.SummonHelper.html#Nekoyume_Helper_SummonHelper_CheckSummonCountIsValid_System_Int32_
+  commentId: M:Nekoyume.Helper.SummonHelper.CheckSummonCountIsValid(System.Int32)
+  name.vb: CheckSummonCountIsValid(Integer)
+  fullName: Nekoyume.Helper.SummonHelper.CheckSummonCountIsValid(int)
+  fullName.vb: Nekoyume.Helper.SummonHelper.CheckSummonCountIsValid(Integer)
+  nameWithType: SummonHelper.CheckSummonCountIsValid(int)
+  nameWithType.vb: SummonHelper.CheckSummonCountIsValid(Integer)
+- uid: Nekoyume.Helper.SummonHelper.CheckSummonCountIsValid*
+  name: CheckSummonCountIsValid
+  href: api/Nekoyume.Helper.SummonHelper.html#Nekoyume_Helper_SummonHelper_CheckSummonCountIsValid_
+  commentId: Overload:Nekoyume.Helper.SummonHelper.CheckSummonCountIsValid
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SummonHelper.CheckSummonCountIsValid
+  nameWithType: SummonHelper.CheckSummonCountIsValid
+- uid: Nekoyume.Helper.SummonHelper.GetSummonRecipeIdByRandom(Nekoyume.TableData.Summon.SummonSheet.Row,Libplanet.Action.IRandom)
+  name: GetSummonRecipeIdByRandom(Row, IRandom)
+  href: api/Nekoyume.Helper.SummonHelper.html#Nekoyume_Helper_SummonHelper_GetSummonRecipeIdByRandom_Nekoyume_TableData_Summon_SummonSheet_Row_Libplanet_Action_IRandom_
+  commentId: M:Nekoyume.Helper.SummonHelper.GetSummonRecipeIdByRandom(Nekoyume.TableData.Summon.SummonSheet.Row,Libplanet.Action.IRandom)
+  fullName: Nekoyume.Helper.SummonHelper.GetSummonRecipeIdByRandom(Nekoyume.TableData.Summon.SummonSheet.Row, Libplanet.Action.IRandom)
+  nameWithType: SummonHelper.GetSummonRecipeIdByRandom(SummonSheet.Row, IRandom)
+- uid: Nekoyume.Helper.SummonHelper.GetSummonRecipeIdByRandom*
+  name: GetSummonRecipeIdByRandom
+  href: api/Nekoyume.Helper.SummonHelper.html#Nekoyume_Helper_SummonHelper_GetSummonRecipeIdByRandom_
+  commentId: Overload:Nekoyume.Helper.SummonHelper.GetSummonRecipeIdByRandom
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SummonHelper.GetSummonRecipeIdByRandom
+  nameWithType: SummonHelper.GetSummonRecipeIdByRandom
 - uid: Nekoyume.Helper.WorldBossHelper
   name: WorldBossHelper
   href: api/Nekoyume.Helper.WorldBossHelper.html
@@ -57920,15 +58105,12 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.State.AvatarState.Update3
   nameWithType: AvatarState.Update3
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromAddCostume(Nekoyume.Model.Item.Costume,System.Boolean)
-  name: UpdateFromAddCostume(Costume, bool)
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromAddCostume_Nekoyume_Model_Item_Costume_System_Boolean_
-  commentId: M:Nekoyume.Model.State.AvatarState.UpdateFromAddCostume(Nekoyume.Model.Item.Costume,System.Boolean)
-  name.vb: UpdateFromAddCostume(Costume, Boolean)
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromAddCostume(Nekoyume.Model.Item.Costume, bool)
-  fullName.vb: Nekoyume.Model.State.AvatarState.UpdateFromAddCostume(Nekoyume.Model.Item.Costume, Boolean)
-  nameWithType: AvatarState.UpdateFromAddCostume(Costume, bool)
-  nameWithType.vb: AvatarState.UpdateFromAddCostume(Costume, Boolean)
+- uid: Nekoyume.Model.State.AvatarState.UpdateFromAddCostume(Nekoyume.Model.Item.Costume)
+  name: UpdateFromAddCostume(Costume)
+  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromAddCostume_Nekoyume_Model_Item_Costume_
+  commentId: M:Nekoyume.Model.State.AvatarState.UpdateFromAddCostume(Nekoyume.Model.Item.Costume)
+  fullName: Nekoyume.Model.State.AvatarState.UpdateFromAddCostume(Nekoyume.Model.Item.Costume)
+  nameWithType: AvatarState.UpdateFromAddCostume(Costume)
 - uid: Nekoyume.Model.State.AvatarState.UpdateFromAddCostume*
   name: UpdateFromAddCostume
   href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromAddCostume_
@@ -67824,6 +68006,18 @@ references:
   commentId: F:Nekoyume.Planet.OdinInternal
   fullName: Nekoyume.Planet.OdinInternal
   nameWithType: Planet.OdinInternal
+- uid: Nekoyume.Planet.Thor
+  name: Thor
+  href: api/Nekoyume.Planet.html#Nekoyume_Planet_Thor
+  commentId: F:Nekoyume.Planet.Thor
+  fullName: Nekoyume.Planet.Thor
+  nameWithType: Planet.Thor
+- uid: Nekoyume.Planet.ThorInternal
+  name: ThorInternal
+  href: api/Nekoyume.Planet.html#Nekoyume_Planet_ThorInternal
+  commentId: F:Nekoyume.Planet.ThorInternal
+  fullName: Nekoyume.Planet.ThorInternal
+  nameWithType: Planet.ThorInternal
 - uid: Nekoyume.PlanetExtension
   name: PlanetExtension
   href: api/Nekoyume.PlanetExtension.html
@@ -83160,6 +83354,24 @@ references:
   commentId: N:Nekoyume.TableData.Summon
   fullName: Nekoyume.TableData.Summon
   nameWithType: Nekoyume.TableData.Summon
+- uid: Nekoyume.TableData.Summon.CostumeSummonSheet
+  name: CostumeSummonSheet
+  href: api/Nekoyume.TableData.Summon.CostumeSummonSheet.html
+  commentId: T:Nekoyume.TableData.Summon.CostumeSummonSheet
+  fullName: Nekoyume.TableData.Summon.CostumeSummonSheet
+  nameWithType: CostumeSummonSheet
+- uid: Nekoyume.TableData.Summon.EquipmentSummonSheet
+  name: EquipmentSummonSheet
+  href: api/Nekoyume.TableData.Summon.EquipmentSummonSheet.html
+  commentId: T:Nekoyume.TableData.Summon.EquipmentSummonSheet
+  fullName: Nekoyume.TableData.Summon.EquipmentSummonSheet
+  nameWithType: EquipmentSummonSheet
+- uid: Nekoyume.TableData.Summon.RuneSummonSheet
+  name: RuneSummonSheet
+  href: api/Nekoyume.TableData.Summon.RuneSummonSheet.html
+  commentId: T:Nekoyume.TableData.Summon.RuneSummonSheet
+  fullName: Nekoyume.TableData.Summon.RuneSummonSheet
+  nameWithType: RuneSummonSheet
 - uid: Nekoyume.TableData.Summon.SummonSheet
   name: SummonSheet
   href: api/Nekoyume.TableData.Summon.SummonSheet.html
