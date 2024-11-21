@@ -3159,6 +3159,15 @@ references:
   fullName.vb: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: ActivatedAccountsDoesNotExistsException.ActivatedAccountsDoesNotExistsException(SerializationInfo, StreamingContext)
   nameWithType.vb: ActivatedAccountsDoesNotExistsException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.#ctor(System.String)
+  name: ActivatedAccountsDoesNotExistsException(string)
+  href: api/Nekoyume.Action.ActivatedAccountsDoesNotExistsException.html#Nekoyume_Action_ActivatedAccountsDoesNotExistsException__ctor_System_String_
+  commentId: M:Nekoyume.Action.ActivatedAccountsDoesNotExistsException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.ActivatedAccountsDoesNotExistsException(string)
+  fullName.vb: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.New(String)
+  nameWithType: ActivatedAccountsDoesNotExistsException.ActivatedAccountsDoesNotExistsException(string)
+  nameWithType.vb: ActivatedAccountsDoesNotExistsException.New(String)
 - uid: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.#ctor*
   name: ActivatedAccountsDoesNotExistsException
   href: api/Nekoyume.Action.ActivatedAccountsDoesNotExistsException.html#Nekoyume_Action_ActivatedAccountsDoesNotExistsException__ctor_
@@ -3193,6 +3202,15 @@ references:
   fullName.vb: Nekoyume.Action.ActivationException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: ActivationException.ActivationException(SerializationInfo, StreamingContext)
   nameWithType.vb: ActivationException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.ActivationException.#ctor(System.String)
+  name: ActivationException(string)
+  href: api/Nekoyume.Action.ActivationException.html#Nekoyume_Action_ActivationException__ctor_System_String_
+  commentId: M:Nekoyume.Action.ActivationException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.ActivationException.ActivationException(string)
+  fullName.vb: Nekoyume.Action.ActivationException.New(String)
+  nameWithType: ActivationException.ActivationException(string)
+  nameWithType.vb: ActivationException.New(String)
 - uid: Nekoyume.Action.ActivationException.#ctor*
   name: ActivationException
   href: api/Nekoyume.Action.ActivationException.html#Nekoyume_Action_ActivationException__ctor_
@@ -3325,6 +3343,15 @@ references:
   fullName.vb: Nekoyume.Action.AdminPermissionException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: AdminPermissionException.AdminPermissionException(SerializationInfo, StreamingContext)
   nameWithType.vb: AdminPermissionException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.AdminPermissionException.#ctor(System.String)
+  name: AdminPermissionException(string)
+  href: api/Nekoyume.Action.AdminPermissionException.html#Nekoyume_Action_AdminPermissionException__ctor_System_String_
+  commentId: M:Nekoyume.Action.AdminPermissionException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.AdminPermissionException.AdminPermissionException(string)
+  fullName.vb: Nekoyume.Action.AdminPermissionException.New(String)
+  nameWithType: AdminPermissionException.AdminPermissionException(string)
+  nameWithType.vb: AdminPermissionException.New(String)
 - uid: Nekoyume.Action.AdminPermissionException.#ctor*
   name: AdminPermissionException
   href: api/Nekoyume.Action.AdminPermissionException.html#Nekoyume_Action_AdminPermissionException__ctor_
@@ -4659,6 +4686,15 @@ references:
   fullName.vb: Nekoyume.Action.BalanceDoesNotExistsException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: BalanceDoesNotExistsException.BalanceDoesNotExistsException(SerializationInfo, StreamingContext)
   nameWithType.vb: BalanceDoesNotExistsException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.BalanceDoesNotExistsException.#ctor(System.String)
+  name: BalanceDoesNotExistsException(string)
+  href: api/Nekoyume.Action.BalanceDoesNotExistsException.html#Nekoyume_Action_BalanceDoesNotExistsException__ctor_System_String_
+  commentId: M:Nekoyume.Action.BalanceDoesNotExistsException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.BalanceDoesNotExistsException.BalanceDoesNotExistsException(string)
+  fullName.vb: Nekoyume.Action.BalanceDoesNotExistsException.New(String)
+  nameWithType: BalanceDoesNotExistsException.BalanceDoesNotExistsException(string)
+  nameWithType.vb: BalanceDoesNotExistsException.New(String)
 - uid: Nekoyume.Action.BalanceDoesNotExistsException.#ctor*
   name: BalanceDoesNotExistsException
   href: api/Nekoyume.Action.BalanceDoesNotExistsException.html#Nekoyume_Action_BalanceDoesNotExistsException__ctor_
@@ -13237,6 +13273,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidMinterException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidMinterException.InvalidMinterException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidMinterException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidMinterException.#ctor(System.String)
+  name: InvalidMinterException(string)
+  href: api/Nekoyume.Action.InvalidMinterException.html#Nekoyume_Action_InvalidMinterException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidMinterException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidMinterException.InvalidMinterException(string)
+  fullName.vb: Nekoyume.Action.InvalidMinterException.New(String)
+  nameWithType: InvalidMinterException.InvalidMinterException(string)
+  nameWithType.vb: InvalidMinterException.New(String)
 - uid: Nekoyume.Action.InvalidMinterException.#ctor*
   name: InvalidMinterException
   href: api/Nekoyume.Action.InvalidMinterException.html#Nekoyume_Action_InvalidMinterException__ctor_
@@ -13540,6 +13585,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidSignatureException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidSignatureException.InvalidSignatureException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidSignatureException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidSignatureException.#ctor(System.String)
+  name: InvalidSignatureException(string)
+  href: api/Nekoyume.Action.InvalidSignatureException.html#Nekoyume_Action_InvalidSignatureException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidSignatureException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidSignatureException.InvalidSignatureException(string)
+  fullName.vb: Nekoyume.Action.InvalidSignatureException.New(String)
+  nameWithType: InvalidSignatureException.InvalidSignatureException(string)
+  nameWithType.vb: InvalidSignatureException.New(String)
 - uid: Nekoyume.Action.InvalidSignatureException.#ctor*
   name: InvalidSignatureException
   href: api/Nekoyume.Action.InvalidSignatureException.html#Nekoyume_Action_InvalidSignatureException__ctor_
@@ -13792,6 +13846,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidTransferMinterException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidTransferMinterException.InvalidTransferMinterException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidTransferMinterException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidTransferMinterException.#ctor(System.String)
+  name: InvalidTransferMinterException(string)
+  href: api/Nekoyume.Action.InvalidTransferMinterException.html#Nekoyume_Action_InvalidTransferMinterException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidTransferMinterException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidTransferMinterException.InvalidTransferMinterException(string)
+  fullName.vb: Nekoyume.Action.InvalidTransferMinterException.New(String)
+  nameWithType: InvalidTransferMinterException.InvalidTransferMinterException(string)
+  nameWithType.vb: InvalidTransferMinterException.New(String)
 - uid: Nekoyume.Action.InvalidTransferMinterException.#ctor*
   name: InvalidTransferMinterException
   href: api/Nekoyume.Action.InvalidTransferMinterException.html#Nekoyume_Action_InvalidTransferMinterException__ctor_
@@ -13865,6 +13928,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidTransferRecipientException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidTransferRecipientException.InvalidTransferRecipientException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidTransferRecipientException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidTransferRecipientException.#ctor(System.String)
+  name: InvalidTransferRecipientException(string)
+  href: api/Nekoyume.Action.InvalidTransferRecipientException.html#Nekoyume_Action_InvalidTransferRecipientException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidTransferRecipientException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidTransferRecipientException.InvalidTransferRecipientException(string)
+  fullName.vb: Nekoyume.Action.InvalidTransferRecipientException.New(String)
+  nameWithType: InvalidTransferRecipientException.InvalidTransferRecipientException(string)
+  nameWithType.vb: InvalidTransferRecipientException.New(String)
 - uid: Nekoyume.Action.InvalidTransferRecipientException.#ctor*
   name: InvalidTransferRecipientException
   href: api/Nekoyume.Action.InvalidTransferRecipientException.html#Nekoyume_Action_InvalidTransferRecipientException__ctor_
@@ -13938,6 +14010,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidTransferSignerException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidTransferSignerException.InvalidTransferSignerException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidTransferSignerException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidTransferSignerException.#ctor(System.String)
+  name: InvalidTransferSignerException(string)
+  href: api/Nekoyume.Action.InvalidTransferSignerException.html#Nekoyume_Action_InvalidTransferSignerException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidTransferSignerException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidTransferSignerException.InvalidTransferSignerException(string)
+  fullName.vb: Nekoyume.Action.InvalidTransferSignerException.New(String)
+  nameWithType: InvalidTransferSignerException.InvalidTransferSignerException(string)
+  nameWithType.vb: InvalidTransferSignerException.New(String)
 - uid: Nekoyume.Action.InvalidTransferSignerException.#ctor*
   name: InvalidTransferSignerException
   href: api/Nekoyume.Action.InvalidTransferSignerException.html#Nekoyume_Action_InvalidTransferSignerException__ctor_
@@ -14024,6 +14105,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidTransferUnactivatedRecipientException.InvalidTransferUnactivatedRecipientException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidTransferUnactivatedRecipientException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.#ctor(System.String)
+  name: InvalidTransferUnactivatedRecipientException(string)
+  href: api/Nekoyume.Action.InvalidTransferUnactivatedRecipientException.html#Nekoyume_Action_InvalidTransferUnactivatedRecipientException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidTransferUnactivatedRecipientException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.InvalidTransferUnactivatedRecipientException(string)
+  fullName.vb: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.New(String)
+  nameWithType: InvalidTransferUnactivatedRecipientException.InvalidTransferUnactivatedRecipientException(string)
+  nameWithType.vb: InvalidTransferUnactivatedRecipientException.New(String)
 - uid: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.#ctor*
   name: InvalidTransferUnactivatedRecipientException
   href: api/Nekoyume.Action.InvalidTransferUnactivatedRecipientException.html#Nekoyume_Action_InvalidTransferUnactivatedRecipientException__ctor_
@@ -17409,6 +17499,15 @@ references:
   fullName.vb: Nekoyume.Action.NotEnoughFungibleAssetValueException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: NotEnoughFungibleAssetValueException.NotEnoughFungibleAssetValueException(SerializationInfo, StreamingContext)
   nameWithType.vb: NotEnoughFungibleAssetValueException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.NotEnoughFungibleAssetValueException.#ctor(System.String)
+  name: NotEnoughFungibleAssetValueException(string)
+  href: api/Nekoyume.Action.NotEnoughFungibleAssetValueException.html#Nekoyume_Action_NotEnoughFungibleAssetValueException__ctor_System_String_
+  commentId: M:Nekoyume.Action.NotEnoughFungibleAssetValueException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.NotEnoughFungibleAssetValueException.NotEnoughFungibleAssetValueException(string)
+  fullName.vb: Nekoyume.Action.NotEnoughFungibleAssetValueException.New(String)
+  nameWithType: NotEnoughFungibleAssetValueException.NotEnoughFungibleAssetValueException(string)
+  nameWithType.vb: NotEnoughFungibleAssetValueException.New(String)
 - uid: Nekoyume.Action.NotEnoughFungibleAssetValueException.#ctor(System.String,System.Exception)
   name: NotEnoughFungibleAssetValueException(string, Exception)
   href: api/Nekoyume.Action.NotEnoughFungibleAssetValueException.html#Nekoyume_Action_NotEnoughFungibleAssetValueException__ctor_System_String_System_Exception_
@@ -17617,6 +17716,15 @@ references:
   fullName.vb: Nekoyume.Action.NotEnoughRankException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: NotEnoughRankException.NotEnoughRankException(SerializationInfo, StreamingContext)
   nameWithType.vb: NotEnoughRankException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.NotEnoughRankException.#ctor(System.String)
+  name: NotEnoughRankException(string)
+  href: api/Nekoyume.Action.NotEnoughRankException.html#Nekoyume_Action_NotEnoughRankException__ctor_System_String_
+  commentId: M:Nekoyume.Action.NotEnoughRankException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.NotEnoughRankException.NotEnoughRankException(string)
+  fullName.vb: Nekoyume.Action.NotEnoughRankException.New(String)
+  nameWithType: NotEnoughRankException.NotEnoughRankException(string)
+  nameWithType.vb: NotEnoughRankException.New(String)
 - uid: Nekoyume.Action.NotEnoughRankException.#ctor*
   name: NotEnoughRankException
   href: api/Nekoyume.Action.NotEnoughRankException.html#Nekoyume_Action_NotEnoughRankException__ctor_
@@ -17828,6 +17936,15 @@ references:
   fullName.vb: Nekoyume.Action.PendingActivationDoesNotExistsException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: PendingActivationDoesNotExistsException.PendingActivationDoesNotExistsException(SerializationInfo, StreamingContext)
   nameWithType.vb: PendingActivationDoesNotExistsException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.PendingActivationDoesNotExistsException.#ctor(System.String)
+  name: PendingActivationDoesNotExistsException(string)
+  href: api/Nekoyume.Action.PendingActivationDoesNotExistsException.html#Nekoyume_Action_PendingActivationDoesNotExistsException__ctor_System_String_
+  commentId: M:Nekoyume.Action.PendingActivationDoesNotExistsException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.PendingActivationDoesNotExistsException.PendingActivationDoesNotExistsException(string)
+  fullName.vb: Nekoyume.Action.PendingActivationDoesNotExistsException.New(String)
+  nameWithType: PendingActivationDoesNotExistsException.PendingActivationDoesNotExistsException(string)
+  nameWithType.vb: PendingActivationDoesNotExistsException.New(String)
 - uid: Nekoyume.Action.PendingActivationDoesNotExistsException.#ctor*
   name: PendingActivationDoesNotExistsException
   href: api/Nekoyume.Action.PendingActivationDoesNotExistsException.html#Nekoyume_Action_PendingActivationDoesNotExistsException__ctor_
@@ -17888,6 +18005,15 @@ references:
   fullName.vb: Nekoyume.Action.PermissionDeniedException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: PermissionDeniedException.PermissionDeniedException(SerializationInfo, StreamingContext)
   nameWithType.vb: PermissionDeniedException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.PermissionDeniedException.#ctor(System.String)
+  name: PermissionDeniedException(string)
+  href: api/Nekoyume.Action.PermissionDeniedException.html#Nekoyume_Action_PermissionDeniedException__ctor_System_String_
+  commentId: M:Nekoyume.Action.PermissionDeniedException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.PermissionDeniedException.PermissionDeniedException(string)
+  fullName.vb: Nekoyume.Action.PermissionDeniedException.New(String)
+  nameWithType: PermissionDeniedException.PermissionDeniedException(string)
+  nameWithType.vb: PermissionDeniedException.New(String)
 - uid: Nekoyume.Action.PermissionDeniedException.#ctor*
   name: PermissionDeniedException
   href: api/Nekoyume.Action.PermissionDeniedException.html#Nekoyume_Action_PermissionDeniedException__ctor_
@@ -18088,6 +18214,15 @@ references:
   fullName.vb: Nekoyume.Action.PolicyExpiredException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: PolicyExpiredException.PolicyExpiredException(SerializationInfo, StreamingContext)
   nameWithType.vb: PolicyExpiredException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.PolicyExpiredException.#ctor(System.String)
+  name: PolicyExpiredException(string)
+  href: api/Nekoyume.Action.PolicyExpiredException.html#Nekoyume_Action_PolicyExpiredException__ctor_System_String_
+  commentId: M:Nekoyume.Action.PolicyExpiredException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.PolicyExpiredException.PolicyExpiredException(string)
+  fullName.vb: Nekoyume.Action.PolicyExpiredException.New(String)
+  nameWithType: PolicyExpiredException.PolicyExpiredException(string)
+  nameWithType.vb: PolicyExpiredException.New(String)
 - uid: Nekoyume.Action.PolicyExpiredException.#ctor*
   name: PolicyExpiredException
   href: api/Nekoyume.Action.PolicyExpiredException.html#Nekoyume_Action_PolicyExpiredException__ctor_
@@ -19103,6 +19238,15 @@ references:
   fullName.vb: Nekoyume.Action.RankingExceededException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: RankingExceededException.RankingExceededException(SerializationInfo, StreamingContext)
   nameWithType.vb: RankingExceededException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.RankingExceededException.#ctor(System.String)
+  name: RankingExceededException(string)
+  href: api/Nekoyume.Action.RankingExceededException.html#Nekoyume_Action_RankingExceededException__ctor_System_String_
+  commentId: M:Nekoyume.Action.RankingExceededException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.RankingExceededException.RankingExceededException(string)
+  fullName.vb: Nekoyume.Action.RankingExceededException.New(String)
+  nameWithType: RankingExceededException.RankingExceededException(string)
+  nameWithType.vb: RankingExceededException.New(String)
 - uid: Nekoyume.Action.RankingExceededException.#ctor*
   name: RankingExceededException
   href: api/Nekoyume.Action.RankingExceededException.html#Nekoyume_Action_RankingExceededException__ctor_
@@ -21785,6 +21929,15 @@ references:
   fullName.vb: Nekoyume.Action.TotalSupplyDoesNotExistException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: TotalSupplyDoesNotExistException.TotalSupplyDoesNotExistException(SerializationInfo, StreamingContext)
   nameWithType.vb: TotalSupplyDoesNotExistException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.TotalSupplyDoesNotExistException.#ctor(System.String)
+  name: TotalSupplyDoesNotExistException(string)
+  href: api/Nekoyume.Action.TotalSupplyDoesNotExistException.html#Nekoyume_Action_TotalSupplyDoesNotExistException__ctor_System_String_
+  commentId: M:Nekoyume.Action.TotalSupplyDoesNotExistException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.TotalSupplyDoesNotExistException.TotalSupplyDoesNotExistException(string)
+  fullName.vb: Nekoyume.Action.TotalSupplyDoesNotExistException.New(String)
+  nameWithType: TotalSupplyDoesNotExistException.TotalSupplyDoesNotExistException(string)
+  nameWithType.vb: TotalSupplyDoesNotExistException.New(String)
 - uid: Nekoyume.Action.TotalSupplyDoesNotExistException.#ctor*
   name: TotalSupplyDoesNotExistException
   href: api/Nekoyume.Action.TotalSupplyDoesNotExistException.html#Nekoyume_Action_TotalSupplyDoesNotExistException__ctor_
@@ -25592,6 +25745,15 @@ references:
   fullName.vb: Nekoyume.Battle.InvalidCountException.New()
   nameWithType: InvalidCountException.InvalidCountException()
   nameWithType.vb: InvalidCountException.New()
+- uid: Nekoyume.Battle.InvalidCountException.#ctor(System.String)
+  name: InvalidCountException(string)
+  href: api/Nekoyume.Battle.InvalidCountException.html#Nekoyume_Battle_InvalidCountException__ctor_System_String_
+  commentId: M:Nekoyume.Battle.InvalidCountException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Battle.InvalidCountException.InvalidCountException(string)
+  fullName.vb: Nekoyume.Battle.InvalidCountException.New(String)
+  nameWithType: InvalidCountException.InvalidCountException(string)
+  nameWithType.vb: InvalidCountException.New(String)
 - uid: Nekoyume.Battle.InvalidCountException.#ctor*
   name: InvalidCountException
   href: api/Nekoyume.Battle.InvalidCountException.html#Nekoyume_Battle_InvalidCountException__ctor_
@@ -27821,6 +27983,15 @@ references:
   commentId: T:Nekoyume.Exceptions.PetCostNotFoundException
   fullName: Nekoyume.Exceptions.PetCostNotFoundException
   nameWithType: PetCostNotFoundException
+- uid: Nekoyume.Exceptions.PetCostNotFoundException.#ctor(System.String)
+  name: PetCostNotFoundException(string)
+  href: api/Nekoyume.Exceptions.PetCostNotFoundException.html#Nekoyume_Exceptions_PetCostNotFoundException__ctor_System_String_
+  commentId: M:Nekoyume.Exceptions.PetCostNotFoundException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Exceptions.PetCostNotFoundException.PetCostNotFoundException(string)
+  fullName.vb: Nekoyume.Exceptions.PetCostNotFoundException.New(String)
+  nameWithType: PetCostNotFoundException.PetCostNotFoundException(string)
+  nameWithType.vb: PetCostNotFoundException.New(String)
 - uid: Nekoyume.Exceptions.PetCostNotFoundException.#ctor(System.String,System.Exception)
   name: PetCostNotFoundException(string, Exception)
   href: api/Nekoyume.Exceptions.PetCostNotFoundException.html#Nekoyume_Exceptions_PetCostNotFoundException__ctor_System_String_System_Exception_
@@ -80372,6 +80543,15 @@ references:
   fullName.vb: Nekoyume.TableData.SheetRowNotFoundException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: SheetRowNotFoundException.SheetRowNotFoundException(SerializationInfo, StreamingContext)
   nameWithType.vb: SheetRowNotFoundException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.TableData.SheetRowNotFoundException.#ctor(System.String)
+  name: SheetRowNotFoundException(string)
+  href: api/Nekoyume.TableData.SheetRowNotFoundException.html#Nekoyume_TableData_SheetRowNotFoundException__ctor_System_String_
+  commentId: M:Nekoyume.TableData.SheetRowNotFoundException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.TableData.SheetRowNotFoundException.SheetRowNotFoundException(string)
+  fullName.vb: Nekoyume.TableData.SheetRowNotFoundException.New(String)
+  nameWithType: SheetRowNotFoundException.SheetRowNotFoundException(string)
+  nameWithType.vb: SheetRowNotFoundException.New(String)
 - uid: Nekoyume.TableData.SheetRowNotFoundException.#ctor(System.String,System.Int32)
   name: SheetRowNotFoundException(string, int)
   href: api/Nekoyume.TableData.SheetRowNotFoundException.html#Nekoyume_TableData_SheetRowNotFoundException__ctor_System_String_System_Int32_
