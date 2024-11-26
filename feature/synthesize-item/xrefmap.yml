@@ -22295,6 +22295,12 @@ references:
   commentId: F:Nekoyume.Action.Synthesize.AvatarAddress
   fullName: Nekoyume.Action.Synthesize.AvatarAddress
   nameWithType: Synthesize.AvatarAddress
+- uid: Nekoyume.Action.Synthesize.ChargeAp
+  name: ChargeAp
+  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_ChargeAp
+  commentId: F:Nekoyume.Action.Synthesize.ChargeAp
+  fullName: Nekoyume.Action.Synthesize.ChargeAp
+  nameWithType: Synthesize.ChargeAp
 - uid: Nekoyume.Action.Synthesize.Execute(Libplanet.Action.IActionContext)
   name: Execute(IActionContext)
   href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_Execute_Libplanet_Action_IActionContext_
