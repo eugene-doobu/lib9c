@@ -92352,6 +92352,12 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeWeightSheet.AddRow
   nameWithType: SynthesizeWeightSheet.AddRow
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.DefaultWeight
+  name: DefaultWeight
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.html#Nekoyume_TableData_SynthesizeWeightSheet_DefaultWeight
+  commentId: F:Nekoyume.TableData.SynthesizeWeightSheet.DefaultWeight
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.DefaultWeight
+  nameWithType: SynthesizeWeightSheet.DefaultWeight
 - uid: Nekoyume.TableData.SynthesizeWeightSheet.Row
   name: SynthesizeWeightSheet.Row
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html
