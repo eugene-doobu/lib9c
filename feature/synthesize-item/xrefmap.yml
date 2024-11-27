@@ -92311,6 +92311,18 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
   nameWithType: SynthesizeSheet.Row.SucceedRate
+- uid: Nekoyume.TableData.SynthesizeSheet.SucceedRateMax
+  name: SucceedRateMax
+  href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_SucceedRateMax
+  commentId: F:Nekoyume.TableData.SynthesizeSheet.SucceedRateMax
+  fullName: Nekoyume.TableData.SynthesizeSheet.SucceedRateMax
+  nameWithType: SynthesizeSheet.SucceedRateMax
+- uid: Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
+  name: SucceedRateMin
+  href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_SucceedRateMin
+  commentId: F:Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
+  fullName: Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
+  nameWithType: SynthesizeSheet.SucceedRateMin
 - uid: Nekoyume.TableData.SynthesizeWeightSheet
   name: SynthesizeWeightSheet
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.html
