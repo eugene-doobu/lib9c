@@ -11899,6 +11899,76 @@ references:
   commentId: F:Nekoyume.Action.Guild.Migration.MigratePlanetariumGuild.TypeIdentifier
   fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumGuild.TypeIdentifier
   nameWithType: MigratePlanetariumGuild.TypeIdentifier
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator
+  name: MigratePlanetariumValidator
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html
+  commentId: T:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator
+  nameWithType: MigratePlanetariumValidator
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.#ctor
+  name: MigratePlanetariumValidator()
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator__ctor
+  commentId: M:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.#ctor
+  name.vb: New()
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.MigratePlanetariumValidator()
+  fullName.vb: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.New()
+  nameWithType: MigratePlanetariumValidator.MigratePlanetariumValidator()
+  nameWithType.vb: MigratePlanetariumValidator.New()
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.#ctor*
+  name: MigratePlanetariumValidator
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator__ctor_
+  commentId: Overload:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.MigratePlanetariumValidator
+  fullName.vb: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.New
+  nameWithType: MigratePlanetariumValidator.MigratePlanetariumValidator
+  nameWithType.vb: MigratePlanetariumValidator.New
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute(Libplanet.Action.IActionContext)
+  name: Execute(IActionContext)
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_Execute_Libplanet_Action_IActionContext_
+  commentId: M:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute(Libplanet.Action.IActionContext)
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute(Libplanet.Action.IActionContext)
+  nameWithType: MigratePlanetariumValidator.Execute(IActionContext)
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute*
+  name: Execute
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_Execute_
+  commentId: Overload:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute
+  isSpec: "True"
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute
+  nameWithType: MigratePlanetariumValidator.Execute
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue(Bencodex.Types.IValue)
+  name: LoadPlainValue(IValue)
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_LoadPlainValue_Bencodex_Types_IValue_
+  commentId: M:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue(Bencodex.Types.IValue)
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue(Bencodex.Types.IValue)
+  nameWithType: MigratePlanetariumValidator.LoadPlainValue(IValue)
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue*
+  name: LoadPlainValue
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_LoadPlainValue_
+  commentId: Overload:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue
+  isSpec: "True"
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue
+  nameWithType: MigratePlanetariumValidator.LoadPlainValue
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  name: PlainValue
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_PlainValue
+  commentId: P:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  nameWithType: MigratePlanetariumValidator.PlainValue
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue*
+  name: PlainValue
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_PlainValue_
+  commentId: Overload:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  isSpec: "True"
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  nameWithType: MigratePlanetariumValidator.PlainValue
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.TypeIdentifier
+  name: TypeIdentifier
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_TypeIdentifier
+  commentId: F:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.TypeIdentifier
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.TypeIdentifier
+  nameWithType: MigratePlanetariumValidator.TypeIdentifier
 - uid: Nekoyume.Action.Guild.MoveGuild
   name: MoveGuild
   href: api/Nekoyume.Action.Guild.MoveGuild.html
@@ -29594,19 +29664,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.DelegateeMetadata.AddDelegatedFAV
   nameWithType: DelegateeMetadata.AddDelegatedFAV
-- uid: Nekoyume.Delegation.DelegateeMetadata.AddDelegator(Libplanet.Crypto.Address)
-  name: AddDelegator(Address)
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_AddDelegator_Libplanet_Crypto_Address_
-  commentId: M:Nekoyume.Delegation.DelegateeMetadata.AddDelegator(Libplanet.Crypto.Address)
-  fullName: Nekoyume.Delegation.DelegateeMetadata.AddDelegator(Libplanet.Crypto.Address)
-  nameWithType: DelegateeMetadata.AddDelegator(Address)
-- uid: Nekoyume.Delegation.DelegateeMetadata.AddDelegator*
-  name: AddDelegator
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_AddDelegator_
-  commentId: Overload:Nekoyume.Delegation.DelegateeMetadata.AddDelegator
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.DelegateeMetadata.AddDelegator
-  nameWithType: DelegateeMetadata.AddDelegator
 - uid: Nekoyume.Delegation.DelegateeMetadata.AddShare(System.Numerics.BigInteger)
   name: AddShare(BigInteger)
   href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_AddShare_System_Numerics_BigInteger_
@@ -29737,19 +29794,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.DelegateeMetadata.DelegationPoolAddress
   nameWithType: DelegateeMetadata.DelegationPoolAddress
-- uid: Nekoyume.Delegation.DelegateeMetadata.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_Delegators
-  commentId: P:Nekoyume.Delegation.DelegateeMetadata.Delegators
-  fullName: Nekoyume.Delegation.DelegateeMetadata.Delegators
-  nameWithType: DelegateeMetadata.Delegators
-- uid: Nekoyume.Delegation.DelegateeMetadata.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_Delegators_
-  commentId: Overload:Nekoyume.Delegation.DelegateeMetadata.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.DelegateeMetadata.Delegators
-  nameWithType: DelegateeMetadata.Delegators
 - uid: Nekoyume.Delegation.DelegateeMetadata.Equals(Nekoyume.Delegation.IDelegateeMetadata)
   name: Equals(IDelegateeMetadata?)
   href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_Equals_Nekoyume_Delegation_IDelegateeMetadata_
@@ -29895,19 +29939,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegatedFAV
   nameWithType: DelegateeMetadata.RemoveDelegatedFAV
-- uid: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator(Libplanet.Crypto.Address)
-  name: RemoveDelegator(Address)
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_RemoveDelegator_Libplanet_Crypto_Address_
-  commentId: M:Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator(Libplanet.Crypto.Address)
-  fullName: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator(Libplanet.Crypto.Address)
-  nameWithType: DelegateeMetadata.RemoveDelegator(Address)
-- uid: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator*
-  name: RemoveDelegator
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_RemoveDelegator_
-  commentId: Overload:Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator
-  nameWithType: DelegateeMetadata.RemoveDelegator
 - uid: Nekoyume.Delegation.DelegateeMetadata.RemoveShare(System.Numerics.BigInteger)
   name: RemoveShare(BigInteger)
   href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_RemoveShare_System_Numerics_BigInteger_
@@ -30320,23 +30351,6 @@ references:
   fullName.vb: Nekoyume.Delegation.Delegatee(Of T, TSelf).DelegationPoolAddress
   nameWithType: Delegatee<T, TSelf>.DelegationPoolAddress
   nameWithType.vb: Delegatee(Of T, TSelf).DelegationPoolAddress
-- uid: Nekoyume.Delegation.Delegatee`2.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.Delegatee-2.html#Nekoyume_Delegation_Delegatee_2_Delegators
-  commentId: P:Nekoyume.Delegation.Delegatee`2.Delegators
-  fullName: Nekoyume.Delegation.Delegatee<T, TSelf>.Delegators
-  fullName.vb: Nekoyume.Delegation.Delegatee(Of T, TSelf).Delegators
-  nameWithType: Delegatee<T, TSelf>.Delegators
-  nameWithType.vb: Delegatee(Of T, TSelf).Delegators
-- uid: Nekoyume.Delegation.Delegatee`2.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.Delegatee-2.html#Nekoyume_Delegation_Delegatee_2_Delegators_
-  commentId: Overload:Nekoyume.Delegation.Delegatee`2.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.Delegatee<T, TSelf>.Delegators
-  fullName.vb: Nekoyume.Delegation.Delegatee(Of T, TSelf).Delegators
-  nameWithType: Delegatee<T, TSelf>.Delegators
-  nameWithType.vb: Delegatee(Of T, TSelf).Delegators
 - uid: Nekoyume.Delegation.Delegatee`2.DistributeReward(Nekoyume.Delegation.IDelegator,System.Int64)
   name: DistributeReward(IDelegator, long)
   href: api/Nekoyume.Delegation.Delegatee-2.html#Nekoyume_Delegation_Delegatee_2_DistributeReward_Nekoyume_Delegation_IDelegator_System_Int64_
@@ -32076,19 +32090,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.IDelegatee.DelegationPoolAddress
   nameWithType: IDelegatee.DelegationPoolAddress
-- uid: Nekoyume.Delegation.IDelegatee.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.IDelegatee.html#Nekoyume_Delegation_IDelegatee_Delegators
-  commentId: P:Nekoyume.Delegation.IDelegatee.Delegators
-  fullName: Nekoyume.Delegation.IDelegatee.Delegators
-  nameWithType: IDelegatee.Delegators
-- uid: Nekoyume.Delegation.IDelegatee.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.IDelegatee.html#Nekoyume_Delegation_IDelegatee_Delegators_
-  commentId: Overload:Nekoyume.Delegation.IDelegatee.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.IDelegatee.Delegators
-  nameWithType: IDelegatee.Delegators
 - uid: Nekoyume.Delegation.IDelegatee.DistributeReward(Nekoyume.Delegation.IDelegator,System.Int64)
   name: DistributeReward(IDelegator, long)
   href: api/Nekoyume.Delegation.IDelegatee.html#Nekoyume_Delegation_IDelegatee_DistributeReward_Nekoyume_Delegation_IDelegator_System_Int64_
@@ -32464,19 +32465,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.IDelegateeMetadata.DelegationPoolAddress
   nameWithType: IDelegateeMetadata.DelegationPoolAddress
-- uid: Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.IDelegateeMetadata.html#Nekoyume_Delegation_IDelegateeMetadata_Delegators
-  commentId: P:Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  fullName: Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  nameWithType: IDelegateeMetadata.Delegators
-- uid: Nekoyume.Delegation.IDelegateeMetadata.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.IDelegateeMetadata.html#Nekoyume_Delegation_IDelegateeMetadata_Delegators_
-  commentId: Overload:Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  nameWithType: IDelegateeMetadata.Delegators
 - uid: Nekoyume.Delegation.IDelegateeMetadata.FAVFromShare(System.Numerics.BigInteger)
   name: FAVFromShare(BigInteger)
   href: api/Nekoyume.Delegation.IDelegateeMetadata.html#Nekoyume_Delegation_IDelegateeMetadata_FAVFromShare_System_Numerics_BigInteger_
@@ -33381,33 +33369,33 @@ references:
   fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Bencodex.Types.List)
   nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, List)
   nameWithType.vb: LumpSumRewardsRecord.New(Address, List)
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency})
-  name: LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<Currency>)
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Immutable_ImmutableSortedSet_Libplanet_Crypto_Address__System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_Currency__
-  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency})
-  name.vb: New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of Currency))
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet<Libplanet.Crypto.Address>, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.Currency>)
-  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet(Of Libplanet.Crypto.Address), System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.Currency))
-  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<Currency>)
-  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of Currency))
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency},System.Nullable{System.Int64})
-  name: LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<Currency>, long?)
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Immutable_ImmutableSortedSet_Libplanet_Crypto_Address__System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_Currency__System_Nullable_System_Int64__
-  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency},System.Nullable{System.Int64})
-  name.vb: New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of Currency), Long?)
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet<Libplanet.Crypto.Address>, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.Currency>, long?)
-  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet(Of Libplanet.Crypto.Address), System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.Currency), Long?)
-  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<Currency>, long?)
-  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of Currency), Long?)
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.FungibleAssetValue},System.Nullable{System.Int64})
-  name: LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<FungibleAssetValue>, long?)
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Immutable_ImmutableSortedSet_Libplanet_Crypto_Address__System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_FungibleAssetValue__System_Nullable_System_Int64__
-  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.FungibleAssetValue},System.Nullable{System.Int64})
-  name.vb: New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of FungibleAssetValue), Long?)
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet<Libplanet.Crypto.Address>, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.FungibleAssetValue>, long?)
-  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet(Of Libplanet.Crypto.Address), System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.FungibleAssetValue), Long?)
-  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<FungibleAssetValue>, long?)
-  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of FungibleAssetValue), Long?)
+- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency})
+  name: LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<Currency>)
+  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_Currency__
+  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency})
+  name.vb: New(Address, Long, BigInteger, IEnumerable(Of Currency))
+  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.Currency>)
+  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.Currency))
+  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<Currency>)
+  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, IEnumerable(Of Currency))
+- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency},System.Nullable{System.Int64})
+  name: LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<Currency>, long?)
+  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_Currency__System_Nullable_System_Int64__
+  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency},System.Nullable{System.Int64})
+  name.vb: New(Address, Long, BigInteger, IEnumerable(Of Currency), Long?)
+  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.Currency>, long?)
+  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.Currency), Long?)
+  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<Currency>, long?)
+  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, IEnumerable(Of Currency), Long?)
+- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.FungibleAssetValue},System.Nullable{System.Int64})
+  name: LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<FungibleAssetValue>, long?)
+  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_FungibleAssetValue__System_Nullable_System_Int64__
+  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.FungibleAssetValue},System.Nullable{System.Int64})
+  name.vb: New(Address, Long, BigInteger, IEnumerable(Of FungibleAssetValue), Long?)
+  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.FungibleAssetValue>, long?)
+  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.FungibleAssetValue), Long?)
+  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<FungibleAssetValue>, long?)
+  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, IEnumerable(Of FungibleAssetValue), Long?)
 - uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor*
   name: LumpSumRewardsRecord
   href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_
@@ -33472,19 +33460,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.LumpSumRewardsRecord.Bencoded
   nameWithType: LumpSumRewardsRecord.Bencoded
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_Delegators
-  commentId: P:Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  nameWithType: LumpSumRewardsRecord.Delegators
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_Delegators_
-  commentId: Overload:Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  nameWithType: LumpSumRewardsRecord.Delegators
 - uid: Nekoyume.Delegation.LumpSumRewardsRecord.Equals(Nekoyume.Delegation.LumpSumRewardsRecord)
   name: Equals(LumpSumRewardsRecord?)
   href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_Equals_Nekoyume_Delegation_LumpSumRewardsRecord_
@@ -33562,19 +33537,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.LumpSumRewardsRecord.MoveAddress
   nameWithType: LumpSumRewardsRecord.MoveAddress
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator(Libplanet.Crypto.Address)
-  name: RemoveDelegator(Address)
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_RemoveDelegator_Libplanet_Crypto_Address_
-  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator(Libplanet.Crypto.Address)
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator(Libplanet.Crypto.Address)
-  nameWithType: LumpSumRewardsRecord.RemoveDelegator(Address)
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator*
-  name: RemoveDelegator
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_RemoveDelegator_
-  commentId: Overload:Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator
-  nameWithType: LumpSumRewardsRecord.RemoveDelegator
 - uid: Nekoyume.Delegation.LumpSumRewardsRecord.RewardsDuringPeriod(System.Numerics.BigInteger)
   name: RewardsDuringPeriod(BigInteger)
   href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_RewardsDuringPeriod_System_Numerics_BigInteger_
@@ -47449,6 +47411,22 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.Guild.GuildDelegatee.Equals
   nameWithType: GuildDelegatee.Equals
+- uid: Nekoyume.Model.Guild.GuildDelegatee.Slash(System.Numerics.BigInteger,System.Int64,System.Int64)
+  name: Slash(BigInteger, long, long)
+  href: api/Nekoyume.Model.Guild.GuildDelegatee.html#Nekoyume_Model_Guild_GuildDelegatee_Slash_System_Numerics_BigInteger_System_Int64_System_Int64_
+  commentId: M:Nekoyume.Model.Guild.GuildDelegatee.Slash(System.Numerics.BigInteger,System.Int64,System.Int64)
+  name.vb: Slash(BigInteger, Long, Long)
+  fullName: Nekoyume.Model.Guild.GuildDelegatee.Slash(System.Numerics.BigInteger, long, long)
+  fullName.vb: Nekoyume.Model.Guild.GuildDelegatee.Slash(System.Numerics.BigInteger, Long, Long)
+  nameWithType: GuildDelegatee.Slash(BigInteger, long, long)
+  nameWithType.vb: GuildDelegatee.Slash(BigInteger, Long, Long)
+- uid: Nekoyume.Model.Guild.GuildDelegatee.Slash*
+  name: Slash
+  href: api/Nekoyume.Model.Guild.GuildDelegatee.html#Nekoyume_Model_Guild_GuildDelegatee_Slash_
+  commentId: Overload:Nekoyume.Model.Guild.GuildDelegatee.Slash
+  isSpec: "True"
+  fullName: Nekoyume.Model.Guild.GuildDelegatee.Slash
+  nameWithType: GuildDelegatee.Slash
 - uid: Nekoyume.Model.Guild.GuildDelegator
   name: GuildDelegator
   href: api/Nekoyume.Model.Guild.GuildDelegator.html
