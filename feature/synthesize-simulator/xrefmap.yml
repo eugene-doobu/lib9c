@@ -37743,6 +37743,22 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeSimulator
   fullName: Nekoyume.Helper.SynthesizeSimulator
   nameWithType: SynthesizeSimulator
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,System.String,System.Collections.Generic.List{Nekoyume.Model.Item.Equipment}@,System.Collections.Generic.List{Nekoyume.Model.Item.Costume}@)
+  name: GetGradeDict(List<Guid>, AvatarState, long, string, out List<Equipment>, out List<Costume>)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetGradeDict_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_System_String_System_Collections_Generic_List_Nekoyume_Model_Item_Equipment___System_Collections_Generic_List_Nekoyume_Model_Item_Costume___
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,System.String,System.Collections.Generic.List{Nekoyume.Model.Item.Equipment}@,System.Collections.Generic.List{Nekoyume.Model.Item.Costume}@)
+  name.vb: GetGradeDict(List(Of Guid), AvatarState, Long, String, List(Of Equipment), List(Of Costume))
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, long, string, out System.Collections.Generic.List<Nekoyume.Model.Item.Equipment>, out System.Collections.Generic.List<Nekoyume.Model.Item.Costume>)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Long, String, System.Collections.Generic.List(Of Nekoyume.Model.Item.Equipment), System.Collections.Generic.List(Of Nekoyume.Model.Item.Costume))
+  nameWithType: SynthesizeSimulator.GetGradeDict(List<Guid>, AvatarState, long, string, out List<Equipment>, out List<Costume>)
+  nameWithType.vb: SynthesizeSimulator.GetGradeDict(List(Of Guid), AvatarState, Long, String, List(Of Equipment), List(Of Costume))
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict*
+  name: GetGradeDict
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetGradeDict_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetGradeDict
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict
+  nameWithType: SynthesizeSimulator.GetGradeDict
 - uid: Nekoyume.Helper.SynthesizeSimulator.GetItemGuid(Nekoyume.Model.Item.ItemBase)
   name: GetItemGuid(ItemBase)
   href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetItemGuid_Nekoyume_Model_Item_ItemBase_
