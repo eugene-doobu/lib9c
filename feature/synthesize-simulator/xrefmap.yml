@@ -4493,12 +4493,12 @@ references:
   fullName.vb: Nekoyume.Action.AuraSummon.New
   nameWithType: AuraSummon.AuraSummon
   nameWithType.vb: AuraSummon.New
-- uid: Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.State.AgentState,Nekoyume.Model.Item.Equipment,Libplanet.Action.IRandom,Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row,Nekoyume.TableData.EquipmentItemOptionSheet,Nekoyume.TableData.SkillSheet)
-  name: AddAndUnlockOption(AgentState, Equipment, IRandom, Row, EquipmentItemOptionSheet, SkillSheet)
-  href: api/Nekoyume.Action.AuraSummon.html#Nekoyume_Action_AuraSummon_AddAndUnlockOption_Nekoyume_Model_State_AgentState_Nekoyume_Model_Item_Equipment_Libplanet_Action_IRandom_Nekoyume_TableData_EquipmentItemSubRecipeSheetV2_Row_Nekoyume_TableData_EquipmentItemOptionSheet_Nekoyume_TableData_SkillSheet_
-  commentId: M:Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.State.AgentState,Nekoyume.Model.Item.Equipment,Libplanet.Action.IRandom,Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row,Nekoyume.TableData.EquipmentItemOptionSheet,Nekoyume.TableData.SkillSheet)
-  fullName: Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.State.AgentState, Nekoyume.Model.Item.Equipment, Libplanet.Action.IRandom, Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row, Nekoyume.TableData.EquipmentItemOptionSheet, Nekoyume.TableData.SkillSheet)
-  nameWithType: AuraSummon.AddAndUnlockOption(AgentState, Equipment, IRandom, EquipmentItemSubRecipeSheetV2.Row, EquipmentItemOptionSheet, SkillSheet)
+- uid: Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.Item.Equipment,Libplanet.Action.IRandom,Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row,Nekoyume.TableData.EquipmentItemOptionSheet,Nekoyume.TableData.SkillSheet)
+  name: AddAndUnlockOption(Equipment, IRandom, Row, EquipmentItemOptionSheet, SkillSheet)
+  href: api/Nekoyume.Action.AuraSummon.html#Nekoyume_Action_AuraSummon_AddAndUnlockOption_Nekoyume_Model_Item_Equipment_Libplanet_Action_IRandom_Nekoyume_TableData_EquipmentItemSubRecipeSheetV2_Row_Nekoyume_TableData_EquipmentItemOptionSheet_Nekoyume_TableData_SkillSheet_
+  commentId: M:Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.Item.Equipment,Libplanet.Action.IRandom,Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row,Nekoyume.TableData.EquipmentItemOptionSheet,Nekoyume.TableData.SkillSheet)
+  fullName: Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.Item.Equipment, Libplanet.Action.IRandom, Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row, Nekoyume.TableData.EquipmentItemOptionSheet, Nekoyume.TableData.SkillSheet)
+  nameWithType: AuraSummon.AddAndUnlockOption(Equipment, IRandom, EquipmentItemSubRecipeSheetV2.Row, EquipmentItemOptionSheet, SkillSheet)
 - uid: Nekoyume.Action.AuraSummon.AddAndUnlockOption*
   name: AddAndUnlockOption
   href: api/Nekoyume.Action.AuraSummon.html#Nekoyume_Action_AuraSummon_AddAndUnlockOption_
@@ -37731,6 +37731,19 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeResult
   fullName: Nekoyume.Helper.SynthesizeResult
   nameWithType: SynthesizeResult
+- uid: Nekoyume.Helper.SynthesizeResult.IsEquipment
+  name: IsEquipment
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_IsEquipment
+  commentId: P:Nekoyume.Helper.SynthesizeResult.IsEquipment
+  fullName: Nekoyume.Helper.SynthesizeResult.IsEquipment
+  nameWithType: SynthesizeResult.IsEquipment
+- uid: Nekoyume.Helper.SynthesizeResult.IsEquipment*
+  name: IsEquipment
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_IsEquipment_
+  commentId: Overload:Nekoyume.Helper.SynthesizeResult.IsEquipment
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeResult.IsEquipment
+  nameWithType: SynthesizeResult.IsEquipment
 - uid: Nekoyume.Helper.SynthesizeResult.IsSuccess
   name: IsSuccess
   href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_IsSuccess
@@ -37743,12 +37756,42 @@ references:
   commentId: F:Nekoyume.Helper.SynthesizeResult.ItemBase
   fullName: Nekoyume.Helper.SynthesizeResult.ItemBase
   nameWithType: SynthesizeResult.ItemBase
+- uid: Nekoyume.Helper.SynthesizeResult.RecipeId
+  name: RecipeId
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_RecipeId
+  commentId: F:Nekoyume.Helper.SynthesizeResult.RecipeId
+  fullName: Nekoyume.Helper.SynthesizeResult.RecipeId
+  nameWithType: SynthesizeResult.RecipeId
+- uid: Nekoyume.Helper.SynthesizeResult.SubRecipeId
+  name: SubRecipeId
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_SubRecipeId
+  commentId: F:Nekoyume.Helper.SynthesizeResult.SubRecipeId
+  fullName: Nekoyume.Helper.SynthesizeResult.SubRecipeId
+  nameWithType: SynthesizeResult.SubRecipeId
 - uid: Nekoyume.Helper.SynthesizeSimulator
   name: SynthesizeSimulator
   href: api/Nekoyume.Helper.SynthesizeSimulator.html
   commentId: T:Nekoyume.Helper.SynthesizeSimulator
   fullName: Nekoyume.Helper.SynthesizeSimulator
   nameWithType: SynthesizeSimulator
+- uid: Nekoyume.Helper.SynthesizeSimulator.EquipmentData
+  name: SynthesizeSimulator.EquipmentData
+  href: api/Nekoyume.Helper.SynthesizeSimulator.EquipmentData.html
+  commentId: T:Nekoyume.Helper.SynthesizeSimulator.EquipmentData
+  fullName: Nekoyume.Helper.SynthesizeSimulator.EquipmentData
+  nameWithType: SynthesizeSimulator.EquipmentData
+- uid: Nekoyume.Helper.SynthesizeSimulator.EquipmentData.RecipeId
+  name: RecipeId
+  href: api/Nekoyume.Helper.SynthesizeSimulator.EquipmentData.html#Nekoyume_Helper_SynthesizeSimulator_EquipmentData_RecipeId
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.EquipmentData.RecipeId
+  fullName: Nekoyume.Helper.SynthesizeSimulator.EquipmentData.RecipeId
+  nameWithType: SynthesizeSimulator.EquipmentData.RecipeId
+- uid: Nekoyume.Helper.SynthesizeSimulator.EquipmentData.SubRecipeId
+  name: SubRecipeId
+  href: api/Nekoyume.Helper.SynthesizeSimulator.EquipmentData.html#Nekoyume_Helper_SynthesizeSimulator_EquipmentData_SubRecipeId
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.EquipmentData.SubRecipeId
+  fullName: Nekoyume.Helper.SynthesizeSimulator.EquipmentData.SubRecipeId
+  nameWithType: SynthesizeSimulator.EquipmentData.SubRecipeId
 - uid: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,System.String,System.Collections.Generic.List{Nekoyume.Model.Item.Equipment}@,System.Collections.Generic.List{Nekoyume.Model.Item.Costume}@)
   name: GetGradeDict(List<Guid>, AvatarState, long, string, out List<Equipment>, out List<Costume>)
   href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetGradeDict_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_System_String_System_Collections_Generic_List_Nekoyume_Model_Item_Equipment___System_Collections_Generic_List_Nekoyume_Model_Item_Costume___
@@ -37888,18 +37931,42 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeSimulator.InputData
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData
   nameWithType: SynthesizeSimulator.InputData
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.BlockIndex
+  name: BlockIndex
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_BlockIndex
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.BlockIndex
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.BlockIndex
+  nameWithType: SynthesizeSimulator.InputData.BlockIndex
 - uid: Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
   name: CostumeItemSheet
   href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_CostumeItemSheet
   commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
   nameWithType: SynthesizeSimulator.InputData.CostumeItemSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemOptionSheet
+  name: EquipmentItemOptionSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemOptionSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemOptionSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemOptionSheet
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemOptionSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemRecipeSheet
+  name: EquipmentItemRecipeSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemRecipeSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemRecipeSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemRecipeSheet
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemRecipeSheet
 - uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
   name: EquipmentItemSheet
   href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemSheet
   commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
   nameWithType: SynthesizeSimulator.InputData.EquipmentItemSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
+  name: EquipmentItemSubRecipeSheetV2
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemSubRecipeSheetV2
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
 - uid: Nekoyume.Helper.SynthesizeSimulator.InputData.GradeDict
   name: GradeDict
   href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_GradeDict
@@ -37912,6 +37979,12 @@ references:
   commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
   nameWithType: SynthesizeSimulator.InputData.RandomObject
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SkillSheet
+  name: SkillSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SkillSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.SkillSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.SkillSheet
+  nameWithType: SynthesizeSimulator.InputData.SkillSheet
 - uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
   name: SynthesizeSheet
   href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SynthesizeSheet
