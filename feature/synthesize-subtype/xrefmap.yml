@@ -3165,6 +3165,15 @@ references:
   fullName.vb: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: ActivatedAccountsDoesNotExistsException.ActivatedAccountsDoesNotExistsException(SerializationInfo, StreamingContext)
   nameWithType.vb: ActivatedAccountsDoesNotExistsException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.#ctor(System.String)
+  name: ActivatedAccountsDoesNotExistsException(string)
+  href: api/Nekoyume.Action.ActivatedAccountsDoesNotExistsException.html#Nekoyume_Action_ActivatedAccountsDoesNotExistsException__ctor_System_String_
+  commentId: M:Nekoyume.Action.ActivatedAccountsDoesNotExistsException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.ActivatedAccountsDoesNotExistsException(string)
+  fullName.vb: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.New(String)
+  nameWithType: ActivatedAccountsDoesNotExistsException.ActivatedAccountsDoesNotExistsException(string)
+  nameWithType.vb: ActivatedAccountsDoesNotExistsException.New(String)
 - uid: Nekoyume.Action.ActivatedAccountsDoesNotExistsException.#ctor*
   name: ActivatedAccountsDoesNotExistsException
   href: api/Nekoyume.Action.ActivatedAccountsDoesNotExistsException.html#Nekoyume_Action_ActivatedAccountsDoesNotExistsException__ctor_
@@ -3199,6 +3208,15 @@ references:
   fullName.vb: Nekoyume.Action.ActivationException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: ActivationException.ActivationException(SerializationInfo, StreamingContext)
   nameWithType.vb: ActivationException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.ActivationException.#ctor(System.String)
+  name: ActivationException(string)
+  href: api/Nekoyume.Action.ActivationException.html#Nekoyume_Action_ActivationException__ctor_System_String_
+  commentId: M:Nekoyume.Action.ActivationException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.ActivationException.ActivationException(string)
+  fullName.vb: Nekoyume.Action.ActivationException.New(String)
+  nameWithType: ActivationException.ActivationException(string)
+  nameWithType.vb: ActivationException.New(String)
 - uid: Nekoyume.Action.ActivationException.#ctor*
   name: ActivationException
   href: api/Nekoyume.Action.ActivationException.html#Nekoyume_Action_ActivationException__ctor_
@@ -3331,6 +3349,15 @@ references:
   fullName.vb: Nekoyume.Action.AdminPermissionException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: AdminPermissionException.AdminPermissionException(SerializationInfo, StreamingContext)
   nameWithType.vb: AdminPermissionException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.AdminPermissionException.#ctor(System.String)
+  name: AdminPermissionException(string)
+  href: api/Nekoyume.Action.AdminPermissionException.html#Nekoyume_Action_AdminPermissionException__ctor_System_String_
+  commentId: M:Nekoyume.Action.AdminPermissionException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.AdminPermissionException.AdminPermissionException(string)
+  fullName.vb: Nekoyume.Action.AdminPermissionException.New(String)
+  nameWithType: AdminPermissionException.AdminPermissionException(string)
+  nameWithType.vb: AdminPermissionException.New(String)
 - uid: Nekoyume.Action.AdminPermissionException.#ctor*
   name: AdminPermissionException
   href: api/Nekoyume.Action.AdminPermissionException.html#Nekoyume_Action_AdminPermissionException__ctor_
@@ -4665,6 +4692,15 @@ references:
   fullName.vb: Nekoyume.Action.BalanceDoesNotExistsException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: BalanceDoesNotExistsException.BalanceDoesNotExistsException(SerializationInfo, StreamingContext)
   nameWithType.vb: BalanceDoesNotExistsException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.BalanceDoesNotExistsException.#ctor(System.String)
+  name: BalanceDoesNotExistsException(string)
+  href: api/Nekoyume.Action.BalanceDoesNotExistsException.html#Nekoyume_Action_BalanceDoesNotExistsException__ctor_System_String_
+  commentId: M:Nekoyume.Action.BalanceDoesNotExistsException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.BalanceDoesNotExistsException.BalanceDoesNotExistsException(string)
+  fullName.vb: Nekoyume.Action.BalanceDoesNotExistsException.New(String)
+  nameWithType: BalanceDoesNotExistsException.BalanceDoesNotExistsException(string)
+  nameWithType.vb: BalanceDoesNotExistsException.New(String)
 - uid: Nekoyume.Action.BalanceDoesNotExistsException.#ctor*
   name: BalanceDoesNotExistsException
   href: api/Nekoyume.Action.BalanceDoesNotExistsException.html#Nekoyume_Action_BalanceDoesNotExistsException__ctor_
@@ -11320,15 +11356,15 @@ references:
   fullName.vb: Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.New()
   nameWithType: FixToRefundFromNonValidator.FixToRefundFromNonValidator()
   nameWithType.vb: FixToRefundFromNonValidator.New()
-- uid: Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.#ctor(System.Collections.Generic.IEnumerable{Libplanet.Crypto.Address})
-  name: FixToRefundFromNonValidator(IEnumerable<Address>)
-  href: api/Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.html#Nekoyume_Action_Guild_Migration_FixToRefundFromNonValidator__ctor_System_Collections_Generic_IEnumerable_Libplanet_Crypto_Address__
-  commentId: M:Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.#ctor(System.Collections.Generic.IEnumerable{Libplanet.Crypto.Address})
-  name.vb: New(IEnumerable(Of Address))
-  fullName: Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.FixToRefundFromNonValidator(System.Collections.Generic.IEnumerable<Libplanet.Crypto.Address>)
-  fullName.vb: Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.New(System.Collections.Generic.IEnumerable(Of Libplanet.Crypto.Address))
-  nameWithType: FixToRefundFromNonValidator.FixToRefundFromNonValidator(IEnumerable<Address>)
-  nameWithType.vb: FixToRefundFromNonValidator.New(IEnumerable(Of Address))
+- uid: Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.#ctor(System.Collections.Generic.IEnumerable{System.ValueTuple{Libplanet.Crypto.Address,System.Int32}})
+  name: FixToRefundFromNonValidator(IEnumerable<(Address, int)>)
+  href: api/Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.html#Nekoyume_Action_Guild_Migration_FixToRefundFromNonValidator__ctor_System_Collections_Generic_IEnumerable_System_ValueTuple_Libplanet_Crypto_Address_System_Int32___
+  commentId: M:Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.#ctor(System.Collections.Generic.IEnumerable{System.ValueTuple{Libplanet.Crypto.Address,System.Int32}})
+  name.vb: New(IEnumerable(Of (Address, Integer)))
+  fullName: Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.FixToRefundFromNonValidator(System.Collections.Generic.IEnumerable<(Libplanet.Crypto.Address, int)>)
+  fullName.vb: Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.New(System.Collections.Generic.IEnumerable(Of (Libplanet.Crypto.Address, Integer)))
+  nameWithType: FixToRefundFromNonValidator.FixToRefundFromNonValidator(IEnumerable<(Address, int)>)
+  nameWithType.vb: FixToRefundFromNonValidator.New(IEnumerable(Of (Address, Integer)))
 - uid: Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.#ctor*
   name: FixToRefundFromNonValidator
   href: api/Nekoyume.Action.Guild.Migration.FixToRefundFromNonValidator.html#Nekoyume_Action_Guild_Migration_FixToRefundFromNonValidator__ctor_
@@ -11899,6 +11935,76 @@ references:
   commentId: F:Nekoyume.Action.Guild.Migration.MigratePlanetariumGuild.TypeIdentifier
   fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumGuild.TypeIdentifier
   nameWithType: MigratePlanetariumGuild.TypeIdentifier
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator
+  name: MigratePlanetariumValidator
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html
+  commentId: T:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator
+  nameWithType: MigratePlanetariumValidator
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.#ctor
+  name: MigratePlanetariumValidator()
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator__ctor
+  commentId: M:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.#ctor
+  name.vb: New()
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.MigratePlanetariumValidator()
+  fullName.vb: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.New()
+  nameWithType: MigratePlanetariumValidator.MigratePlanetariumValidator()
+  nameWithType.vb: MigratePlanetariumValidator.New()
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.#ctor*
+  name: MigratePlanetariumValidator
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator__ctor_
+  commentId: Overload:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.MigratePlanetariumValidator
+  fullName.vb: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.New
+  nameWithType: MigratePlanetariumValidator.MigratePlanetariumValidator
+  nameWithType.vb: MigratePlanetariumValidator.New
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute(Libplanet.Action.IActionContext)
+  name: Execute(IActionContext)
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_Execute_Libplanet_Action_IActionContext_
+  commentId: M:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute(Libplanet.Action.IActionContext)
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute(Libplanet.Action.IActionContext)
+  nameWithType: MigratePlanetariumValidator.Execute(IActionContext)
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute*
+  name: Execute
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_Execute_
+  commentId: Overload:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute
+  isSpec: "True"
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.Execute
+  nameWithType: MigratePlanetariumValidator.Execute
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue(Bencodex.Types.IValue)
+  name: LoadPlainValue(IValue)
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_LoadPlainValue_Bencodex_Types_IValue_
+  commentId: M:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue(Bencodex.Types.IValue)
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue(Bencodex.Types.IValue)
+  nameWithType: MigratePlanetariumValidator.LoadPlainValue(IValue)
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue*
+  name: LoadPlainValue
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_LoadPlainValue_
+  commentId: Overload:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue
+  isSpec: "True"
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.LoadPlainValue
+  nameWithType: MigratePlanetariumValidator.LoadPlainValue
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  name: PlainValue
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_PlainValue
+  commentId: P:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  nameWithType: MigratePlanetariumValidator.PlainValue
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue*
+  name: PlainValue
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_PlainValue_
+  commentId: Overload:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  isSpec: "True"
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.PlainValue
+  nameWithType: MigratePlanetariumValidator.PlainValue
+- uid: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.TypeIdentifier
+  name: TypeIdentifier
+  href: api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html#Nekoyume_Action_Guild_Migration_MigratePlanetariumValidator_TypeIdentifier
+  commentId: F:Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.TypeIdentifier
+  fullName: Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.TypeIdentifier
+  nameWithType: MigratePlanetariumValidator.TypeIdentifier
 - uid: Nekoyume.Action.Guild.MoveGuild
   name: MoveGuild
   href: api/Nekoyume.Action.Guild.MoveGuild.html
@@ -13759,6 +13865,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidMinterException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidMinterException.InvalidMinterException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidMinterException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidMinterException.#ctor(System.String)
+  name: InvalidMinterException(string)
+  href: api/Nekoyume.Action.InvalidMinterException.html#Nekoyume_Action_InvalidMinterException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidMinterException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidMinterException.InvalidMinterException(string)
+  fullName.vb: Nekoyume.Action.InvalidMinterException.New(String)
+  nameWithType: InvalidMinterException.InvalidMinterException(string)
+  nameWithType.vb: InvalidMinterException.New(String)
 - uid: Nekoyume.Action.InvalidMinterException.#ctor*
   name: InvalidMinterException
   href: api/Nekoyume.Action.InvalidMinterException.html#Nekoyume_Action_InvalidMinterException__ctor_
@@ -14062,6 +14177,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidSignatureException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidSignatureException.InvalidSignatureException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidSignatureException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidSignatureException.#ctor(System.String)
+  name: InvalidSignatureException(string)
+  href: api/Nekoyume.Action.InvalidSignatureException.html#Nekoyume_Action_InvalidSignatureException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidSignatureException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidSignatureException.InvalidSignatureException(string)
+  fullName.vb: Nekoyume.Action.InvalidSignatureException.New(String)
+  nameWithType: InvalidSignatureException.InvalidSignatureException(string)
+  nameWithType.vb: InvalidSignatureException.New(String)
 - uid: Nekoyume.Action.InvalidSignatureException.#ctor*
   name: InvalidSignatureException
   href: api/Nekoyume.Action.InvalidSignatureException.html#Nekoyume_Action_InvalidSignatureException__ctor_
@@ -14314,6 +14438,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidTransferMinterException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidTransferMinterException.InvalidTransferMinterException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidTransferMinterException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidTransferMinterException.#ctor(System.String)
+  name: InvalidTransferMinterException(string)
+  href: api/Nekoyume.Action.InvalidTransferMinterException.html#Nekoyume_Action_InvalidTransferMinterException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidTransferMinterException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidTransferMinterException.InvalidTransferMinterException(string)
+  fullName.vb: Nekoyume.Action.InvalidTransferMinterException.New(String)
+  nameWithType: InvalidTransferMinterException.InvalidTransferMinterException(string)
+  nameWithType.vb: InvalidTransferMinterException.New(String)
 - uid: Nekoyume.Action.InvalidTransferMinterException.#ctor*
   name: InvalidTransferMinterException
   href: api/Nekoyume.Action.InvalidTransferMinterException.html#Nekoyume_Action_InvalidTransferMinterException__ctor_
@@ -14387,6 +14520,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidTransferRecipientException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidTransferRecipientException.InvalidTransferRecipientException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidTransferRecipientException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidTransferRecipientException.#ctor(System.String)
+  name: InvalidTransferRecipientException(string)
+  href: api/Nekoyume.Action.InvalidTransferRecipientException.html#Nekoyume_Action_InvalidTransferRecipientException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidTransferRecipientException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidTransferRecipientException.InvalidTransferRecipientException(string)
+  fullName.vb: Nekoyume.Action.InvalidTransferRecipientException.New(String)
+  nameWithType: InvalidTransferRecipientException.InvalidTransferRecipientException(string)
+  nameWithType.vb: InvalidTransferRecipientException.New(String)
 - uid: Nekoyume.Action.InvalidTransferRecipientException.#ctor*
   name: InvalidTransferRecipientException
   href: api/Nekoyume.Action.InvalidTransferRecipientException.html#Nekoyume_Action_InvalidTransferRecipientException__ctor_
@@ -14460,6 +14602,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidTransferSignerException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidTransferSignerException.InvalidTransferSignerException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidTransferSignerException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidTransferSignerException.#ctor(System.String)
+  name: InvalidTransferSignerException(string)
+  href: api/Nekoyume.Action.InvalidTransferSignerException.html#Nekoyume_Action_InvalidTransferSignerException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidTransferSignerException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidTransferSignerException.InvalidTransferSignerException(string)
+  fullName.vb: Nekoyume.Action.InvalidTransferSignerException.New(String)
+  nameWithType: InvalidTransferSignerException.InvalidTransferSignerException(string)
+  nameWithType.vb: InvalidTransferSignerException.New(String)
 - uid: Nekoyume.Action.InvalidTransferSignerException.#ctor*
   name: InvalidTransferSignerException
   href: api/Nekoyume.Action.InvalidTransferSignerException.html#Nekoyume_Action_InvalidTransferSignerException__ctor_
@@ -14546,6 +14697,15 @@ references:
   fullName.vb: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: InvalidTransferUnactivatedRecipientException.InvalidTransferUnactivatedRecipientException(SerializationInfo, StreamingContext)
   nameWithType.vb: InvalidTransferUnactivatedRecipientException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.#ctor(System.String)
+  name: InvalidTransferUnactivatedRecipientException(string)
+  href: api/Nekoyume.Action.InvalidTransferUnactivatedRecipientException.html#Nekoyume_Action_InvalidTransferUnactivatedRecipientException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidTransferUnactivatedRecipientException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.InvalidTransferUnactivatedRecipientException(string)
+  fullName.vb: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.New(String)
+  nameWithType: InvalidTransferUnactivatedRecipientException.InvalidTransferUnactivatedRecipientException(string)
+  nameWithType.vb: InvalidTransferUnactivatedRecipientException.New(String)
 - uid: Nekoyume.Action.InvalidTransferUnactivatedRecipientException.#ctor*
   name: InvalidTransferUnactivatedRecipientException
   href: api/Nekoyume.Action.InvalidTransferUnactivatedRecipientException.html#Nekoyume_Action_InvalidTransferUnactivatedRecipientException__ctor_
@@ -17931,6 +18091,15 @@ references:
   fullName.vb: Nekoyume.Action.NotEnoughFungibleAssetValueException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: NotEnoughFungibleAssetValueException.NotEnoughFungibleAssetValueException(SerializationInfo, StreamingContext)
   nameWithType.vb: NotEnoughFungibleAssetValueException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.NotEnoughFungibleAssetValueException.#ctor(System.String)
+  name: NotEnoughFungibleAssetValueException(string)
+  href: api/Nekoyume.Action.NotEnoughFungibleAssetValueException.html#Nekoyume_Action_NotEnoughFungibleAssetValueException__ctor_System_String_
+  commentId: M:Nekoyume.Action.NotEnoughFungibleAssetValueException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.NotEnoughFungibleAssetValueException.NotEnoughFungibleAssetValueException(string)
+  fullName.vb: Nekoyume.Action.NotEnoughFungibleAssetValueException.New(String)
+  nameWithType: NotEnoughFungibleAssetValueException.NotEnoughFungibleAssetValueException(string)
+  nameWithType.vb: NotEnoughFungibleAssetValueException.New(String)
 - uid: Nekoyume.Action.NotEnoughFungibleAssetValueException.#ctor(System.String,System.Exception)
   name: NotEnoughFungibleAssetValueException(string, Exception)
   href: api/Nekoyume.Action.NotEnoughFungibleAssetValueException.html#Nekoyume_Action_NotEnoughFungibleAssetValueException__ctor_System_String_System_Exception_
@@ -18139,6 +18308,15 @@ references:
   fullName.vb: Nekoyume.Action.NotEnoughRankException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: NotEnoughRankException.NotEnoughRankException(SerializationInfo, StreamingContext)
   nameWithType.vb: NotEnoughRankException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.NotEnoughRankException.#ctor(System.String)
+  name: NotEnoughRankException(string)
+  href: api/Nekoyume.Action.NotEnoughRankException.html#Nekoyume_Action_NotEnoughRankException__ctor_System_String_
+  commentId: M:Nekoyume.Action.NotEnoughRankException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.NotEnoughRankException.NotEnoughRankException(string)
+  fullName.vb: Nekoyume.Action.NotEnoughRankException.New(String)
+  nameWithType: NotEnoughRankException.NotEnoughRankException(string)
+  nameWithType.vb: NotEnoughRankException.New(String)
 - uid: Nekoyume.Action.NotEnoughRankException.#ctor*
   name: NotEnoughRankException
   href: api/Nekoyume.Action.NotEnoughRankException.html#Nekoyume_Action_NotEnoughRankException__ctor_
@@ -18350,6 +18528,15 @@ references:
   fullName.vb: Nekoyume.Action.PendingActivationDoesNotExistsException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: PendingActivationDoesNotExistsException.PendingActivationDoesNotExistsException(SerializationInfo, StreamingContext)
   nameWithType.vb: PendingActivationDoesNotExistsException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.PendingActivationDoesNotExistsException.#ctor(System.String)
+  name: PendingActivationDoesNotExistsException(string)
+  href: api/Nekoyume.Action.PendingActivationDoesNotExistsException.html#Nekoyume_Action_PendingActivationDoesNotExistsException__ctor_System_String_
+  commentId: M:Nekoyume.Action.PendingActivationDoesNotExistsException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.PendingActivationDoesNotExistsException.PendingActivationDoesNotExistsException(string)
+  fullName.vb: Nekoyume.Action.PendingActivationDoesNotExistsException.New(String)
+  nameWithType: PendingActivationDoesNotExistsException.PendingActivationDoesNotExistsException(string)
+  nameWithType.vb: PendingActivationDoesNotExistsException.New(String)
 - uid: Nekoyume.Action.PendingActivationDoesNotExistsException.#ctor*
   name: PendingActivationDoesNotExistsException
   href: api/Nekoyume.Action.PendingActivationDoesNotExistsException.html#Nekoyume_Action_PendingActivationDoesNotExistsException__ctor_
@@ -18410,6 +18597,15 @@ references:
   fullName.vb: Nekoyume.Action.PermissionDeniedException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: PermissionDeniedException.PermissionDeniedException(SerializationInfo, StreamingContext)
   nameWithType.vb: PermissionDeniedException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.PermissionDeniedException.#ctor(System.String)
+  name: PermissionDeniedException(string)
+  href: api/Nekoyume.Action.PermissionDeniedException.html#Nekoyume_Action_PermissionDeniedException__ctor_System_String_
+  commentId: M:Nekoyume.Action.PermissionDeniedException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.PermissionDeniedException.PermissionDeniedException(string)
+  fullName.vb: Nekoyume.Action.PermissionDeniedException.New(String)
+  nameWithType: PermissionDeniedException.PermissionDeniedException(string)
+  nameWithType.vb: PermissionDeniedException.New(String)
 - uid: Nekoyume.Action.PermissionDeniedException.#ctor*
   name: PermissionDeniedException
   href: api/Nekoyume.Action.PermissionDeniedException.html#Nekoyume_Action_PermissionDeniedException__ctor_
@@ -18610,6 +18806,15 @@ references:
   fullName.vb: Nekoyume.Action.PolicyExpiredException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: PolicyExpiredException.PolicyExpiredException(SerializationInfo, StreamingContext)
   nameWithType.vb: PolicyExpiredException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.PolicyExpiredException.#ctor(System.String)
+  name: PolicyExpiredException(string)
+  href: api/Nekoyume.Action.PolicyExpiredException.html#Nekoyume_Action_PolicyExpiredException__ctor_System_String_
+  commentId: M:Nekoyume.Action.PolicyExpiredException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.PolicyExpiredException.PolicyExpiredException(string)
+  fullName.vb: Nekoyume.Action.PolicyExpiredException.New(String)
+  nameWithType: PolicyExpiredException.PolicyExpiredException(string)
+  nameWithType.vb: PolicyExpiredException.New(String)
 - uid: Nekoyume.Action.PolicyExpiredException.#ctor*
   name: PolicyExpiredException
   href: api/Nekoyume.Action.PolicyExpiredException.html#Nekoyume_Action_PolicyExpiredException__ctor_
@@ -19625,6 +19830,15 @@ references:
   fullName.vb: Nekoyume.Action.RankingExceededException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: RankingExceededException.RankingExceededException(SerializationInfo, StreamingContext)
   nameWithType.vb: RankingExceededException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.RankingExceededException.#ctor(System.String)
+  name: RankingExceededException(string)
+  href: api/Nekoyume.Action.RankingExceededException.html#Nekoyume_Action_RankingExceededException__ctor_System_String_
+  commentId: M:Nekoyume.Action.RankingExceededException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.RankingExceededException.RankingExceededException(string)
+  fullName.vb: Nekoyume.Action.RankingExceededException.New(String)
+  nameWithType: RankingExceededException.RankingExceededException(string)
+  nameWithType.vb: RankingExceededException.New(String)
 - uid: Nekoyume.Action.RankingExceededException.#ctor*
   name: RankingExceededException
   href: api/Nekoyume.Action.RankingExceededException.html#Nekoyume_Action_RankingExceededException__ctor_
@@ -22295,6 +22509,12 @@ references:
   commentId: F:Nekoyume.Action.Synthesize.AvatarAddress
   fullName: Nekoyume.Action.Synthesize.AvatarAddress
   nameWithType: Synthesize.AvatarAddress
+- uid: Nekoyume.Action.Synthesize.ChargeAp
+  name: ChargeAp
+  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_ChargeAp
+  commentId: F:Nekoyume.Action.Synthesize.ChargeAp
+  fullName: Nekoyume.Action.Synthesize.ChargeAp
+  nameWithType: Synthesize.ChargeAp
 - uid: Nekoyume.Action.Synthesize.Execute(Libplanet.Action.IActionContext)
   name: Execute(IActionContext)
   href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_Execute_Libplanet_Action_IActionContext_
@@ -22367,6 +22587,15 @@ references:
   fullName.vb: Nekoyume.Action.TotalSupplyDoesNotExistException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: TotalSupplyDoesNotExistException.TotalSupplyDoesNotExistException(SerializationInfo, StreamingContext)
   nameWithType.vb: TotalSupplyDoesNotExistException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.TotalSupplyDoesNotExistException.#ctor(System.String)
+  name: TotalSupplyDoesNotExistException(string)
+  href: api/Nekoyume.Action.TotalSupplyDoesNotExistException.html#Nekoyume_Action_TotalSupplyDoesNotExistException__ctor_System_String_
+  commentId: M:Nekoyume.Action.TotalSupplyDoesNotExistException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.TotalSupplyDoesNotExistException.TotalSupplyDoesNotExistException(string)
+  fullName.vb: Nekoyume.Action.TotalSupplyDoesNotExistException.New(String)
+  nameWithType: TotalSupplyDoesNotExistException.TotalSupplyDoesNotExistException(string)
+  nameWithType.vb: TotalSupplyDoesNotExistException.New(String)
 - uid: Nekoyume.Action.TotalSupplyDoesNotExistException.#ctor*
   name: TotalSupplyDoesNotExistException
   href: api/Nekoyume.Action.TotalSupplyDoesNotExistException.html#Nekoyume_Action_TotalSupplyDoesNotExistException__ctor_
@@ -27128,6 +27357,28 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Battle.CriticalHelper.GetCriticalDamageForArena
   nameWithType: CriticalHelper.GetCriticalDamageForArena
+- uid: Nekoyume.Battle.DamageHelper
+  name: DamageHelper
+  href: api/Nekoyume.Battle.DamageHelper.html
+  commentId: T:Nekoyume.Battle.DamageHelper
+  fullName: Nekoyume.Battle.DamageHelper
+  nameWithType: DamageHelper
+- uid: Nekoyume.Battle.DamageHelper.GetDamageReductionRate(System.Int64)
+  name: GetDamageReductionRate(long)
+  href: api/Nekoyume.Battle.DamageHelper.html#Nekoyume_Battle_DamageHelper_GetDamageReductionRate_System_Int64_
+  commentId: M:Nekoyume.Battle.DamageHelper.GetDamageReductionRate(System.Int64)
+  name.vb: GetDamageReductionRate(Long)
+  fullName: Nekoyume.Battle.DamageHelper.GetDamageReductionRate(long)
+  fullName.vb: Nekoyume.Battle.DamageHelper.GetDamageReductionRate(Long)
+  nameWithType: DamageHelper.GetDamageReductionRate(long)
+  nameWithType.vb: DamageHelper.GetDamageReductionRate(Long)
+- uid: Nekoyume.Battle.DamageHelper.GetDamageReductionRate*
+  name: GetDamageReductionRate
+  href: api/Nekoyume.Battle.DamageHelper.html#Nekoyume_Battle_DamageHelper_GetDamageReductionRate_
+  commentId: Overload:Nekoyume.Battle.DamageHelper.GetDamageReductionRate
+  isSpec: "True"
+  fullName: Nekoyume.Battle.DamageHelper.GetDamageReductionRate
+  nameWithType: DamageHelper.GetDamageReductionRate
 - uid: Nekoyume.Battle.EnemyPlayerDigest
   name: EnemyPlayerDigest
   href: api/Nekoyume.Battle.EnemyPlayerDigest.html
@@ -27536,6 +27787,15 @@ references:
   fullName.vb: Nekoyume.Battle.InvalidCountException.New()
   nameWithType: InvalidCountException.InvalidCountException()
   nameWithType.vb: InvalidCountException.New()
+- uid: Nekoyume.Battle.InvalidCountException.#ctor(System.String)
+  name: InvalidCountException(string)
+  href: api/Nekoyume.Battle.InvalidCountException.html#Nekoyume_Battle_InvalidCountException__ctor_System_String_
+  commentId: M:Nekoyume.Battle.InvalidCountException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Battle.InvalidCountException.InvalidCountException(string)
+  fullName.vb: Nekoyume.Battle.InvalidCountException.New(String)
+  nameWithType: InvalidCountException.InvalidCountException(string)
+  nameWithType.vb: InvalidCountException.New(String)
 - uid: Nekoyume.Battle.InvalidCountException.#ctor*
   name: InvalidCountException
   href: api/Nekoyume.Battle.InvalidCountException.html#Nekoyume_Battle_InvalidCountException__ctor_
@@ -29566,19 +29826,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.DelegateeMetadata.AddDelegatedFAV
   nameWithType: DelegateeMetadata.AddDelegatedFAV
-- uid: Nekoyume.Delegation.DelegateeMetadata.AddDelegator(Libplanet.Crypto.Address)
-  name: AddDelegator(Address)
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_AddDelegator_Libplanet_Crypto_Address_
-  commentId: M:Nekoyume.Delegation.DelegateeMetadata.AddDelegator(Libplanet.Crypto.Address)
-  fullName: Nekoyume.Delegation.DelegateeMetadata.AddDelegator(Libplanet.Crypto.Address)
-  nameWithType: DelegateeMetadata.AddDelegator(Address)
-- uid: Nekoyume.Delegation.DelegateeMetadata.AddDelegator*
-  name: AddDelegator
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_AddDelegator_
-  commentId: Overload:Nekoyume.Delegation.DelegateeMetadata.AddDelegator
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.DelegateeMetadata.AddDelegator
-  nameWithType: DelegateeMetadata.AddDelegator
 - uid: Nekoyume.Delegation.DelegateeMetadata.AddShare(System.Numerics.BigInteger)
   name: AddShare(BigInteger)
   href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_AddShare_System_Numerics_BigInteger_
@@ -29709,19 +29956,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.DelegateeMetadata.DelegationPoolAddress
   nameWithType: DelegateeMetadata.DelegationPoolAddress
-- uid: Nekoyume.Delegation.DelegateeMetadata.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_Delegators
-  commentId: P:Nekoyume.Delegation.DelegateeMetadata.Delegators
-  fullName: Nekoyume.Delegation.DelegateeMetadata.Delegators
-  nameWithType: DelegateeMetadata.Delegators
-- uid: Nekoyume.Delegation.DelegateeMetadata.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_Delegators_
-  commentId: Overload:Nekoyume.Delegation.DelegateeMetadata.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.DelegateeMetadata.Delegators
-  nameWithType: DelegateeMetadata.Delegators
 - uid: Nekoyume.Delegation.DelegateeMetadata.Equals(Nekoyume.Delegation.IDelegateeMetadata)
   name: Equals(IDelegateeMetadata?)
   href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_Equals_Nekoyume_Delegation_IDelegateeMetadata_
@@ -29867,19 +30101,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegatedFAV
   nameWithType: DelegateeMetadata.RemoveDelegatedFAV
-- uid: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator(Libplanet.Crypto.Address)
-  name: RemoveDelegator(Address)
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_RemoveDelegator_Libplanet_Crypto_Address_
-  commentId: M:Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator(Libplanet.Crypto.Address)
-  fullName: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator(Libplanet.Crypto.Address)
-  nameWithType: DelegateeMetadata.RemoveDelegator(Address)
-- uid: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator*
-  name: RemoveDelegator
-  href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_RemoveDelegator_
-  commentId: Overload:Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.DelegateeMetadata.RemoveDelegator
-  nameWithType: DelegateeMetadata.RemoveDelegator
 - uid: Nekoyume.Delegation.DelegateeMetadata.RemoveShare(System.Numerics.BigInteger)
   name: RemoveShare(BigInteger)
   href: api/Nekoyume.Delegation.DelegateeMetadata.html#Nekoyume_Delegation_DelegateeMetadata_RemoveShare_System_Numerics_BigInteger_
@@ -30292,23 +30513,6 @@ references:
   fullName.vb: Nekoyume.Delegation.Delegatee(Of T, TSelf).DelegationPoolAddress
   nameWithType: Delegatee<T, TSelf>.DelegationPoolAddress
   nameWithType.vb: Delegatee(Of T, TSelf).DelegationPoolAddress
-- uid: Nekoyume.Delegation.Delegatee`2.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.Delegatee-2.html#Nekoyume_Delegation_Delegatee_2_Delegators
-  commentId: P:Nekoyume.Delegation.Delegatee`2.Delegators
-  fullName: Nekoyume.Delegation.Delegatee<T, TSelf>.Delegators
-  fullName.vb: Nekoyume.Delegation.Delegatee(Of T, TSelf).Delegators
-  nameWithType: Delegatee<T, TSelf>.Delegators
-  nameWithType.vb: Delegatee(Of T, TSelf).Delegators
-- uid: Nekoyume.Delegation.Delegatee`2.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.Delegatee-2.html#Nekoyume_Delegation_Delegatee_2_Delegators_
-  commentId: Overload:Nekoyume.Delegation.Delegatee`2.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.Delegatee<T, TSelf>.Delegators
-  fullName.vb: Nekoyume.Delegation.Delegatee(Of T, TSelf).Delegators
-  nameWithType: Delegatee<T, TSelf>.Delegators
-  nameWithType.vb: Delegatee(Of T, TSelf).Delegators
 - uid: Nekoyume.Delegation.Delegatee`2.DistributeReward(Nekoyume.Delegation.IDelegator,System.Int64)
   name: DistributeReward(IDelegator, long)
   href: api/Nekoyume.Delegation.Delegatee-2.html#Nekoyume_Delegation_Delegatee_2_DistributeReward_Nekoyume_Delegation_IDelegator_System_Int64_
@@ -32048,19 +32252,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.IDelegatee.DelegationPoolAddress
   nameWithType: IDelegatee.DelegationPoolAddress
-- uid: Nekoyume.Delegation.IDelegatee.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.IDelegatee.html#Nekoyume_Delegation_IDelegatee_Delegators
-  commentId: P:Nekoyume.Delegation.IDelegatee.Delegators
-  fullName: Nekoyume.Delegation.IDelegatee.Delegators
-  nameWithType: IDelegatee.Delegators
-- uid: Nekoyume.Delegation.IDelegatee.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.IDelegatee.html#Nekoyume_Delegation_IDelegatee_Delegators_
-  commentId: Overload:Nekoyume.Delegation.IDelegatee.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.IDelegatee.Delegators
-  nameWithType: IDelegatee.Delegators
 - uid: Nekoyume.Delegation.IDelegatee.DistributeReward(Nekoyume.Delegation.IDelegator,System.Int64)
   name: DistributeReward(IDelegator, long)
   href: api/Nekoyume.Delegation.IDelegatee.html#Nekoyume_Delegation_IDelegatee_DistributeReward_Nekoyume_Delegation_IDelegator_System_Int64_
@@ -32436,19 +32627,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.IDelegateeMetadata.DelegationPoolAddress
   nameWithType: IDelegateeMetadata.DelegationPoolAddress
-- uid: Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.IDelegateeMetadata.html#Nekoyume_Delegation_IDelegateeMetadata_Delegators
-  commentId: P:Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  fullName: Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  nameWithType: IDelegateeMetadata.Delegators
-- uid: Nekoyume.Delegation.IDelegateeMetadata.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.IDelegateeMetadata.html#Nekoyume_Delegation_IDelegateeMetadata_Delegators_
-  commentId: Overload:Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.IDelegateeMetadata.Delegators
-  nameWithType: IDelegateeMetadata.Delegators
 - uid: Nekoyume.Delegation.IDelegateeMetadata.FAVFromShare(System.Numerics.BigInteger)
   name: FAVFromShare(BigInteger)
   href: api/Nekoyume.Delegation.IDelegateeMetadata.html#Nekoyume_Delegation_IDelegateeMetadata_FAVFromShare_System_Numerics_BigInteger_
@@ -33353,33 +33531,33 @@ references:
   fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Bencodex.Types.List)
   nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, List)
   nameWithType.vb: LumpSumRewardsRecord.New(Address, List)
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency})
-  name: LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<Currency>)
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Immutable_ImmutableSortedSet_Libplanet_Crypto_Address__System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_Currency__
-  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency})
-  name.vb: New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of Currency))
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet<Libplanet.Crypto.Address>, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.Currency>)
-  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet(Of Libplanet.Crypto.Address), System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.Currency))
-  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<Currency>)
-  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of Currency))
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency},System.Nullable{System.Int64})
-  name: LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<Currency>, long?)
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Immutable_ImmutableSortedSet_Libplanet_Crypto_Address__System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_Currency__System_Nullable_System_Int64__
-  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency},System.Nullable{System.Int64})
-  name.vb: New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of Currency), Long?)
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet<Libplanet.Crypto.Address>, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.Currency>, long?)
-  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet(Of Libplanet.Crypto.Address), System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.Currency), Long?)
-  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<Currency>, long?)
-  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of Currency), Long?)
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.FungibleAssetValue},System.Nullable{System.Int64})
-  name: LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<FungibleAssetValue>, long?)
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Immutable_ImmutableSortedSet_Libplanet_Crypto_Address__System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_FungibleAssetValue__System_Nullable_System_Int64__
-  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Immutable.ImmutableSortedSet{Libplanet.Crypto.Address},System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.FungibleAssetValue},System.Nullable{System.Int64})
-  name.vb: New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of FungibleAssetValue), Long?)
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet<Libplanet.Crypto.Address>, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.FungibleAssetValue>, long?)
-  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Immutable.ImmutableSortedSet(Of Libplanet.Crypto.Address), System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.FungibleAssetValue), Long?)
-  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, ImmutableSortedSet<Address>, IEnumerable<FungibleAssetValue>, long?)
-  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, ImmutableSortedSet(Of Address), IEnumerable(Of FungibleAssetValue), Long?)
+- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency})
+  name: LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<Currency>)
+  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_Currency__
+  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency})
+  name.vb: New(Address, Long, BigInteger, IEnumerable(Of Currency))
+  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.Currency>)
+  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.Currency))
+  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<Currency>)
+  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, IEnumerable(Of Currency))
+- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency},System.Nullable{System.Int64})
+  name: LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<Currency>, long?)
+  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_Currency__System_Nullable_System_Int64__
+  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.Currency},System.Nullable{System.Int64})
+  name.vb: New(Address, Long, BigInteger, IEnumerable(Of Currency), Long?)
+  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.Currency>, long?)
+  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.Currency), Long?)
+  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<Currency>, long?)
+  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, IEnumerable(Of Currency), Long?)
+- uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.FungibleAssetValue},System.Nullable{System.Int64})
+  name: LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<FungibleAssetValue>, long?)
+  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_Libplanet_Crypto_Address_System_Int64_System_Numerics_BigInteger_System_Collections_Generic_IEnumerable_Libplanet_Types_Assets_FungibleAssetValue__System_Nullable_System_Int64__
+  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.#ctor(Libplanet.Crypto.Address,System.Int64,System.Numerics.BigInteger,System.Collections.Generic.IEnumerable{Libplanet.Types.Assets.FungibleAssetValue},System.Nullable{System.Int64})
+  name.vb: New(Address, Long, BigInteger, IEnumerable(Of FungibleAssetValue), Long?)
+  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.LumpSumRewardsRecord(Libplanet.Crypto.Address, long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable<Libplanet.Types.Assets.FungibleAssetValue>, long?)
+  fullName.vb: Nekoyume.Delegation.LumpSumRewardsRecord.New(Libplanet.Crypto.Address, Long, System.Numerics.BigInteger, System.Collections.Generic.IEnumerable(Of Libplanet.Types.Assets.FungibleAssetValue), Long?)
+  nameWithType: LumpSumRewardsRecord.LumpSumRewardsRecord(Address, long, BigInteger, IEnumerable<FungibleAssetValue>, long?)
+  nameWithType.vb: LumpSumRewardsRecord.New(Address, Long, BigInteger, IEnumerable(Of FungibleAssetValue), Long?)
 - uid: Nekoyume.Delegation.LumpSumRewardsRecord.#ctor*
   name: LumpSumRewardsRecord
   href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord__ctor_
@@ -33444,19 +33622,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.LumpSumRewardsRecord.Bencoded
   nameWithType: LumpSumRewardsRecord.Bencoded
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  name: Delegators
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_Delegators
-  commentId: P:Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  nameWithType: LumpSumRewardsRecord.Delegators
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.Delegators*
-  name: Delegators
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_Delegators_
-  commentId: Overload:Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.Delegators
-  nameWithType: LumpSumRewardsRecord.Delegators
 - uid: Nekoyume.Delegation.LumpSumRewardsRecord.Equals(Nekoyume.Delegation.LumpSumRewardsRecord)
   name: Equals(LumpSumRewardsRecord?)
   href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_Equals_Nekoyume_Delegation_LumpSumRewardsRecord_
@@ -33534,19 +33699,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Delegation.LumpSumRewardsRecord.MoveAddress
   nameWithType: LumpSumRewardsRecord.MoveAddress
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator(Libplanet.Crypto.Address)
-  name: RemoveDelegator(Address)
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_RemoveDelegator_Libplanet_Crypto_Address_
-  commentId: M:Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator(Libplanet.Crypto.Address)
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator(Libplanet.Crypto.Address)
-  nameWithType: LumpSumRewardsRecord.RemoveDelegator(Address)
-- uid: Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator*
-  name: RemoveDelegator
-  href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_RemoveDelegator_
-  commentId: Overload:Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator
-  isSpec: "True"
-  fullName: Nekoyume.Delegation.LumpSumRewardsRecord.RemoveDelegator
-  nameWithType: LumpSumRewardsRecord.RemoveDelegator
 - uid: Nekoyume.Delegation.LumpSumRewardsRecord.RewardsDuringPeriod(System.Numerics.BigInteger)
   name: RewardsDuringPeriod(BigInteger)
   href: api/Nekoyume.Delegation.LumpSumRewardsRecord.html#Nekoyume_Delegation_LumpSumRewardsRecord_RewardsDuringPeriod_System_Numerics_BigInteger_
@@ -35194,6 +35346,15 @@ references:
   commentId: T:Nekoyume.Exceptions.PetCostNotFoundException
   fullName: Nekoyume.Exceptions.PetCostNotFoundException
   nameWithType: PetCostNotFoundException
+- uid: Nekoyume.Exceptions.PetCostNotFoundException.#ctor(System.String)
+  name: PetCostNotFoundException(string)
+  href: api/Nekoyume.Exceptions.PetCostNotFoundException.html#Nekoyume_Exceptions_PetCostNotFoundException__ctor_System_String_
+  commentId: M:Nekoyume.Exceptions.PetCostNotFoundException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Exceptions.PetCostNotFoundException.PetCostNotFoundException(string)
+  fullName.vb: Nekoyume.Exceptions.PetCostNotFoundException.New(String)
+  nameWithType: PetCostNotFoundException.PetCostNotFoundException(string)
+  nameWithType.vb: PetCostNotFoundException.New(String)
 - uid: Nekoyume.Exceptions.PetCostNotFoundException.#ctor(System.String,System.Exception)
   name: PetCostNotFoundException(string, Exception)
   href: api/Nekoyume.Exceptions.PetCostNotFoundException.html#Nekoyume_Exceptions_PetCostNotFoundException__ctor_System_String_System_Exception_
@@ -36388,6 +36549,12 @@ references:
   commentId: T:Nekoyume.GameConfig
   fullName: Nekoyume.GameConfig
   nameWithType: GameConfig
+- uid: Nekoyume.GameConfig.ActionCostAP
+  name: ActionCostAP
+  href: api/Nekoyume.GameConfig.html#Nekoyume_GameConfig_ActionCostAP
+  commentId: F:Nekoyume.GameConfig.ActionCostAP
+  fullName: Nekoyume.GameConfig.ActionCostAP
+  nameWithType: GameConfig.ActionCostAP
 - uid: Nekoyume.GameConfig.ArenaChallengeCountMax
   name: ArenaChallengeCountMax
   href: api/Nekoyume.GameConfig.html#Nekoyume_GameConfig_ArenaChallengeCountMax
@@ -37582,6 +37749,22 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeSimulator
   fullName: Nekoyume.Helper.SynthesizeSimulator
   nameWithType: SynthesizeSimulator
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,System.String,System.Collections.Generic.List{Nekoyume.Model.Item.Equipment}@,System.Collections.Generic.List{Nekoyume.Model.Item.Costume}@)
+  name: GetGradeDict(List<Guid>, AvatarState, long, string, out List<Equipment>, out List<Costume>)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetGradeDict_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_System_String_System_Collections_Generic_List_Nekoyume_Model_Item_Equipment___System_Collections_Generic_List_Nekoyume_Model_Item_Costume___
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,System.String,System.Collections.Generic.List{Nekoyume.Model.Item.Equipment}@,System.Collections.Generic.List{Nekoyume.Model.Item.Costume}@)
+  name.vb: GetGradeDict(List(Of Guid), AvatarState, Long, String, List(Of Equipment), List(Of Costume))
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, long, string, out System.Collections.Generic.List<Nekoyume.Model.Item.Equipment>, out System.Collections.Generic.List<Nekoyume.Model.Item.Costume>)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Long, String, System.Collections.Generic.List(Of Nekoyume.Model.Item.Equipment), System.Collections.Generic.List(Of Nekoyume.Model.Item.Costume))
+  nameWithType: SynthesizeSimulator.GetGradeDict(List<Guid>, AvatarState, long, string, out List<Equipment>, out List<Costume>)
+  nameWithType.vb: SynthesizeSimulator.GetGradeDict(List(Of Guid), AvatarState, Long, String, List(Of Equipment), List(Of Costume))
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict*
+  name: GetGradeDict
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetGradeDict_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetGradeDict
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict
+  nameWithType: SynthesizeSimulator.GetGradeDict
 - uid: Nekoyume.Helper.SynthesizeSimulator.GetItemGuid(Nekoyume.Model.Item.ItemBase)
   name: GetItemGuid(ItemBase)
   href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetItemGuid_Nekoyume_Model_Item_ItemBase_
@@ -37705,6 +37888,18 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeSimulator.InputData
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData
   nameWithType: SynthesizeSimulator.InputData
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  name: CostumeItemSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_CostumeItemSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  nameWithType: SynthesizeSimulator.InputData.CostumeItemSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  name: EquipmentItemSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemSheet
 - uid: Nekoyume.Helper.SynthesizeSimulator.InputData.GradeDict
   name: GradeDict
   href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_GradeDict
@@ -37717,12 +37912,18 @@ references:
   commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
   nameWithType: SynthesizeSimulator.InputData.RandomObject
-- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.Sheets
-  name: Sheets
-  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_Sheets
-  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.Sheets
-  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.Sheets
-  nameWithType: SynthesizeSimulator.InputData.Sheets
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  name: SynthesizeSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SynthesizeSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  nameWithType: SynthesizeSimulator.InputData.SynthesizeSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  name: SynthesizeWeightSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SynthesizeWeightSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  nameWithType: SynthesizeSimulator.InputData.SynthesizeWeightSheet
 - uid: Nekoyume.Helper.SynthesizeSimulator.Simulate(Nekoyume.Helper.SynthesizeSimulator.InputData)
   name: Simulate(InputData)
   href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_Simulate_Nekoyume_Helper_SynthesizeSimulator_InputData_
@@ -47421,6 +47622,22 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.Guild.GuildDelegatee.Equals
   nameWithType: GuildDelegatee.Equals
+- uid: Nekoyume.Model.Guild.GuildDelegatee.Slash(System.Numerics.BigInteger,System.Int64,System.Int64)
+  name: Slash(BigInteger, long, long)
+  href: api/Nekoyume.Model.Guild.GuildDelegatee.html#Nekoyume_Model_Guild_GuildDelegatee_Slash_System_Numerics_BigInteger_System_Int64_System_Int64_
+  commentId: M:Nekoyume.Model.Guild.GuildDelegatee.Slash(System.Numerics.BigInteger,System.Int64,System.Int64)
+  name.vb: Slash(BigInteger, Long, Long)
+  fullName: Nekoyume.Model.Guild.GuildDelegatee.Slash(System.Numerics.BigInteger, long, long)
+  fullName.vb: Nekoyume.Model.Guild.GuildDelegatee.Slash(System.Numerics.BigInteger, Long, Long)
+  nameWithType: GuildDelegatee.Slash(BigInteger, long, long)
+  nameWithType.vb: GuildDelegatee.Slash(BigInteger, Long, Long)
+- uid: Nekoyume.Model.Guild.GuildDelegatee.Slash*
+  name: Slash
+  href: api/Nekoyume.Model.Guild.GuildDelegatee.html#Nekoyume_Model_Guild_GuildDelegatee_Slash_
+  commentId: Overload:Nekoyume.Model.Guild.GuildDelegatee.Slash
+  isSpec: "True"
+  fullName: Nekoyume.Model.Guild.GuildDelegatee.Slash
+  nameWithType: GuildDelegatee.Slash
 - uid: Nekoyume.Model.Guild.GuildDelegator
   name: GuildDelegator
   href: api/Nekoyume.Model.Guild.GuildDelegator.html
@@ -78737,6 +78954,19 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.BuffLimitSheet.Row.Set
   nameWithType: BuffLimitSheet.Row.Set
+- uid: Nekoyume.TableData.BuffLimitSheet.Row.StatModifier
+  name: StatModifier
+  href: api/Nekoyume.TableData.BuffLimitSheet.Row.html#Nekoyume_TableData_BuffLimitSheet_Row_StatModifier
+  commentId: P:Nekoyume.TableData.BuffLimitSheet.Row.StatModifier
+  fullName: Nekoyume.TableData.BuffLimitSheet.Row.StatModifier
+  nameWithType: BuffLimitSheet.Row.StatModifier
+- uid: Nekoyume.TableData.BuffLimitSheet.Row.StatModifier*
+  name: StatModifier
+  href: api/Nekoyume.TableData.BuffLimitSheet.Row.html#Nekoyume_TableData_BuffLimitSheet_Row_StatModifier_
+  commentId: Overload:Nekoyume.TableData.BuffLimitSheet.Row.StatModifier
+  isSpec: "True"
+  fullName: Nekoyume.TableData.BuffLimitSheet.Row.StatModifier
+  nameWithType: BuffLimitSheet.Row.StatModifier
 - uid: Nekoyume.TableData.BuffLimitSheet.Row.Value
   name: Value
   href: api/Nekoyume.TableData.BuffLimitSheet.Row.html#Nekoyume_TableData_BuffLimitSheet_Row_Value
@@ -88642,6 +88872,15 @@ references:
   fullName.vb: Nekoyume.TableData.SheetRowNotFoundException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
   nameWithType: SheetRowNotFoundException.SheetRowNotFoundException(SerializationInfo, StreamingContext)
   nameWithType.vb: SheetRowNotFoundException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.TableData.SheetRowNotFoundException.#ctor(System.String)
+  name: SheetRowNotFoundException(string)
+  href: api/Nekoyume.TableData.SheetRowNotFoundException.html#Nekoyume_TableData_SheetRowNotFoundException__ctor_System_String_
+  commentId: M:Nekoyume.TableData.SheetRowNotFoundException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.TableData.SheetRowNotFoundException.SheetRowNotFoundException(string)
+  fullName.vb: Nekoyume.TableData.SheetRowNotFoundException.New(String)
+  nameWithType: SheetRowNotFoundException.SheetRowNotFoundException(string)
+  nameWithType.vb: SheetRowNotFoundException.New(String)
 - uid: Nekoyume.TableData.SheetRowNotFoundException.#ctor(System.String,System.Int32)
   name: SheetRowNotFoundException(string, int)
   href: api/Nekoyume.TableData.SheetRowNotFoundException.html#Nekoyume_TableData_SheetRowNotFoundException__ctor_System_String_System_Int32_
@@ -92328,6 +92567,18 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeSheet.Row.Set
   nameWithType: SynthesizeSheet.Row.Set
+- uid: Nekoyume.TableData.SynthesizeSheet.SucceedRateMax
+  name: SucceedRateMax
+  href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_SucceedRateMax
+  commentId: F:Nekoyume.TableData.SynthesizeSheet.SucceedRateMax
+  fullName: Nekoyume.TableData.SynthesizeSheet.SucceedRateMax
+  nameWithType: SynthesizeSheet.SucceedRateMax
+- uid: Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
+  name: SucceedRateMin
+  href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_SucceedRateMin
+  commentId: F:Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
+  fullName: Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
+  nameWithType: SynthesizeSheet.SucceedRateMin
 - uid: Nekoyume.TableData.SynthesizeSheet.SynthesizeData
   name: SynthesizeSheet.SynthesizeData
   href: api/Nekoyume.TableData.SynthesizeSheet.SynthesizeData.html
@@ -92387,6 +92638,12 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeWeightSheet.AddRow
   nameWithType: SynthesizeWeightSheet.AddRow
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.DefaultWeight
+  name: DefaultWeight
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.html#Nekoyume_TableData_SynthesizeWeightSheet_DefaultWeight
+  commentId: F:Nekoyume.TableData.SynthesizeWeightSheet.DefaultWeight
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.DefaultWeight
+  nameWithType: SynthesizeWeightSheet.DefaultWeight
 - uid: Nekoyume.TableData.SynthesizeWeightSheet.Row
   name: SynthesizeWeightSheet.Row
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html
@@ -92511,31 +92768,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.TableExtensions.ParseDecimal
   nameWithType: TableExtensions.ParseDecimal
-- uid: Nekoyume.TableData.TableExtensions.ParseFloat(System.String)
-  name: ParseFloat(string)
-  href: api/Nekoyume.TableData.TableExtensions.html#Nekoyume_TableData_TableExtensions_ParseFloat_System_String_
-  commentId: M:Nekoyume.TableData.TableExtensions.ParseFloat(System.String)
-  name.vb: ParseFloat(String)
-  fullName: Nekoyume.TableData.TableExtensions.ParseFloat(string)
-  fullName.vb: Nekoyume.TableData.TableExtensions.ParseFloat(String)
-  nameWithType: TableExtensions.ParseFloat(string)
-  nameWithType.vb: TableExtensions.ParseFloat(String)
-- uid: Nekoyume.TableData.TableExtensions.ParseFloat(System.String,System.Single)
-  name: ParseFloat(string, float)
-  href: api/Nekoyume.TableData.TableExtensions.html#Nekoyume_TableData_TableExtensions_ParseFloat_System_String_System_Single_
-  commentId: M:Nekoyume.TableData.TableExtensions.ParseFloat(System.String,System.Single)
-  name.vb: ParseFloat(String, Single)
-  fullName: Nekoyume.TableData.TableExtensions.ParseFloat(string, float)
-  fullName.vb: Nekoyume.TableData.TableExtensions.ParseFloat(String, Single)
-  nameWithType: TableExtensions.ParseFloat(string, float)
-  nameWithType.vb: TableExtensions.ParseFloat(String, Single)
-- uid: Nekoyume.TableData.TableExtensions.ParseFloat*
-  name: ParseFloat
-  href: api/Nekoyume.TableData.TableExtensions.html#Nekoyume_TableData_TableExtensions_ParseFloat_
-  commentId: Overload:Nekoyume.TableData.TableExtensions.ParseFloat
-  isSpec: "True"
-  fullName: Nekoyume.TableData.TableExtensions.ParseFloat
-  nameWithType: TableExtensions.ParseFloat
 - uid: Nekoyume.TableData.TableExtensions.ParseInt(System.String)
   name: ParseInt(string)
   href: api/Nekoyume.TableData.TableExtensions.html#Nekoyume_TableData_TableExtensions_ParseInt_System_String_

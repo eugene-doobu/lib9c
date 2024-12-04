@@ -1572,6 +1572,16 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.Action.Guild.Migration.MigratePlanetariumValidator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Nekoyume.Action.Guild.Migration.yml",
       "output": {
         ".html": {
@@ -3526,6 +3536,16 @@
       "output": {
         ".html": {
           "relative_path": "api/Nekoyume.Battle.CriticalHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.Battle.DamageHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.Battle.DamageHelper.html"
         }
       },
       "version": ""
@@ -11742,6 +11762,16 @@
       "output": {
         ".html": {
           "relative_path": "articles/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/system/account.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/system/account.html"
         }
       },
       "version": ""
