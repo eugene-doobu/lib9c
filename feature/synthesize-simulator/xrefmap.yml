@@ -37866,6 +37866,18 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeSimulator.InputData
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData
   nameWithType: SynthesizeSimulator.InputData
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  name: CostumeItemSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_CostumeItemSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  nameWithType: SynthesizeSimulator.InputData.CostumeItemSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  name: EquipmentItemSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemSheet
 - uid: Nekoyume.Helper.SynthesizeSimulator.InputData.GradeDict
   name: GradeDict
   href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_GradeDict
@@ -37878,12 +37890,18 @@ references:
   commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
   nameWithType: SynthesizeSimulator.InputData.RandomObject
-- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.Sheets
-  name: Sheets
-  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_Sheets
-  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.Sheets
-  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.Sheets
-  nameWithType: SynthesizeSimulator.InputData.Sheets
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  name: SynthesizeSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SynthesizeSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  nameWithType: SynthesizeSimulator.InputData.SynthesizeSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  name: SynthesizeWeightSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SynthesizeWeightSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  nameWithType: SynthesizeSimulator.InputData.SynthesizeWeightSheet
 - uid: Nekoyume.Helper.SynthesizeSimulator.Simulate(Nekoyume.Helper.SynthesizeSimulator.InputData)
   name: Simulate(InputData)
   href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_Simulate_Nekoyume_Helper_SynthesizeSimulator_InputData_
