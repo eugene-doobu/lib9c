@@ -37731,6 +37731,12 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeResult
   fullName: Nekoyume.Helper.SynthesizeResult
   nameWithType: SynthesizeResult
+- uid: Nekoyume.Helper.SynthesizeResult.IsSuccess
+  name: IsSuccess
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_IsSuccess
+  commentId: F:Nekoyume.Helper.SynthesizeResult.IsSuccess
+  fullName: Nekoyume.Helper.SynthesizeResult.IsSuccess
+  nameWithType: SynthesizeResult.IsSuccess
 - uid: Nekoyume.Helper.SynthesizeResult.ItemBase
   name: ItemBase
   href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_ItemBase
@@ -92484,6 +92490,22 @@ references:
   fullName.vb: Nekoyume.TableData.SynthesizeSheet.New
   nameWithType: SynthesizeSheet.SynthesizeSheet
   nameWithType.vb: SynthesizeSheet.New
+- uid: Nekoyume.TableData.SynthesizeSheet.AddRow(System.Int32,Nekoyume.TableData.SynthesizeSheet.Row)
+  name: AddRow(int, Row)
+  href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_AddRow_System_Int32_Nekoyume_TableData_SynthesizeSheet_Row_
+  commentId: M:Nekoyume.TableData.SynthesizeSheet.AddRow(System.Int32,Nekoyume.TableData.SynthesizeSheet.Row)
+  name.vb: AddRow(Integer, Row)
+  fullName: Nekoyume.TableData.SynthesizeSheet.AddRow(int, Nekoyume.TableData.SynthesizeSheet.Row)
+  fullName.vb: Nekoyume.TableData.SynthesizeSheet.AddRow(Integer, Nekoyume.TableData.SynthesizeSheet.Row)
+  nameWithType: SynthesizeSheet.AddRow(int, SynthesizeSheet.Row)
+  nameWithType.vb: SynthesizeSheet.AddRow(Integer, SynthesizeSheet.Row)
+- uid: Nekoyume.TableData.SynthesizeSheet.AddRow*
+  name: AddRow
+  href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_AddRow_
+  commentId: Overload:Nekoyume.TableData.SynthesizeSheet.AddRow
+  isSpec: "True"
+  fullName: Nekoyume.TableData.SynthesizeSheet.AddRow
+  nameWithType: SynthesizeSheet.AddRow
 - uid: Nekoyume.TableData.SynthesizeSheet.Row
   name: SynthesizeSheet.Row
   href: api/Nekoyume.TableData.SynthesizeSheet.Row.html
@@ -92516,19 +92538,19 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeSheet.Row.Key
   nameWithType: SynthesizeSheet.Row.Key
-- uid: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
-  name: RequiredCount
-  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_RequiredCount
-  commentId: P:Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
-  fullName: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
-  nameWithType: SynthesizeSheet.Row.RequiredCount
-- uid: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount*
-  name: RequiredCount
-  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_RequiredCount_
-  commentId: Overload:Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
+- uid: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
+  name: RequiredCountDict
+  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_RequiredCountDict
+  commentId: P:Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
+  fullName: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
+  nameWithType: SynthesizeSheet.Row.RequiredCountDict
+- uid: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict*
+  name: RequiredCountDict
+  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_RequiredCountDict_
+  commentId: Overload:Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
   isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
-  nameWithType: SynthesizeSheet.Row.RequiredCount
+  fullName: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
+  nameWithType: SynthesizeSheet.Row.RequiredCountDict
 - uid: Nekoyume.TableData.SynthesizeSheet.Row.Set(System.Collections.Generic.IReadOnlyList{System.String})
   name: Set(IReadOnlyList<string>)
   href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_Set_System_Collections_Generic_IReadOnlyList_System_String__
@@ -92545,19 +92567,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeSheet.Row.Set
   nameWithType: SynthesizeSheet.Row.Set
-- uid: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  name: SucceedRate
-  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_SucceedRate
-  commentId: P:Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  fullName: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  nameWithType: SynthesizeSheet.Row.SucceedRate
-- uid: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate*
-  name: SucceedRate
-  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_SucceedRate_
-  commentId: Overload:Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  nameWithType: SynthesizeSheet.Row.SucceedRate
 - uid: Nekoyume.TableData.SynthesizeSheet.SucceedRateMax
   name: SucceedRateMax
   href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_SucceedRateMax
@@ -92570,6 +92579,24 @@ references:
   commentId: F:Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
   fullName: Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
   nameWithType: SynthesizeSheet.SucceedRateMin
+- uid: Nekoyume.TableData.SynthesizeSheet.SynthesizeData
+  name: SynthesizeSheet.SynthesizeData
+  href: api/Nekoyume.TableData.SynthesizeSheet.SynthesizeData.html
+  commentId: T:Nekoyume.TableData.SynthesizeSheet.SynthesizeData
+  fullName: Nekoyume.TableData.SynthesizeSheet.SynthesizeData
+  nameWithType: SynthesizeSheet.SynthesizeData
+- uid: Nekoyume.TableData.SynthesizeSheet.SynthesizeData.RequiredCount
+  name: RequiredCount
+  href: api/Nekoyume.TableData.SynthesizeSheet.SynthesizeData.html#Nekoyume_TableData_SynthesizeSheet_SynthesizeData_RequiredCount
+  commentId: F:Nekoyume.TableData.SynthesizeSheet.SynthesizeData.RequiredCount
+  fullName: Nekoyume.TableData.SynthesizeSheet.SynthesizeData.RequiredCount
+  nameWithType: SynthesizeSheet.SynthesizeData.RequiredCount
+- uid: Nekoyume.TableData.SynthesizeSheet.SynthesizeData.SucceedRate
+  name: SucceedRate
+  href: api/Nekoyume.TableData.SynthesizeSheet.SynthesizeData.html#Nekoyume_TableData_SynthesizeSheet_SynthesizeData_SucceedRate
+  commentId: F:Nekoyume.TableData.SynthesizeSheet.SynthesizeData.SucceedRate
+  fullName: Nekoyume.TableData.SynthesizeSheet.SynthesizeData.SucceedRate
+  nameWithType: SynthesizeSheet.SynthesizeData.SucceedRate
 - uid: Nekoyume.TableData.SynthesizeWeightSheet
   name: SynthesizeWeightSheet
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.html
