@@ -89,7 +89,7 @@
 
 
   <h1 id="Nekoyume_Helper_SynthesizeSimulator" data-uid="Nekoyume.Helper.SynthesizeSimulator" class="text-break">
-Class SynthesizeSimulator  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L27"><i class="bi bi-code-slash"></i></a>
+Class SynthesizeSimulator  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L30"><i class="bi bi-code-slash"></i></a>
   </h1>
 
   <div class="facts text-secondary">
@@ -158,10 +158,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetGradeDict_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_System_String_System_Collections_Generic_List_Nekoyume_Model_Item_Equipment___System_Collections_Generic_List_Nekoyume_Model_Item_Costume___" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,System.String,System.Collections.Generic.List{Nekoyume.Model.Item.Equipment}@,System.Collections.Generic.List{Nekoyume.Model.Item.Costume}@)">
   GetGradeDict(List&lt;Guid&gt;, AvatarState, long, string, out List&lt;Equipment&gt;, out List&lt;Costume&gt;)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L128"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L150"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Get the grade of the material items and return the dictionary of the grade and the number of items.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -171,17 +172,23 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>materialIds</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.guid">Guid</a>&gt;</dt>
-    <dd></dd>
+    <dd><p>material item ids</p>
+</dd>
     <dt><code>avatarState</code> <a class="xref" href="Nekoyume.Model.State.AvatarState.html">AvatarState</a></dt>
-    <dd></dd>
+    <dd><p>target avatar state</p>
+</dd>
     <dt><code>blockIndex</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int64">long</a></dt>
-    <dd></dd>
+    <dd><p>current block index</p>
+</dd>
     <dt><code>addressesHex</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
-    <dd></dd>
+    <dd><p>addresses in hex</p>
+</dd>
     <dt><code>materialEquipments</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="Nekoyume.Model.Item.Equipment.html">Equipment</a>&gt;</dt>
-    <dd></dd>
+    <dd><p>material equipment list</p>
+</dd>
     <dt><code>materialCostumes</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="Nekoyume.Model.Item.Costume.html">Costume</a>&gt;</dt>
-    <dd></dd>
+    <dd><p>material costume list</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
@@ -197,6 +204,13 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
 
 
+  <h4 class="section">Exceptions</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="Nekoyume.Action.InvalidMaterialException.html">InvalidMaterialException</a></dt>
+    <dd></dd>
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.invalidoperationexception">InvalidOperationException</a></dt>
+    <dd></dd>
+  </dl>
 
 
 
@@ -204,10 +218,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetItemGuid_Nekoyume_Model_Item_ItemBase_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetItemGuid(Nekoyume.Model.Item.ItemBase)">
   GetItemGuid(ItemBase)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L443"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L506"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Get the item id from the item.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -217,13 +232,15 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>itemBase</code> <a class="xref" href="Nekoyume.Model.Item.ItemBase.html">ItemBase</a></dt>
-    <dd></dd>
+    <dd><p>item to get id</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
     <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.guid">Guid</a>&gt;</dt>
-    <dd></dd>
+    <dd><p>item id</p>
+</dd>
   </dl>
 
 
@@ -233,6 +250,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
 
 
+  <h4 class="section">Exceptions</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.argumentexception">ArgumentException</a></dt>
+    <dd></dd>
+  </dl>
 
 
 
@@ -240,10 +262,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetItemGuids_System_Collections_Generic_IEnumerable_Nekoyume_Model_Item_ItemBase__" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetItemGuids(System.Collections.Generic.IEnumerable{Nekoyume.Model.Item.ItemBase})">
   GetItemGuids(IEnumerable&lt;ItemBase&gt;)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L450"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L519"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Get the item id from the item.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -253,13 +276,15 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>itemBases</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1">IEnumerable</a>&lt;<a class="xref" href="Nekoyume.Model.Item.ItemBase.html">ItemBase</a>&gt;</dt>
-    <dd></dd>
+    <dd><p>items to get id</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
     <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.guid">Guid</a>&gt;</dt>
-    <dd></dd>
+    <dd><p>item id list</p>
+</dd>
   </dl>
 
 
@@ -269,6 +294,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
 
 
+  <h4 class="section">Exceptions</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.argumentexception">ArgumentException</a></dt>
+    <dd></dd>
+  </dl>
 
 
 
@@ -276,10 +306,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)">
   GetSynthesizeResultPool(Grade, ItemSubType, CostumeItemSheet)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L365"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L394"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>get expected result item pool (Costume)</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -289,17 +320,21 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>sourceGrade</code> <a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a></dt>
-    <dd></dd>
+    <dd><p>grade of material items</p>
+</dd>
     <dt><code>subType</code> <a class="xref" href="Nekoyume.Model.Item.ItemSubType.html">ItemSubType</a></dt>
-    <dd></dd>
+    <dd><p>subtype of material items</p>
+</dd>
     <dt><code>sheet</code> <a class="xref" href="Nekoyume.TableData.CostumeItemSheet.html">CostumeItemSheet</a></dt>
-    <dd></dd>
+    <dd><p>costume item sheet to use</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
     <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.hashset-1">HashSet</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a>&gt;</dt>
-    <dd></dd>
+    <dd><p>expected result item pool of costume</p>
+</dd>
   </dl>
 
 
@@ -316,10 +351,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)">
   GetSynthesizeResultPool(Grade, ItemSubType, EquipmentItemSheet)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L374"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L410"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>get expected result item pool (Equipment)</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -329,17 +365,21 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>sourceGrade</code> <a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a></dt>
-    <dd></dd>
+    <dd><p>grade of material items</p>
+</dd>
     <dt><code>subType</code> <a class="xref" href="Nekoyume.Model.Item.ItemSubType.html">ItemSubType</a></dt>
-    <dd></dd>
+    <dd><p>subtype of material items</p>
+</dd>
     <dt><code>sheet</code> <a class="xref" href="Nekoyume.TableData.EquipmentItemSheet.html">EquipmentItemSheet</a></dt>
-    <dd></dd>
+    <dd><p>equipment item sheet to use</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
     <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.hashset-1">HashSet</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a>&gt;</dt>
-    <dd></dd>
+    <dd><p>expected result item pool of equipment</p>
+</dd>
   </dl>
 
 
@@ -356,7 +396,7 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_System_Collections_Generic_List_Nekoyume_Model_EnumType_Grade__Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.List{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)">
   GetSynthesizeResultPool(List&lt;Grade&gt;, ItemSubType, CostumeItemSheet)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L390"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L426"><i class="bi bi-code-slash"></i></a>
   </h3>
 
   <div class="markdown level1 summary"><p>Returns a list of items that may come out as a result of that synthesis.</p>
@@ -401,7 +441,7 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_System_Collections_Generic_List_Nekoyume_Model_EnumType_Grade__Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.List{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)">
   GetSynthesizeResultPool(List&lt;Grade&gt;, ItemSubType, EquipmentItemSheet)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L407"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L443"><i class="bi bi-code-slash"></i></a>
   </h3>
 
   <div class="markdown level1 summary"><p>Returns a list of items that may come out as a result of that synthesis.</p>
@@ -446,10 +486,12 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetTargetGrade_System_Int32_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade(System.Int32)">
   GetTargetGrade(int)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L472"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L548"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Get the target grade of the item.
+max grade is Divinity</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -459,13 +501,15 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>gradeId</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
-    <dd></dd>
+    <dd><p>grade id of the item</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
     <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
-    <dd></dd>
+    <dd><p>target grade id</p>
+</dd>
   </dl>
 
 
@@ -475,6 +519,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
 
 
+  <h4 class="section">Exceptions</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.argumentoutofrangeexception">ArgumentOutOfRangeException</a></dt>
+    <dd></dd>
+  </dl>
 
 
 
@@ -482,10 +531,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetUpgradeGrade_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)">
   GetUpgradeGrade(Grade, ItemSubType, CostumeItemSheet)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L417"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L460"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Returns the grade of the item that can be obtained by synthesizing the item. (Costume)</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -495,17 +545,21 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>grade</code> <a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a></dt>
-    <dd></dd>
+    <dd><p>source grade</p>
+</dd>
     <dt><code>subType</code> <a class="xref" href="Nekoyume.Model.Item.ItemSubType.html">ItemSubType</a></dt>
-    <dd></dd>
+    <dd><p>subtype of material items</p>
+</dd>
     <dt><code>sheet</code> <a class="xref" href="Nekoyume.TableData.CostumeItemSheet.html">CostumeItemSheet</a></dt>
-    <dd></dd>
+    <dd><p>costume item sheet to use</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
     <dt><a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a></dt>
-    <dd></dd>
+    <dd><p>grade of the item that can be obtained by synthesizing the item</p>
+</dd>
   </dl>
 
 
@@ -522,10 +576,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetUpgradeGrade_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)">
   GetUpgradeGrade(Grade, ItemSubType, EquipmentItemSheet)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L426"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L476"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Returns the grade of the item that can be obtained by synthesizing the item. (Equipment)</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -535,17 +590,21 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>grade</code> <a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a></dt>
-    <dd></dd>
+    <dd><p>source grade</p>
+</dd>
     <dt><code>subType</code> <a class="xref" href="Nekoyume.Model.Item.ItemSubType.html">ItemSubType</a></dt>
-    <dd></dd>
+    <dd><p>subtype of material items</p>
+</dd>
     <dt><code>sheet</code> <a class="xref" href="Nekoyume.TableData.EquipmentItemSheet.html">EquipmentItemSheet</a></dt>
-    <dd></dd>
+    <dd><p>equipment item sheet to use</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
     <dt><a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a></dt>
-    <dd></dd>
+    <dd><p>grade of the item that can be obtained by synthesizing the item</p>
+</dd>
   </dl>
 
 
@@ -562,10 +621,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_GetWeight_Nekoyume_Model_EnumType_Grade_System_Int32_Nekoyume_TableData_SynthesizeWeightSheet_" data-uid="Nekoyume.Helper.SynthesizeSimulator.GetWeight(Nekoyume.Model.EnumType.Grade,System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)">
   GetWeight(Grade, int, SynthesizeWeightSheet)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L435"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L492"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Returns the weight of the item that can be obtained by synthesizing the item.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -575,17 +635,21 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>grade</code> <a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a></dt>
-    <dd></dd>
+    <dd><p>source grade</p>
+</dd>
     <dt><code>itemId</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
-    <dd></dd>
+    <dd><p>item id of material item</p>
+</dd>
     <dt><code>sheet</code> <a class="xref" href="Nekoyume.TableData.SynthesizeWeightSheet.html">SynthesizeWeightSheet</a></dt>
-    <dd></dd>
+    <dd><p>SynthesizeWeightSheet to use</p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
     <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></dt>
-    <dd></dd>
+    <dd><p>weight of the item that can be obtained by synthesizing the item</p>
+</dd>
   </dl>
 
 
@@ -602,10 +666,11 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h3 id="Nekoyume_Helper_SynthesizeSimulator_Simulate_Nekoyume_Helper_SynthesizeSimulator_InputData_" data-uid="Nekoyume.Helper.SynthesizeSimulator.Simulate(Nekoyume.Helper.SynthesizeSimulator.InputData)">
   Simulate(InputData)
-  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L56"><i class="bi bi-code-slash"></i></a>
+  <a class="header-action link-secondary" title="View source" href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L66"><i class="bi bi-code-slash"></i></a>
   </h3>
 
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Simulate the synthesis of items.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
@@ -615,7 +680,8 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <h4 class="section">Parameters</h4>
   <dl class="parameters">
     <dt><code>inputData</code> <a class="xref" href="Nekoyume.Helper.SynthesizeSimulator.html">SynthesizeSimulator</a>.<a class="xref" href="Nekoyume.Helper.SynthesizeSimulator.InputData.html">InputData</a></dt>
-    <dd></dd>
+    <dd><p><a class="xref" href="Nekoyume.Helper.SynthesizeSimulator.InputData.html">SynthesizeSimulator.InputData</a></p>
+</dd>
   </dl>
 
   <h4 class="section">Returns</h4>
@@ -631,6 +697,13 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
 
 
+  <h4 class="section">Exceptions</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="Nekoyume.TableData.SheetRowNotFoundException.html">SheetRowNotFoundException</a></dt>
+    <dd></dd>
+    <dt><a class="xref" href="Nekoyume.Action.NotEnoughMaterialException.html">NotEnoughMaterialException</a></dt>
+    <dd></dd>
+  </dl>
 
 
 
@@ -638,7 +711,7 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 </article>
 
         <div class="contribution d-print-none">
-          <a href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L27" class="edit-link">Edit this page</a>
+          <a href="https://github.com/eugene-doobu/lib9c/blob/feature/synthesize-simulator/Lib9c/Helper/SynthesizeSimulator.cs/#L30" class="edit-link">Edit this page</a>
         </div>
 
 
