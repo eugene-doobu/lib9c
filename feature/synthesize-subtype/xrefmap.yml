@@ -37564,6 +37564,12 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeResult
   fullName: Nekoyume.Helper.SynthesizeResult
   nameWithType: SynthesizeResult
+- uid: Nekoyume.Helper.SynthesizeResult.IsSuccess
+  name: IsSuccess
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_IsSuccess
+  commentId: F:Nekoyume.Helper.SynthesizeResult.IsSuccess
+  fullName: Nekoyume.Helper.SynthesizeResult.IsSuccess
+  nameWithType: SynthesizeResult.IsSuccess
 - uid: Nekoyume.Helper.SynthesizeResult.ItemBase
   name: ItemBase
   href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_ItemBase

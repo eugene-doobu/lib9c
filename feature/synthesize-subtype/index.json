@@ -2207,7 +2207,7 @@
   "api/Nekoyume.Helper.SynthesizeResult.html": {
     "href": "api/Nekoyume.Helper.SynthesizeResult.html",
     "title": "Struct SynthesizeResult | Lib9c",
-    "keywords": "Struct SynthesizeResult Namespace Nekoyume.Helper Assembly Lib9c.dll public struct SynthesizeResult Inherited Members ValueType.Equals(object) ValueType.GetHashCode() ValueType.ToString() object.Equals(object, object) object.GetType() object.ReferenceEquals(object, object) Fields ItemBase public ItemBase ItemBase Field Value ItemBase"
+    "keywords": "Struct SynthesizeResult Namespace Nekoyume.Helper Assembly Lib9c.dll public struct SynthesizeResult Inherited Members ValueType.Equals(object) ValueType.GetHashCode() ValueType.ToString() object.Equals(object, object) object.GetType() object.ReferenceEquals(object, object) Fields IsSuccess public bool IsSuccess Field Value bool ItemBase public ItemBase ItemBase Field Value ItemBase"
   },
   "api/Nekoyume.Helper.SynthesizeSimulator.InputData.html": {
     "href": "api/Nekoyume.Helper.SynthesizeSimulator.InputData.html",
