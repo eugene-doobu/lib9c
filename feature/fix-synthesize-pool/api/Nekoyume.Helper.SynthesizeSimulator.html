@@ -404,7 +404,7 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static HashSet&lt;int&gt; GetSynthesizeResultPool(HashSet&lt;Grade&gt; sourceGrades, ItemSubType subType, CostumeItemSheet sheet)</code></pre>
+    <pre><code class="lang-csharp hljs">public static HashSet&lt;(int, Grade)&gt; GetSynthesizeResultPool(HashSet&lt;Grade&gt; sourceGrades, ItemSubType subType, CostumeItemSheet sheet)</code></pre>
   </div>
 
   <h4 class="section">Parameters</h4>
@@ -422,8 +422,8 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.hashset-1">HashSet</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a>&gt;</dt>
-    <dd><p>list of items key(int)</p>
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.hashset-1">HashSet</a>&lt;(<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a>, <a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a>)&gt;</dt>
+    <dd><p>list of items key(int), grade(Grade) tuple</p>
 </dd>
   </dl>
 
@@ -449,7 +449,7 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
   <div class="markdown level1 conceptual"></div>
 
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static HashSet&lt;int&gt; GetSynthesizeResultPool(HashSet&lt;Grade&gt; sourceGrades, ItemSubType subType, EquipmentItemSheet sheet)</code></pre>
+    <pre><code class="lang-csharp hljs">public static HashSet&lt;(int, Grade)&gt; GetSynthesizeResultPool(HashSet&lt;Grade&gt; sourceGrades, ItemSubType subType, EquipmentItemSheet sheet)</code></pre>
   </div>
 
   <h4 class="section">Parameters</h4>
@@ -467,8 +467,8 @@ Class SynthesizeSimulator  <a class="header-action link-secondary" title="View s
 
   <h4 class="section">Returns</h4>
   <dl class="parameters">
-    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.hashset-1">HashSet</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a>&gt;</dt>
-    <dd><p>list of items key(int)</p>
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.hashset-1">HashSet</a>&lt;(<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a>, <a class="xref" href="Nekoyume.Model.EnumType.Grade.html">Grade</a>)&gt;</dt>
+    <dd><p>list of items key(int), grade(Grade) tuple</p>
 </dd>
   </dl>
 
