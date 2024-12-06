@@ -22544,12 +22544,24 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Action.Synthesize.LoadPlainValueInternal
   nameWithType: Synthesize.LoadPlainValueInternal
+- uid: Nekoyume.Action.Synthesize.MaterialGradeId
+  name: MaterialGradeId
+  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_MaterialGradeId
+  commentId: F:Nekoyume.Action.Synthesize.MaterialGradeId
+  fullName: Nekoyume.Action.Synthesize.MaterialGradeId
+  nameWithType: Synthesize.MaterialGradeId
 - uid: Nekoyume.Action.Synthesize.MaterialIds
   name: MaterialIds
   href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_MaterialIds
   commentId: F:Nekoyume.Action.Synthesize.MaterialIds
   fullName: Nekoyume.Action.Synthesize.MaterialIds
   nameWithType: Synthesize.MaterialIds
+- uid: Nekoyume.Action.Synthesize.MaterialItemSubTypeId
+  name: MaterialItemSubTypeId
+  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_MaterialItemSubTypeId
+  commentId: F:Nekoyume.Action.Synthesize.MaterialItemSubTypeId
+  fullName: Nekoyume.Action.Synthesize.MaterialItemSubTypeId
+  nameWithType: Synthesize.MaterialItemSubTypeId
 - uid: Nekoyume.Action.Synthesize.PlainValueInternal
   name: PlainValueInternal
   href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_PlainValueInternal
@@ -37774,22 +37786,38 @@ references:
   commentId: T:Nekoyume.Helper.SynthesizeSimulator
   fullName: Nekoyume.Helper.SynthesizeSimulator
   nameWithType: SynthesizeSimulator
-- uid: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,System.String,System.Collections.Generic.List{Nekoyume.Model.Item.Equipment}@,System.Collections.Generic.List{Nekoyume.Model.Item.Costume}@)
-  name: GetGradeDict(List<Guid>, AvatarState, long, string, out List<Equipment>, out List<Costume>)
-  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetGradeDict_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_System_String_System_Collections_Generic_List_Nekoyume_Model_Item_Equipment___System_Collections_Generic_List_Nekoyume_Model_Item_Costume___
-  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,System.String,System.Collections.Generic.List{Nekoyume.Model.Item.Equipment}@,System.Collections.Generic.List{Nekoyume.Model.Item.Costume}@)
-  name.vb: GetGradeDict(List(Of Guid), AvatarState, Long, String, List(Of Equipment), List(Of Costume))
-  fullName: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, long, string, out System.Collections.Generic.List<Nekoyume.Model.Item.Equipment>, out System.Collections.Generic.List<Nekoyume.Model.Item.Costume>)
-  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Long, String, System.Collections.Generic.List(Of Nekoyume.Model.Item.Equipment), System.Collections.Generic.List(Of Nekoyume.Model.Item.Costume))
-  nameWithType: SynthesizeSimulator.GetGradeDict(List<Guid>, AvatarState, long, string, out List<Equipment>, out List<Costume>)
-  nameWithType.vb: SynthesizeSimulator.GetGradeDict(List(Of Guid), AvatarState, Long, String, List(Of Equipment), List(Of Costume))
-- uid: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict*
-  name: GetGradeDict
-  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetGradeDict_
-  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetGradeDict
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name: GetCostumeMaterialList(List<Guid>, AvatarState, Grade, ItemSubType, string)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetCostumeMaterialList_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_System_String_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name.vb: GetCostumeMaterialList(List(Of Guid), AvatarState, Grade, ItemSubType, String)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, string)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, String)
+  nameWithType: SynthesizeSimulator.GetCostumeMaterialList(List<Guid>, AvatarState, Grade, ItemSubType, string)
+  nameWithType.vb: SynthesizeSimulator.GetCostumeMaterialList(List(Of Guid), AvatarState, Grade, ItemSubType, String)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList*
+  name: GetCostumeMaterialList
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetCostumeMaterialList_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList
   isSpec: "True"
-  fullName: Nekoyume.Helper.SynthesizeSimulator.GetGradeDict
-  nameWithType: SynthesizeSimulator.GetGradeDict
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList
+  nameWithType: SynthesizeSimulator.GetCostumeMaterialList
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name: GetEquipmentMaterialList(List<Guid>, AvatarState, long, Grade, ItemSubType, string)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetEquipmentMaterialList_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_System_String_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name.vb: GetEquipmentMaterialList(List(Of Guid), AvatarState, Long, Grade, ItemSubType, String)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, long, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, string)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Long, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, String)
+  nameWithType: SynthesizeSimulator.GetEquipmentMaterialList(List<Guid>, AvatarState, long, Grade, ItemSubType, string)
+  nameWithType.vb: SynthesizeSimulator.GetEquipmentMaterialList(List(Of Guid), AvatarState, Long, Grade, ItemSubType, String)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList*
+  name: GetEquipmentMaterialList
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetEquipmentMaterialList_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList
+  nameWithType: SynthesizeSimulator.GetEquipmentMaterialList
 - uid: Nekoyume.Helper.SynthesizeSimulator.GetItemGuid(Nekoyume.Model.Item.ItemBase)
   name: GetItemGuid(ItemBase)
   href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetItemGuid_Nekoyume_Model_Item_ItemBase_
@@ -37819,6 +37847,22 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Helper.SynthesizeSimulator.GetItemGuids
   nameWithType: SynthesizeSimulator.GetItemGuids
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name: GetMaterialList(List<Guid>, AvatarState, long, Grade, ItemSubType, string)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetMaterialList_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_System_String_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name.vb: GetMaterialList(List(Of Guid), AvatarState, Long, Grade, ItemSubType, String)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, long, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, string)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Long, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, String)
+  nameWithType: SynthesizeSimulator.GetMaterialList(List<Guid>, AvatarState, long, Grade, ItemSubType, string)
+  nameWithType.vb: SynthesizeSimulator.GetMaterialList(List(Of Guid), AvatarState, Long, Grade, ItemSubType, String)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList*
+  name: GetMaterialList
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetMaterialList_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetMaterialList
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList
+  nameWithType: SynthesizeSimulator.GetMaterialList
 - uid: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
   name: GetSynthesizeResultPool(Grade, ItemSubType, CostumeItemSheet)
   href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_
@@ -37955,12 +37999,24 @@ references:
   commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
   fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
   nameWithType: SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
-- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.GradeDict
-  name: GradeDict
-  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_GradeDict
-  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.GradeDict
-  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.GradeDict
-  nameWithType: SynthesizeSimulator.InputData.GradeDict
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.Grade
+  name: Grade
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_Grade
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.Grade
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.Grade
+  nameWithType: SynthesizeSimulator.InputData.Grade
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.ItemSubType
+  name: ItemSubType
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_ItemSubType
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.ItemSubType
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.ItemSubType
+  nameWithType: SynthesizeSimulator.InputData.ItemSubType
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.MaterialCount
+  name: MaterialCount
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_MaterialCount
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.MaterialCount
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.MaterialCount
+  nameWithType: SynthesizeSimulator.InputData.MaterialCount
 - uid: Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
   name: RandomObject
   href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_RandomObject
