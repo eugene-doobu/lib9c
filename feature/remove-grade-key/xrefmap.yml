@@ -37941,15 +37941,15 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade
   nameWithType: SynthesizeSimulator.GetUpgradeGrade
-- uid: Nekoyume.Helper.SynthesizeSimulator.GetWeight(Nekoyume.Model.EnumType.Grade,System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)
-  name: GetWeight(Grade, int, SynthesizeWeightSheet)
-  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetWeight_Nekoyume_Model_EnumType_Grade_System_Int32_Nekoyume_TableData_SynthesizeWeightSheet_
-  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetWeight(Nekoyume.Model.EnumType.Grade,System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)
-  name.vb: GetWeight(Grade, Integer, SynthesizeWeightSheet)
-  fullName: Nekoyume.Helper.SynthesizeSimulator.GetWeight(Nekoyume.Model.EnumType.Grade, int, Nekoyume.TableData.SynthesizeWeightSheet)
-  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetWeight(Nekoyume.Model.EnumType.Grade, Integer, Nekoyume.TableData.SynthesizeWeightSheet)
-  nameWithType: SynthesizeSimulator.GetWeight(Grade, int, SynthesizeWeightSheet)
-  nameWithType.vb: SynthesizeSimulator.GetWeight(Grade, Integer, SynthesizeWeightSheet)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetWeight(System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)
+  name: GetWeight(int, SynthesizeWeightSheet)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetWeight_System_Int32_Nekoyume_TableData_SynthesizeWeightSheet_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetWeight(System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)
+  name.vb: GetWeight(Integer, SynthesizeWeightSheet)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetWeight(int, Nekoyume.TableData.SynthesizeWeightSheet)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetWeight(Integer, Nekoyume.TableData.SynthesizeWeightSheet)
+  nameWithType: SynthesizeSimulator.GetWeight(int, SynthesizeWeightSheet)
+  nameWithType.vb: SynthesizeSimulator.GetWeight(Integer, SynthesizeWeightSheet)
 - uid: Nekoyume.Helper.SynthesizeSimulator.GetWeight*
   name: GetWeight
   href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetWeight_
@@ -92739,22 +92739,6 @@ references:
   fullName.vb: Nekoyume.TableData.SynthesizeWeightSheet.New
   nameWithType: SynthesizeWeightSheet.SynthesizeWeightSheet
   nameWithType.vb: SynthesizeWeightSheet.New
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.AddRow(System.Int32,Nekoyume.TableData.SynthesizeWeightSheet.Row)
-  name: AddRow(int, Row)
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.html#Nekoyume_TableData_SynthesizeWeightSheet_AddRow_System_Int32_Nekoyume_TableData_SynthesizeWeightSheet_Row_
-  commentId: M:Nekoyume.TableData.SynthesizeWeightSheet.AddRow(System.Int32,Nekoyume.TableData.SynthesizeWeightSheet.Row)
-  name.vb: AddRow(Integer, Row)
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.AddRow(int, Nekoyume.TableData.SynthesizeWeightSheet.Row)
-  fullName.vb: Nekoyume.TableData.SynthesizeWeightSheet.AddRow(Integer, Nekoyume.TableData.SynthesizeWeightSheet.Row)
-  nameWithType: SynthesizeWeightSheet.AddRow(int, SynthesizeWeightSheet.Row)
-  nameWithType.vb: SynthesizeWeightSheet.AddRow(Integer, SynthesizeWeightSheet.Row)
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.AddRow*
-  name: AddRow
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.html#Nekoyume_TableData_SynthesizeWeightSheet_AddRow_
-  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.AddRow
-  isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.AddRow
-  nameWithType: SynthesizeWeightSheet.AddRow
 - uid: Nekoyume.TableData.SynthesizeWeightSheet.DefaultWeight
   name: DefaultWeight
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.html#Nekoyume_TableData_SynthesizeWeightSheet_DefaultWeight
@@ -92767,19 +92751,19 @@ references:
   commentId: T:Nekoyume.TableData.SynthesizeWeightSheet.Row
   fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row
   nameWithType: SynthesizeWeightSheet.Row
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
-  name: GradeId
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_GradeId
-  commentId: P:Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
-  nameWithType: SynthesizeWeightSheet.Row.GradeId
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId*
-  name: GradeId
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_GradeId_
-  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
+  name: ItemId
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_ItemId
+  commentId: P:Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
+  nameWithType: SynthesizeWeightSheet.Row.ItemId
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId*
+  name: ItemId
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_ItemId_
+  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
   isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
-  nameWithType: SynthesizeWeightSheet.Row.GradeId
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
+  nameWithType: SynthesizeWeightSheet.Row.ItemId
 - uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.Key
   name: Key
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_Key
@@ -92809,19 +92793,19 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.Set
   nameWithType: SynthesizeWeightSheet.Row.Set
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
-  name: WeightDict
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_WeightDict
-  commentId: P:Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
-  nameWithType: SynthesizeWeightSheet.Row.WeightDict
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict*
-  name: WeightDict
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_WeightDict_
-  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
+  name: Weight
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_Weight
+  commentId: P:Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
+  nameWithType: SynthesizeWeightSheet.Row.Weight
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight*
+  name: Weight
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_Weight_
+  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
   isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
-  nameWithType: SynthesizeWeightSheet.Row.WeightDict
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
+  nameWithType: SynthesizeWeightSheet.Row.Weight
 - uid: Nekoyume.TableData.TableExtensions
   name: TableExtensions
   href: api/Nekoyume.TableData.TableExtensions.html
