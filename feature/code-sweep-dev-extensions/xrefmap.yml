@@ -4493,12 +4493,12 @@ references:
   fullName.vb: Nekoyume.Action.AuraSummon.New
   nameWithType: AuraSummon.AuraSummon
   nameWithType.vb: AuraSummon.New
-- uid: Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.State.AgentState,Nekoyume.Model.Item.Equipment,Libplanet.Action.IRandom,Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row,Nekoyume.TableData.EquipmentItemOptionSheet,Nekoyume.TableData.SkillSheet)
-  name: AddAndUnlockOption(AgentState, Equipment, IRandom, Row, EquipmentItemOptionSheet, SkillSheet)
-  href: api/Nekoyume.Action.AuraSummon.html#Nekoyume_Action_AuraSummon_AddAndUnlockOption_Nekoyume_Model_State_AgentState_Nekoyume_Model_Item_Equipment_Libplanet_Action_IRandom_Nekoyume_TableData_EquipmentItemSubRecipeSheetV2_Row_Nekoyume_TableData_EquipmentItemOptionSheet_Nekoyume_TableData_SkillSheet_
-  commentId: M:Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.State.AgentState,Nekoyume.Model.Item.Equipment,Libplanet.Action.IRandom,Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row,Nekoyume.TableData.EquipmentItemOptionSheet,Nekoyume.TableData.SkillSheet)
-  fullName: Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.State.AgentState, Nekoyume.Model.Item.Equipment, Libplanet.Action.IRandom, Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row, Nekoyume.TableData.EquipmentItemOptionSheet, Nekoyume.TableData.SkillSheet)
-  nameWithType: AuraSummon.AddAndUnlockOption(AgentState, Equipment, IRandom, EquipmentItemSubRecipeSheetV2.Row, EquipmentItemOptionSheet, SkillSheet)
+- uid: Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.Item.Equipment,Libplanet.Action.IRandom,Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row,Nekoyume.TableData.EquipmentItemOptionSheet,Nekoyume.TableData.SkillSheet)
+  name: AddAndUnlockOption(Equipment, IRandom, Row, EquipmentItemOptionSheet, SkillSheet)
+  href: api/Nekoyume.Action.AuraSummon.html#Nekoyume_Action_AuraSummon_AddAndUnlockOption_Nekoyume_Model_Item_Equipment_Libplanet_Action_IRandom_Nekoyume_TableData_EquipmentItemSubRecipeSheetV2_Row_Nekoyume_TableData_EquipmentItemOptionSheet_Nekoyume_TableData_SkillSheet_
+  commentId: M:Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.Item.Equipment,Libplanet.Action.IRandom,Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row,Nekoyume.TableData.EquipmentItemOptionSheet,Nekoyume.TableData.SkillSheet)
+  fullName: Nekoyume.Action.AuraSummon.AddAndUnlockOption(Nekoyume.Model.Item.Equipment, Libplanet.Action.IRandom, Nekoyume.TableData.EquipmentItemSubRecipeSheetV2.Row, Nekoyume.TableData.EquipmentItemOptionSheet, Nekoyume.TableData.SkillSheet)
+  nameWithType: AuraSummon.AddAndUnlockOption(Equipment, IRandom, EquipmentItemSubRecipeSheetV2.Row, EquipmentItemOptionSheet, SkillSheet)
 - uid: Nekoyume.Action.AuraSummon.AddAndUnlockOption*
   name: AddAndUnlockOption
   href: api/Nekoyume.Action.AuraSummon.html#Nekoyume_Action_AuraSummon_AddAndUnlockOption_
@@ -22528,123 +22528,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Action.Synthesize.Execute
   nameWithType: Synthesize.Execute
-- uid: Nekoyume.Action.Synthesize.GetItemGuid(Nekoyume.Model.Item.ItemBase)
-  name: GetItemGuid(ItemBase)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetItemGuid_Nekoyume_Model_Item_ItemBase_
-  commentId: M:Nekoyume.Action.Synthesize.GetItemGuid(Nekoyume.Model.Item.ItemBase)
-  fullName: Nekoyume.Action.Synthesize.GetItemGuid(Nekoyume.Model.Item.ItemBase)
-  nameWithType: Synthesize.GetItemGuid(ItemBase)
-- uid: Nekoyume.Action.Synthesize.GetItemGuid*
-  name: GetItemGuid
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetItemGuid_
-  commentId: Overload:Nekoyume.Action.Synthesize.GetItemGuid
-  isSpec: "True"
-  fullName: Nekoyume.Action.Synthesize.GetItemGuid
-  nameWithType: Synthesize.GetItemGuid
-- uid: Nekoyume.Action.Synthesize.GetItemGuids(System.Collections.Generic.IEnumerable{Nekoyume.Model.Item.ItemBase})
-  name: GetItemGuids(IEnumerable<ItemBase>)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetItemGuids_System_Collections_Generic_IEnumerable_Nekoyume_Model_Item_ItemBase__
-  commentId: M:Nekoyume.Action.Synthesize.GetItemGuids(System.Collections.Generic.IEnumerable{Nekoyume.Model.Item.ItemBase})
-  name.vb: GetItemGuids(IEnumerable(Of ItemBase))
-  fullName: Nekoyume.Action.Synthesize.GetItemGuids(System.Collections.Generic.IEnumerable<Nekoyume.Model.Item.ItemBase>)
-  fullName.vb: Nekoyume.Action.Synthesize.GetItemGuids(System.Collections.Generic.IEnumerable(Of Nekoyume.Model.Item.ItemBase))
-  nameWithType: Synthesize.GetItemGuids(IEnumerable<ItemBase>)
-  nameWithType.vb: Synthesize.GetItemGuids(IEnumerable(Of ItemBase))
-- uid: Nekoyume.Action.Synthesize.GetItemGuids*
-  name: GetItemGuids
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetItemGuids_
-  commentId: Overload:Nekoyume.Action.Synthesize.GetItemGuids
-  isSpec: "True"
-  fullName: Nekoyume.Action.Synthesize.GetItemGuids
-  nameWithType: Synthesize.GetItemGuids
-- uid: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
-  name: GetSynthesizeResultPool(Grade, ItemSubType, CostumeItemSheet)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetSynthesizeResultPool_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_
-  commentId: M:Nekoyume.Action.Synthesize.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
-  fullName: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.CostumeItemSheet)
-  nameWithType: Synthesize.GetSynthesizeResultPool(Grade, ItemSubType, CostumeItemSheet)
-- uid: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
-  name: GetSynthesizeResultPool(Grade, ItemSubType, EquipmentItemSheet)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetSynthesizeResultPool_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_
-  commentId: M:Nekoyume.Action.Synthesize.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
-  fullName: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.EquipmentItemSheet)
-  nameWithType: Synthesize.GetSynthesizeResultPool(Grade, ItemSubType, EquipmentItemSheet)
-- uid: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(System.Collections.Generic.List{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
-  name: GetSynthesizeResultPool(List<Grade>, ItemSubType, CostumeItemSheet)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetSynthesizeResultPool_System_Collections_Generic_List_Nekoyume_Model_EnumType_Grade__Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_
-  commentId: M:Nekoyume.Action.Synthesize.GetSynthesizeResultPool(System.Collections.Generic.List{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
-  name.vb: GetSynthesizeResultPool(List(Of Grade), ItemSubType, CostumeItemSheet)
-  fullName: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(System.Collections.Generic.List<Nekoyume.Model.EnumType.Grade>, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.CostumeItemSheet)
-  fullName.vb: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(System.Collections.Generic.List(Of Nekoyume.Model.EnumType.Grade), Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.CostumeItemSheet)
-  nameWithType: Synthesize.GetSynthesizeResultPool(List<Grade>, ItemSubType, CostumeItemSheet)
-  nameWithType.vb: Synthesize.GetSynthesizeResultPool(List(Of Grade), ItemSubType, CostumeItemSheet)
-- uid: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(System.Collections.Generic.List{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
-  name: GetSynthesizeResultPool(List<Grade>, ItemSubType, EquipmentItemSheet)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetSynthesizeResultPool_System_Collections_Generic_List_Nekoyume_Model_EnumType_Grade__Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_
-  commentId: M:Nekoyume.Action.Synthesize.GetSynthesizeResultPool(System.Collections.Generic.List{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
-  name.vb: GetSynthesizeResultPool(List(Of Grade), ItemSubType, EquipmentItemSheet)
-  fullName: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(System.Collections.Generic.List<Nekoyume.Model.EnumType.Grade>, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.EquipmentItemSheet)
-  fullName.vb: Nekoyume.Action.Synthesize.GetSynthesizeResultPool(System.Collections.Generic.List(Of Nekoyume.Model.EnumType.Grade), Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.EquipmentItemSheet)
-  nameWithType: Synthesize.GetSynthesizeResultPool(List<Grade>, ItemSubType, EquipmentItemSheet)
-  nameWithType.vb: Synthesize.GetSynthesizeResultPool(List(Of Grade), ItemSubType, EquipmentItemSheet)
-- uid: Nekoyume.Action.Synthesize.GetSynthesizeResultPool*
-  name: GetSynthesizeResultPool
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetSynthesizeResultPool_
-  commentId: Overload:Nekoyume.Action.Synthesize.GetSynthesizeResultPool
-  isSpec: "True"
-  fullName: Nekoyume.Action.Synthesize.GetSynthesizeResultPool
-  nameWithType: Synthesize.GetSynthesizeResultPool
-- uid: Nekoyume.Action.Synthesize.GetTargetGrade(System.Int32)
-  name: GetTargetGrade(int)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetTargetGrade_System_Int32_
-  commentId: M:Nekoyume.Action.Synthesize.GetTargetGrade(System.Int32)
-  name.vb: GetTargetGrade(Integer)
-  fullName: Nekoyume.Action.Synthesize.GetTargetGrade(int)
-  fullName.vb: Nekoyume.Action.Synthesize.GetTargetGrade(Integer)
-  nameWithType: Synthesize.GetTargetGrade(int)
-  nameWithType.vb: Synthesize.GetTargetGrade(Integer)
-- uid: Nekoyume.Action.Synthesize.GetTargetGrade*
-  name: GetTargetGrade
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetTargetGrade_
-  commentId: Overload:Nekoyume.Action.Synthesize.GetTargetGrade
-  isSpec: "True"
-  fullName: Nekoyume.Action.Synthesize.GetTargetGrade
-  nameWithType: Synthesize.GetTargetGrade
-- uid: Nekoyume.Action.Synthesize.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
-  name: GetUpgradeGrade(Grade, ItemSubType, CostumeItemSheet)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetUpgradeGrade_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_
-  commentId: M:Nekoyume.Action.Synthesize.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
-  fullName: Nekoyume.Action.Synthesize.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.CostumeItemSheet)
-  nameWithType: Synthesize.GetUpgradeGrade(Grade, ItemSubType, CostumeItemSheet)
-- uid: Nekoyume.Action.Synthesize.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
-  name: GetUpgradeGrade(Grade, ItemSubType, EquipmentItemSheet)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetUpgradeGrade_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_
-  commentId: M:Nekoyume.Action.Synthesize.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
-  fullName: Nekoyume.Action.Synthesize.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.EquipmentItemSheet)
-  nameWithType: Synthesize.GetUpgradeGrade(Grade, ItemSubType, EquipmentItemSheet)
-- uid: Nekoyume.Action.Synthesize.GetUpgradeGrade*
-  name: GetUpgradeGrade
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetUpgradeGrade_
-  commentId: Overload:Nekoyume.Action.Synthesize.GetUpgradeGrade
-  isSpec: "True"
-  fullName: Nekoyume.Action.Synthesize.GetUpgradeGrade
-  nameWithType: Synthesize.GetUpgradeGrade
-- uid: Nekoyume.Action.Synthesize.GetWeight(Nekoyume.Model.EnumType.Grade,System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)
-  name: GetWeight(Grade, int, SynthesizeWeightSheet)
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetWeight_Nekoyume_Model_EnumType_Grade_System_Int32_Nekoyume_TableData_SynthesizeWeightSheet_
-  commentId: M:Nekoyume.Action.Synthesize.GetWeight(Nekoyume.Model.EnumType.Grade,System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)
-  name.vb: GetWeight(Grade, Integer, SynthesizeWeightSheet)
-  fullName: Nekoyume.Action.Synthesize.GetWeight(Nekoyume.Model.EnumType.Grade, int, Nekoyume.TableData.SynthesizeWeightSheet)
-  fullName.vb: Nekoyume.Action.Synthesize.GetWeight(Nekoyume.Model.EnumType.Grade, Integer, Nekoyume.TableData.SynthesizeWeightSheet)
-  nameWithType: Synthesize.GetWeight(Grade, int, SynthesizeWeightSheet)
-  nameWithType.vb: Synthesize.GetWeight(Grade, Integer, SynthesizeWeightSheet)
-- uid: Nekoyume.Action.Synthesize.GetWeight*
-  name: GetWeight
-  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_GetWeight_
-  commentId: Overload:Nekoyume.Action.Synthesize.GetWeight
-  isSpec: "True"
-  fullName: Nekoyume.Action.Synthesize.GetWeight
-  nameWithType: Synthesize.GetWeight
 - uid: Nekoyume.Action.Synthesize.LoadPlainValueInternal(System.Collections.Immutable.IImmutableDictionary{System.String,Bencodex.Types.IValue})
   name: LoadPlainValueInternal(IImmutableDictionary<string, IValue>)
   href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_LoadPlainValueInternal_System_Collections_Immutable_IImmutableDictionary_System_String_Bencodex_Types_IValue__
@@ -22661,12 +22544,24 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Action.Synthesize.LoadPlainValueInternal
   nameWithType: Synthesize.LoadPlainValueInternal
+- uid: Nekoyume.Action.Synthesize.MaterialGradeId
+  name: MaterialGradeId
+  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_MaterialGradeId
+  commentId: F:Nekoyume.Action.Synthesize.MaterialGradeId
+  fullName: Nekoyume.Action.Synthesize.MaterialGradeId
+  nameWithType: Synthesize.MaterialGradeId
 - uid: Nekoyume.Action.Synthesize.MaterialIds
   name: MaterialIds
   href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_MaterialIds
   commentId: F:Nekoyume.Action.Synthesize.MaterialIds
   fullName: Nekoyume.Action.Synthesize.MaterialIds
   nameWithType: Synthesize.MaterialIds
+- uid: Nekoyume.Action.Synthesize.MaterialItemSubTypeId
+  name: MaterialItemSubTypeId
+  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_MaterialItemSubTypeId
+  commentId: F:Nekoyume.Action.Synthesize.MaterialItemSubTypeId
+  fullName: Nekoyume.Action.Synthesize.MaterialItemSubTypeId
+  nameWithType: Synthesize.MaterialItemSubTypeId
 - uid: Nekoyume.Action.Synthesize.PlainValueInternal
   name: PlainValueInternal
   href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_PlainValueInternal
@@ -37842,6 +37737,323 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Helper.SummonHelper.GetSummonRecipeIdByRandom
   nameWithType: SummonHelper.GetSummonRecipeIdByRandom
+- uid: Nekoyume.Helper.SynthesizeResult
+  name: SynthesizeResult
+  href: api/Nekoyume.Helper.SynthesizeResult.html
+  commentId: T:Nekoyume.Helper.SynthesizeResult
+  fullName: Nekoyume.Helper.SynthesizeResult
+  nameWithType: SynthesizeResult
+- uid: Nekoyume.Helper.SynthesizeResult.IsEquipment
+  name: IsEquipment
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_IsEquipment
+  commentId: P:Nekoyume.Helper.SynthesizeResult.IsEquipment
+  fullName: Nekoyume.Helper.SynthesizeResult.IsEquipment
+  nameWithType: SynthesizeResult.IsEquipment
+- uid: Nekoyume.Helper.SynthesizeResult.IsEquipment*
+  name: IsEquipment
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_IsEquipment_
+  commentId: Overload:Nekoyume.Helper.SynthesizeResult.IsEquipment
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeResult.IsEquipment
+  nameWithType: SynthesizeResult.IsEquipment
+- uid: Nekoyume.Helper.SynthesizeResult.IsSuccess
+  name: IsSuccess
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_IsSuccess
+  commentId: F:Nekoyume.Helper.SynthesizeResult.IsSuccess
+  fullName: Nekoyume.Helper.SynthesizeResult.IsSuccess
+  nameWithType: SynthesizeResult.IsSuccess
+- uid: Nekoyume.Helper.SynthesizeResult.ItemBase
+  name: ItemBase
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_ItemBase
+  commentId: F:Nekoyume.Helper.SynthesizeResult.ItemBase
+  fullName: Nekoyume.Helper.SynthesizeResult.ItemBase
+  nameWithType: SynthesizeResult.ItemBase
+- uid: Nekoyume.Helper.SynthesizeResult.RecipeId
+  name: RecipeId
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_RecipeId
+  commentId: F:Nekoyume.Helper.SynthesizeResult.RecipeId
+  fullName: Nekoyume.Helper.SynthesizeResult.RecipeId
+  nameWithType: SynthesizeResult.RecipeId
+- uid: Nekoyume.Helper.SynthesizeResult.SubRecipeId
+  name: SubRecipeId
+  href: api/Nekoyume.Helper.SynthesizeResult.html#Nekoyume_Helper_SynthesizeResult_SubRecipeId
+  commentId: F:Nekoyume.Helper.SynthesizeResult.SubRecipeId
+  fullName: Nekoyume.Helper.SynthesizeResult.SubRecipeId
+  nameWithType: SynthesizeResult.SubRecipeId
+- uid: Nekoyume.Helper.SynthesizeSimulator
+  name: SynthesizeSimulator
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html
+  commentId: T:Nekoyume.Helper.SynthesizeSimulator
+  fullName: Nekoyume.Helper.SynthesizeSimulator
+  nameWithType: SynthesizeSimulator
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name: GetCostumeMaterialList(List<Guid>, AvatarState, Grade, ItemSubType, string)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetCostumeMaterialList_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_System_String_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name.vb: GetCostumeMaterialList(List(Of Guid), AvatarState, Grade, ItemSubType, String)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, string)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, String)
+  nameWithType: SynthesizeSimulator.GetCostumeMaterialList(List<Guid>, AvatarState, Grade, ItemSubType, string)
+  nameWithType.vb: SynthesizeSimulator.GetCostumeMaterialList(List(Of Guid), AvatarState, Grade, ItemSubType, String)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList*
+  name: GetCostumeMaterialList
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetCostumeMaterialList_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetCostumeMaterialList
+  nameWithType: SynthesizeSimulator.GetCostumeMaterialList
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name: GetEquipmentMaterialList(List<Guid>, AvatarState, long, Grade, ItemSubType, string)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetEquipmentMaterialList_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_System_String_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name.vb: GetEquipmentMaterialList(List(Of Guid), AvatarState, Long, Grade, ItemSubType, String)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, long, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, string)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Long, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, String)
+  nameWithType: SynthesizeSimulator.GetEquipmentMaterialList(List<Guid>, AvatarState, long, Grade, ItemSubType, string)
+  nameWithType.vb: SynthesizeSimulator.GetEquipmentMaterialList(List(Of Guid), AvatarState, Long, Grade, ItemSubType, String)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList*
+  name: GetEquipmentMaterialList
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetEquipmentMaterialList_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetEquipmentMaterialList
+  nameWithType: SynthesizeSimulator.GetEquipmentMaterialList
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetItemGuid(Nekoyume.Model.Item.ItemBase)
+  name: GetItemGuid(ItemBase)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetItemGuid_Nekoyume_Model_Item_ItemBase_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetItemGuid(Nekoyume.Model.Item.ItemBase)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetItemGuid(Nekoyume.Model.Item.ItemBase)
+  nameWithType: SynthesizeSimulator.GetItemGuid(ItemBase)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetItemGuid*
+  name: GetItemGuid
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetItemGuid_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetItemGuid
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetItemGuid
+  nameWithType: SynthesizeSimulator.GetItemGuid
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetItemGuids(System.Collections.Generic.IEnumerable{Nekoyume.Model.Item.ItemBase})
+  name: GetItemGuids(IEnumerable<ItemBase>)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetItemGuids_System_Collections_Generic_IEnumerable_Nekoyume_Model_Item_ItemBase__
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetItemGuids(System.Collections.Generic.IEnumerable{Nekoyume.Model.Item.ItemBase})
+  name.vb: GetItemGuids(IEnumerable(Of ItemBase))
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetItemGuids(System.Collections.Generic.IEnumerable<Nekoyume.Model.Item.ItemBase>)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetItemGuids(System.Collections.Generic.IEnumerable(Of Nekoyume.Model.Item.ItemBase))
+  nameWithType: SynthesizeSimulator.GetItemGuids(IEnumerable<ItemBase>)
+  nameWithType.vb: SynthesizeSimulator.GetItemGuids(IEnumerable(Of ItemBase))
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetItemGuids*
+  name: GetItemGuids
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetItemGuids_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetItemGuids
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetItemGuids
+  nameWithType: SynthesizeSimulator.GetItemGuids
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name: GetMaterialList(List<Guid>, AvatarState, long, Grade, ItemSubType, string)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetMaterialList_System_Collections_Generic_List_System_Guid__Nekoyume_Model_State_AvatarState_System_Int64_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_System_String_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetMaterialList(System.Collections.Generic.List{System.Guid},Nekoyume.Model.State.AvatarState,System.Int64,Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,System.String)
+  name.vb: GetMaterialList(List(Of Guid), AvatarState, Long, Grade, ItemSubType, String)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList(System.Collections.Generic.List<System.Guid>, Nekoyume.Model.State.AvatarState, long, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, string)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList(System.Collections.Generic.List(Of System.Guid), Nekoyume.Model.State.AvatarState, Long, Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, String)
+  nameWithType: SynthesizeSimulator.GetMaterialList(List<Guid>, AvatarState, long, Grade, ItemSubType, string)
+  nameWithType.vb: SynthesizeSimulator.GetMaterialList(List(Of Guid), AvatarState, Long, Grade, ItemSubType, String)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList*
+  name: GetMaterialList
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetMaterialList_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetMaterialList
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetMaterialList
+  nameWithType: SynthesizeSimulator.GetMaterialList
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
+  name: GetSynthesizeResultPool(Grade, ItemSubType, CostumeItemSheet)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.CostumeItemSheet)
+  nameWithType: SynthesizeSimulator.GetSynthesizeResultPool(Grade, ItemSubType, CostumeItemSheet)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
+  name: GetSynthesizeResultPool(Grade, ItemSubType, EquipmentItemSheet)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.EquipmentItemSheet)
+  nameWithType: SynthesizeSimulator.GetSynthesizeResultPool(Grade, ItemSubType, EquipmentItemSheet)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.HashSet{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
+  name: GetSynthesizeResultPool(HashSet<Grade>, ItemSubType, CostumeItemSheet)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_System_Collections_Generic_HashSet_Nekoyume_Model_EnumType_Grade__Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.HashSet{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
+  name.vb: GetSynthesizeResultPool(HashSet(Of Grade), ItemSubType, CostumeItemSheet)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.HashSet<Nekoyume.Model.EnumType.Grade>, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.CostumeItemSheet)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.HashSet(Of Nekoyume.Model.EnumType.Grade), Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.CostumeItemSheet)
+  nameWithType: SynthesizeSimulator.GetSynthesizeResultPool(HashSet<Grade>, ItemSubType, CostumeItemSheet)
+  nameWithType.vb: SynthesizeSimulator.GetSynthesizeResultPool(HashSet(Of Grade), ItemSubType, CostumeItemSheet)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.HashSet{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
+  name: GetSynthesizeResultPool(HashSet<Grade>, ItemSubType, EquipmentItemSheet)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_System_Collections_Generic_HashSet_Nekoyume_Model_EnumType_Grade__Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.HashSet{Nekoyume.Model.EnumType.Grade},Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
+  name.vb: GetSynthesizeResultPool(HashSet(Of Grade), ItemSubType, EquipmentItemSheet)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.HashSet<Nekoyume.Model.EnumType.Grade>, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.EquipmentItemSheet)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool(System.Collections.Generic.HashSet(Of Nekoyume.Model.EnumType.Grade), Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.EquipmentItemSheet)
+  nameWithType: SynthesizeSimulator.GetSynthesizeResultPool(HashSet<Grade>, ItemSubType, EquipmentItemSheet)
+  nameWithType.vb: SynthesizeSimulator.GetSynthesizeResultPool(HashSet(Of Grade), ItemSubType, EquipmentItemSheet)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool*
+  name: GetSynthesizeResultPool
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetSynthesizeResultPool_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetSynthesizeResultPool
+  nameWithType: SynthesizeSimulator.GetSynthesizeResultPool
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade(Nekoyume.Model.EnumType.Grade)
+  name: GetTargetGrade(Grade)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetTargetGrade_Nekoyume_Model_EnumType_Grade_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade(Nekoyume.Model.EnumType.Grade)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade(Nekoyume.Model.EnumType.Grade)
+  nameWithType: SynthesizeSimulator.GetTargetGrade(Grade)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade(System.Int32)
+  name: GetTargetGrade(int)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetTargetGrade_System_Int32_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade(System.Int32)
+  name.vb: GetTargetGrade(Integer)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade(int)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade(Integer)
+  nameWithType: SynthesizeSimulator.GetTargetGrade(int)
+  nameWithType.vb: SynthesizeSimulator.GetTargetGrade(Integer)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade*
+  name: GetTargetGrade
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetTargetGrade_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetTargetGrade
+  nameWithType: SynthesizeSimulator.GetTargetGrade
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
+  name: GetUpgradeGrade(Grade, ItemSubType, CostumeItemSheet)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetUpgradeGrade_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_CostumeItemSheet_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.CostumeItemSheet)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.CostumeItemSheet)
+  nameWithType: SynthesizeSimulator.GetUpgradeGrade(Grade, ItemSubType, CostumeItemSheet)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
+  name: GetUpgradeGrade(Grade, ItemSubType, EquipmentItemSheet)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetUpgradeGrade_Nekoyume_Model_EnumType_Grade_Nekoyume_Model_Item_ItemSubType_Nekoyume_TableData_EquipmentItemSheet_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade,Nekoyume.Model.Item.ItemSubType,Nekoyume.TableData.EquipmentItemSheet)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade(Nekoyume.Model.EnumType.Grade, Nekoyume.Model.Item.ItemSubType, Nekoyume.TableData.EquipmentItemSheet)
+  nameWithType: SynthesizeSimulator.GetUpgradeGrade(Grade, ItemSubType, EquipmentItemSheet)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade*
+  name: GetUpgradeGrade
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetUpgradeGrade_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetUpgradeGrade
+  nameWithType: SynthesizeSimulator.GetUpgradeGrade
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetWeight(System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)
+  name: GetWeight(int, SynthesizeWeightSheet)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetWeight_System_Int32_Nekoyume_TableData_SynthesizeWeightSheet_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.GetWeight(System.Int32,Nekoyume.TableData.SynthesizeWeightSheet)
+  name.vb: GetWeight(Integer, SynthesizeWeightSheet)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetWeight(int, Nekoyume.TableData.SynthesizeWeightSheet)
+  fullName.vb: Nekoyume.Helper.SynthesizeSimulator.GetWeight(Integer, Nekoyume.TableData.SynthesizeWeightSheet)
+  nameWithType: SynthesizeSimulator.GetWeight(int, SynthesizeWeightSheet)
+  nameWithType.vb: SynthesizeSimulator.GetWeight(Integer, SynthesizeWeightSheet)
+- uid: Nekoyume.Helper.SynthesizeSimulator.GetWeight*
+  name: GetWeight
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_GetWeight_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.GetWeight
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.GetWeight
+  nameWithType: SynthesizeSimulator.GetWeight
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData
+  name: SynthesizeSimulator.InputData
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html
+  commentId: T:Nekoyume.Helper.SynthesizeSimulator.InputData
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData
+  nameWithType: SynthesizeSimulator.InputData
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.BlockIndex
+  name: BlockIndex
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_BlockIndex
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.BlockIndex
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.BlockIndex
+  nameWithType: SynthesizeSimulator.InputData.BlockIndex
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  name: CostumeItemSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_CostumeItemSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.CostumeItemSheet
+  nameWithType: SynthesizeSimulator.InputData.CostumeItemSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemOptionSheet
+  name: EquipmentItemOptionSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemOptionSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemOptionSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemOptionSheet
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemOptionSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemRecipeSheet
+  name: EquipmentItemRecipeSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemRecipeSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemRecipeSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemRecipeSheet
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemRecipeSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  name: EquipmentItemSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSheet
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
+  name: EquipmentItemSubRecipeSheetV2
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_EquipmentItemSubRecipeSheetV2
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
+  nameWithType: SynthesizeSimulator.InputData.EquipmentItemSubRecipeSheetV2
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.Grade
+  name: Grade
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_Grade
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.Grade
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.Grade
+  nameWithType: SynthesizeSimulator.InputData.Grade
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.ItemSubType
+  name: ItemSubType
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_ItemSubType
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.ItemSubType
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.ItemSubType
+  nameWithType: SynthesizeSimulator.InputData.ItemSubType
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.MaterialCount
+  name: MaterialCount
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_MaterialCount
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.MaterialCount
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.MaterialCount
+  nameWithType: SynthesizeSimulator.InputData.MaterialCount
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
+  name: RandomObject
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_RandomObject
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.RandomObject
+  nameWithType: SynthesizeSimulator.InputData.RandomObject
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SkillSheet
+  name: SkillSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SkillSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.SkillSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.SkillSheet
+  nameWithType: SynthesizeSimulator.InputData.SkillSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  name: SynthesizeSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SynthesizeSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeSheet
+  nameWithType: SynthesizeSimulator.InputData.SynthesizeSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  name: SynthesizeWeightSheet
+  href: api/Nekoyume.Helper.SynthesizeSimulator.InputData.html#Nekoyume_Helper_SynthesizeSimulator_InputData_SynthesizeWeightSheet
+  commentId: F:Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  fullName: Nekoyume.Helper.SynthesizeSimulator.InputData.SynthesizeWeightSheet
+  nameWithType: SynthesizeSimulator.InputData.SynthesizeWeightSheet
+- uid: Nekoyume.Helper.SynthesizeSimulator.Simulate(Nekoyume.Helper.SynthesizeSimulator.InputData)
+  name: Simulate(InputData)
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_Simulate_Nekoyume_Helper_SynthesizeSimulator_InputData_
+  commentId: M:Nekoyume.Helper.SynthesizeSimulator.Simulate(Nekoyume.Helper.SynthesizeSimulator.InputData)
+  fullName: Nekoyume.Helper.SynthesizeSimulator.Simulate(Nekoyume.Helper.SynthesizeSimulator.InputData)
+  nameWithType: SynthesizeSimulator.Simulate(SynthesizeSimulator.InputData)
+- uid: Nekoyume.Helper.SynthesizeSimulator.Simulate*
+  name: Simulate
+  href: api/Nekoyume.Helper.SynthesizeSimulator.html#Nekoyume_Helper_SynthesizeSimulator_Simulate_
+  commentId: Overload:Nekoyume.Helper.SynthesizeSimulator.Simulate
+  isSpec: "True"
+  fullName: Nekoyume.Helper.SynthesizeSimulator.Simulate
+  nameWithType: SynthesizeSimulator.Simulate
 - uid: Nekoyume.Helper.WorldBossHelper
   name: WorldBossHelper
   href: api/Nekoyume.Helper.WorldBossHelper.html
@@ -92395,6 +92607,22 @@ references:
   fullName.vb: Nekoyume.TableData.SynthesizeSheet.New
   nameWithType: SynthesizeSheet.SynthesizeSheet
   nameWithType.vb: SynthesizeSheet.New
+- uid: Nekoyume.TableData.SynthesizeSheet.AddRow(System.Int32,Nekoyume.TableData.SynthesizeSheet.Row)
+  name: AddRow(int, Row)
+  href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_AddRow_System_Int32_Nekoyume_TableData_SynthesizeSheet_Row_
+  commentId: M:Nekoyume.TableData.SynthesizeSheet.AddRow(System.Int32,Nekoyume.TableData.SynthesizeSheet.Row)
+  name.vb: AddRow(Integer, Row)
+  fullName: Nekoyume.TableData.SynthesizeSheet.AddRow(int, Nekoyume.TableData.SynthesizeSheet.Row)
+  fullName.vb: Nekoyume.TableData.SynthesizeSheet.AddRow(Integer, Nekoyume.TableData.SynthesizeSheet.Row)
+  nameWithType: SynthesizeSheet.AddRow(int, SynthesizeSheet.Row)
+  nameWithType.vb: SynthesizeSheet.AddRow(Integer, SynthesizeSheet.Row)
+- uid: Nekoyume.TableData.SynthesizeSheet.AddRow*
+  name: AddRow
+  href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_AddRow_
+  commentId: Overload:Nekoyume.TableData.SynthesizeSheet.AddRow
+  isSpec: "True"
+  fullName: Nekoyume.TableData.SynthesizeSheet.AddRow
+  nameWithType: SynthesizeSheet.AddRow
 - uid: Nekoyume.TableData.SynthesizeSheet.Row
   name: SynthesizeSheet.Row
   href: api/Nekoyume.TableData.SynthesizeSheet.Row.html
@@ -92427,19 +92655,19 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeSheet.Row.Key
   nameWithType: SynthesizeSheet.Row.Key
-- uid: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
-  name: RequiredCount
-  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_RequiredCount
-  commentId: P:Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
-  fullName: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
-  nameWithType: SynthesizeSheet.Row.RequiredCount
-- uid: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount*
-  name: RequiredCount
-  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_RequiredCount_
-  commentId: Overload:Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
+- uid: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
+  name: RequiredCountDict
+  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_RequiredCountDict
+  commentId: P:Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
+  fullName: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
+  nameWithType: SynthesizeSheet.Row.RequiredCountDict
+- uid: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict*
+  name: RequiredCountDict
+  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_RequiredCountDict_
+  commentId: Overload:Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
   isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCount
-  nameWithType: SynthesizeSheet.Row.RequiredCount
+  fullName: Nekoyume.TableData.SynthesizeSheet.Row.RequiredCountDict
+  nameWithType: SynthesizeSheet.Row.RequiredCountDict
 - uid: Nekoyume.TableData.SynthesizeSheet.Row.Set(System.Collections.Generic.IReadOnlyList{System.String})
   name: Set(IReadOnlyList<string>)
   href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_Set_System_Collections_Generic_IReadOnlyList_System_String__
@@ -92456,19 +92684,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeSheet.Row.Set
   nameWithType: SynthesizeSheet.Row.Set
-- uid: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  name: SucceedRate
-  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_SucceedRate
-  commentId: P:Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  fullName: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  nameWithType: SynthesizeSheet.Row.SucceedRate
-- uid: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate*
-  name: SucceedRate
-  href: api/Nekoyume.TableData.SynthesizeSheet.Row.html#Nekoyume_TableData_SynthesizeSheet_Row_SucceedRate_
-  commentId: Overload:Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeSheet.Row.SucceedRate
-  nameWithType: SynthesizeSheet.Row.SucceedRate
 - uid: Nekoyume.TableData.SynthesizeSheet.SucceedRateMax
   name: SucceedRateMax
   href: api/Nekoyume.TableData.SynthesizeSheet.html#Nekoyume_TableData_SynthesizeSheet_SucceedRateMax
@@ -92481,6 +92696,24 @@ references:
   commentId: F:Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
   fullName: Nekoyume.TableData.SynthesizeSheet.SucceedRateMin
   nameWithType: SynthesizeSheet.SucceedRateMin
+- uid: Nekoyume.TableData.SynthesizeSheet.SynthesizeData
+  name: SynthesizeSheet.SynthesizeData
+  href: api/Nekoyume.TableData.SynthesizeSheet.SynthesizeData.html
+  commentId: T:Nekoyume.TableData.SynthesizeSheet.SynthesizeData
+  fullName: Nekoyume.TableData.SynthesizeSheet.SynthesizeData
+  nameWithType: SynthesizeSheet.SynthesizeData
+- uid: Nekoyume.TableData.SynthesizeSheet.SynthesizeData.RequiredCount
+  name: RequiredCount
+  href: api/Nekoyume.TableData.SynthesizeSheet.SynthesizeData.html#Nekoyume_TableData_SynthesizeSheet_SynthesizeData_RequiredCount
+  commentId: F:Nekoyume.TableData.SynthesizeSheet.SynthesizeData.RequiredCount
+  fullName: Nekoyume.TableData.SynthesizeSheet.SynthesizeData.RequiredCount
+  nameWithType: SynthesizeSheet.SynthesizeData.RequiredCount
+- uid: Nekoyume.TableData.SynthesizeSheet.SynthesizeData.SucceedRate
+  name: SucceedRate
+  href: api/Nekoyume.TableData.SynthesizeSheet.SynthesizeData.html#Nekoyume_TableData_SynthesizeSheet_SynthesizeData_SucceedRate
+  commentId: F:Nekoyume.TableData.SynthesizeSheet.SynthesizeData.SucceedRate
+  fullName: Nekoyume.TableData.SynthesizeSheet.SynthesizeData.SucceedRate
+  nameWithType: SynthesizeSheet.SynthesizeData.SucceedRate
 - uid: Nekoyume.TableData.SynthesizeWeightSheet
   name: SynthesizeWeightSheet
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.html
@@ -92506,22 +92739,6 @@ references:
   fullName.vb: Nekoyume.TableData.SynthesizeWeightSheet.New
   nameWithType: SynthesizeWeightSheet.SynthesizeWeightSheet
   nameWithType.vb: SynthesizeWeightSheet.New
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.AddRow(System.Int32,Nekoyume.TableData.SynthesizeWeightSheet.Row)
-  name: AddRow(int, Row)
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.html#Nekoyume_TableData_SynthesizeWeightSheet_AddRow_System_Int32_Nekoyume_TableData_SynthesizeWeightSheet_Row_
-  commentId: M:Nekoyume.TableData.SynthesizeWeightSheet.AddRow(System.Int32,Nekoyume.TableData.SynthesizeWeightSheet.Row)
-  name.vb: AddRow(Integer, Row)
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.AddRow(int, Nekoyume.TableData.SynthesizeWeightSheet.Row)
-  fullName.vb: Nekoyume.TableData.SynthesizeWeightSheet.AddRow(Integer, Nekoyume.TableData.SynthesizeWeightSheet.Row)
-  nameWithType: SynthesizeWeightSheet.AddRow(int, SynthesizeWeightSheet.Row)
-  nameWithType.vb: SynthesizeWeightSheet.AddRow(Integer, SynthesizeWeightSheet.Row)
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.AddRow*
-  name: AddRow
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.html#Nekoyume_TableData_SynthesizeWeightSheet_AddRow_
-  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.AddRow
-  isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.AddRow
-  nameWithType: SynthesizeWeightSheet.AddRow
 - uid: Nekoyume.TableData.SynthesizeWeightSheet.DefaultWeight
   name: DefaultWeight
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.html#Nekoyume_TableData_SynthesizeWeightSheet_DefaultWeight
@@ -92534,19 +92751,19 @@ references:
   commentId: T:Nekoyume.TableData.SynthesizeWeightSheet.Row
   fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row
   nameWithType: SynthesizeWeightSheet.Row
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
-  name: GradeId
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_GradeId
-  commentId: P:Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
-  nameWithType: SynthesizeWeightSheet.Row.GradeId
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId*
-  name: GradeId
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_GradeId_
-  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
+  name: ItemId
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_ItemId
+  commentId: P:Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
+  nameWithType: SynthesizeWeightSheet.Row.ItemId
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId*
+  name: ItemId
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_ItemId_
+  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
   isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.GradeId
-  nameWithType: SynthesizeWeightSheet.Row.GradeId
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.ItemId
+  nameWithType: SynthesizeWeightSheet.Row.ItemId
 - uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.Key
   name: Key
   href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_Key
@@ -92576,19 +92793,19 @@ references:
   isSpec: "True"
   fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.Set
   nameWithType: SynthesizeWeightSheet.Row.Set
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
-  name: WeightDict
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_WeightDict
-  commentId: P:Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
-  nameWithType: SynthesizeWeightSheet.Row.WeightDict
-- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict*
-  name: WeightDict
-  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_WeightDict_
-  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
+  name: Weight
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_Weight
+  commentId: P:Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
+  nameWithType: SynthesizeWeightSheet.Row.Weight
+- uid: Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight*
+  name: Weight
+  href: api/Nekoyume.TableData.SynthesizeWeightSheet.Row.html#Nekoyume_TableData_SynthesizeWeightSheet_Row_Weight_
+  commentId: Overload:Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
   isSpec: "True"
-  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.WeightDict
-  nameWithType: SynthesizeWeightSheet.Row.WeightDict
+  fullName: Nekoyume.TableData.SynthesizeWeightSheet.Row.Weight
+  nameWithType: SynthesizeWeightSheet.Row.Weight
 - uid: Nekoyume.TableData.TableExtensions
   name: TableExtensions
   href: api/Nekoyume.TableData.TableExtensions.html
