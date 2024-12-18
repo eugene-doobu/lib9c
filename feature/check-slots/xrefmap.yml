@@ -13730,6 +13730,49 @@ references:
   fullName.vb: Nekoyume.Action.InvalidItemCountException.New
   nameWithType: InvalidItemCountException.InvalidItemCountException
   nameWithType.vb: InvalidItemCountException.New
+- uid: Nekoyume.Action.InvalidItemIdException
+  name: InvalidItemIdException
+  href: api/Nekoyume.Action.InvalidItemIdException.html
+  commentId: T:Nekoyume.Action.InvalidItemIdException
+  fullName: Nekoyume.Action.InvalidItemIdException
+  nameWithType: InvalidItemIdException
+- uid: Nekoyume.Action.InvalidItemIdException.#ctor
+  name: InvalidItemIdException()
+  href: api/Nekoyume.Action.InvalidItemIdException.html#Nekoyume_Action_InvalidItemIdException__ctor
+  commentId: M:Nekoyume.Action.InvalidItemIdException.#ctor
+  name.vb: New()
+  fullName: Nekoyume.Action.InvalidItemIdException.InvalidItemIdException()
+  fullName.vb: Nekoyume.Action.InvalidItemIdException.New()
+  nameWithType: InvalidItemIdException.InvalidItemIdException()
+  nameWithType.vb: InvalidItemIdException.New()
+- uid: Nekoyume.Action.InvalidItemIdException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name: InvalidItemIdException(SerializationInfo, StreamingContext)
+  href: api/Nekoyume.Action.InvalidItemIdException.html#Nekoyume_Action_InvalidItemIdException__ctor_System_Runtime_Serialization_SerializationInfo_System_Runtime_Serialization_StreamingContext_
+  commentId: M:Nekoyume.Action.InvalidItemIdException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name.vb: New(SerializationInfo, StreamingContext)
+  fullName: Nekoyume.Action.InvalidItemIdException.InvalidItemIdException(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  fullName.vb: Nekoyume.Action.InvalidItemIdException.New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  nameWithType: InvalidItemIdException.InvalidItemIdException(SerializationInfo, StreamingContext)
+  nameWithType.vb: InvalidItemIdException.New(SerializationInfo, StreamingContext)
+- uid: Nekoyume.Action.InvalidItemIdException.#ctor(System.String)
+  name: InvalidItemIdException(string)
+  href: api/Nekoyume.Action.InvalidItemIdException.html#Nekoyume_Action_InvalidItemIdException__ctor_System_String_
+  commentId: M:Nekoyume.Action.InvalidItemIdException.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Nekoyume.Action.InvalidItemIdException.InvalidItemIdException(string)
+  fullName.vb: Nekoyume.Action.InvalidItemIdException.New(String)
+  nameWithType: InvalidItemIdException.InvalidItemIdException(string)
+  nameWithType.vb: InvalidItemIdException.New(String)
+- uid: Nekoyume.Action.InvalidItemIdException.#ctor*
+  name: InvalidItemIdException
+  href: api/Nekoyume.Action.InvalidItemIdException.html#Nekoyume_Action_InvalidItemIdException__ctor_
+  commentId: Overload:Nekoyume.Action.InvalidItemIdException.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Nekoyume.Action.InvalidItemIdException.InvalidItemIdException
+  fullName.vb: Nekoyume.Action.InvalidItemIdException.New
+  nameWithType: InvalidItemIdException.InvalidItemIdException
+  nameWithType.vb: InvalidItemIdException.New
 - uid: Nekoyume.Action.InvalidItemTypeException
   name: InvalidItemTypeException
   href: api/Nekoyume.Action.InvalidItemTypeException.html
@@ -22528,6 +22571,12 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Action.Synthesize.Execute
   nameWithType: Synthesize.Execute
+- uid: Nekoyume.Action.Synthesize.InvalidMaterialItemId
+  name: InvalidMaterialItemId
+  href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_InvalidMaterialItemId
+  commentId: F:Nekoyume.Action.Synthesize.InvalidMaterialItemId
+  fullName: Nekoyume.Action.Synthesize.InvalidMaterialItemId
+  nameWithType: Synthesize.InvalidMaterialItemId
 - uid: Nekoyume.Action.Synthesize.LoadPlainValueInternal(System.Collections.Immutable.IImmutableDictionary{System.String,Bencodex.Types.IValue})
   name: LoadPlainValueInternal(IImmutableDictionary<string, IValue>)
   href: api/Nekoyume.Action.Synthesize.html#Nekoyume_Action_Synthesize_LoadPlainValueInternal_System_Collections_Immutable_IImmutableDictionary_System_String_Bencodex_Types_IValue__
