@@ -7846,15 +7846,15 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Action.CreateAvatar.AddItem
   nameWithType: CreateAvatar.AddItem
-- uid: Nekoyume.Action.CreateAvatar.CreateAvatarState(System.String,Libplanet.Crypto.Address,Libplanet.Action.IActionContext,Nekoyume.TableData.MaterialItemSheet,Libplanet.Crypto.Address)
-  name: CreateAvatarState(string, Address, IActionContext, MaterialItemSheet, Address)
-  href: api/Nekoyume.Action.CreateAvatar.html#Nekoyume_Action_CreateAvatar_CreateAvatarState_System_String_Libplanet_Crypto_Address_Libplanet_Action_IActionContext_Nekoyume_TableData_MaterialItemSheet_Libplanet_Crypto_Address_
-  commentId: M:Nekoyume.Action.CreateAvatar.CreateAvatarState(System.String,Libplanet.Crypto.Address,Libplanet.Action.IActionContext,Nekoyume.TableData.MaterialItemSheet,Libplanet.Crypto.Address)
-  name.vb: CreateAvatarState(String, Address, IActionContext, MaterialItemSheet, Address)
-  fullName: Nekoyume.Action.CreateAvatar.CreateAvatarState(string, Libplanet.Crypto.Address, Libplanet.Action.IActionContext, Nekoyume.TableData.MaterialItemSheet, Libplanet.Crypto.Address)
-  fullName.vb: Nekoyume.Action.CreateAvatar.CreateAvatarState(String, Libplanet.Crypto.Address, Libplanet.Action.IActionContext, Nekoyume.TableData.MaterialItemSheet, Libplanet.Crypto.Address)
-  nameWithType: CreateAvatar.CreateAvatarState(string, Address, IActionContext, MaterialItemSheet, Address)
-  nameWithType.vb: CreateAvatar.CreateAvatarState(String, Address, IActionContext, MaterialItemSheet, Address)
+- uid: Nekoyume.Action.CreateAvatar.CreateAvatarState(System.String,Libplanet.Crypto.Address,Libplanet.Action.IActionContext,Libplanet.Crypto.Address)
+  name: CreateAvatarState(string, Address, IActionContext, Address)
+  href: api/Nekoyume.Action.CreateAvatar.html#Nekoyume_Action_CreateAvatar_CreateAvatarState_System_String_Libplanet_Crypto_Address_Libplanet_Action_IActionContext_Libplanet_Crypto_Address_
+  commentId: M:Nekoyume.Action.CreateAvatar.CreateAvatarState(System.String,Libplanet.Crypto.Address,Libplanet.Action.IActionContext,Libplanet.Crypto.Address)
+  name.vb: CreateAvatarState(String, Address, IActionContext, Address)
+  fullName: Nekoyume.Action.CreateAvatar.CreateAvatarState(string, Libplanet.Crypto.Address, Libplanet.Action.IActionContext, Libplanet.Crypto.Address)
+  fullName.vb: Nekoyume.Action.CreateAvatar.CreateAvatarState(String, Libplanet.Crypto.Address, Libplanet.Action.IActionContext, Libplanet.Crypto.Address)
+  nameWithType: CreateAvatar.CreateAvatarState(string, Address, IActionContext, Address)
+  nameWithType.vb: CreateAvatar.CreateAvatarState(String, Address, IActionContext, Address)
 - uid: Nekoyume.Action.CreateAvatar.CreateAvatarState*
   name: CreateAvatarState
   href: api/Nekoyume.Action.CreateAvatar.html#Nekoyume_Action_CreateAvatar_CreateAvatarState_
