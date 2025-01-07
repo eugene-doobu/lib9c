@@ -37278,6 +37278,22 @@ references:
   commentId: T:Nekoyume.Extensions.WorldExtensions
   fullName: Nekoyume.Extensions.WorldExtensions
   nameWithType: WorldExtensions
+- uid: Nekoyume.Extensions.WorldExtensions.GetFeeAddress(Libplanet.Action.State.IWorld,System.Int64)
+  name: GetFeeAddress(IWorld, long)
+  href: api/Nekoyume.Extensions.WorldExtensions.html#Nekoyume_Extensions_WorldExtensions_GetFeeAddress_Libplanet_Action_State_IWorld_System_Int64_
+  commentId: M:Nekoyume.Extensions.WorldExtensions.GetFeeAddress(Libplanet.Action.State.IWorld,System.Int64)
+  name.vb: GetFeeAddress(IWorld, Long)
+  fullName: Nekoyume.Extensions.WorldExtensions.GetFeeAddress(Libplanet.Action.State.IWorld, long)
+  fullName.vb: Nekoyume.Extensions.WorldExtensions.GetFeeAddress(Libplanet.Action.State.IWorld, Long)
+  nameWithType: WorldExtensions.GetFeeAddress(IWorld, long)
+  nameWithType.vb: WorldExtensions.GetFeeAddress(IWorld, Long)
+- uid: Nekoyume.Extensions.WorldExtensions.GetFeeAddress*
+  name: GetFeeAddress
+  href: api/Nekoyume.Extensions.WorldExtensions.html#Nekoyume_Extensions_WorldExtensions_GetFeeAddress_
+  commentId: Overload:Nekoyume.Extensions.WorldExtensions.GetFeeAddress
+  isSpec: "True"
+  fullName: Nekoyume.Extensions.WorldExtensions.GetFeeAddress
+  nameWithType: WorldExtensions.GetFeeAddress
 - uid: Nekoyume.Extensions.WorldExtensions.MutateAccount(Libplanet.Action.State.IWorld,Libplanet.Crypto.Address,System.Func{Libplanet.Action.State.IAccount,Libplanet.Action.State.IAccount})
   name: MutateAccount(IWorld, Address, Func<IAccount, IAccount>)
   href: api/Nekoyume.Extensions.WorldExtensions.html#Nekoyume_Extensions_WorldExtensions_MutateAccount_Libplanet_Action_State_IWorld_Libplanet_Crypto_Address_System_Func_Libplanet_Action_State_IAccount_Libplanet_Action_State_IAccount__
