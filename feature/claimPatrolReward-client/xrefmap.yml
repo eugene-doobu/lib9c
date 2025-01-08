@@ -50816,22 +50816,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.Item.Inventory.AddFungibleItem
   nameWithType: Inventory.AddFungibleItem
-- uid: Nekoyume.Model.Item.Inventory.AddFungibleItem2(Nekoyume.Model.Item.ItemBase,System.Int32,Nekoyume.Model.Item.ILock)
-  name: AddFungibleItem2(ItemBase, int, ILock)
-  href: api/Nekoyume.Model.Item.Inventory.html#Nekoyume_Model_Item_Inventory_AddFungibleItem2_Nekoyume_Model_Item_ItemBase_System_Int32_Nekoyume_Model_Item_ILock_
-  commentId: M:Nekoyume.Model.Item.Inventory.AddFungibleItem2(Nekoyume.Model.Item.ItemBase,System.Int32,Nekoyume.Model.Item.ILock)
-  name.vb: AddFungibleItem2(ItemBase, Integer, ILock)
-  fullName: Nekoyume.Model.Item.Inventory.AddFungibleItem2(Nekoyume.Model.Item.ItemBase, int, Nekoyume.Model.Item.ILock)
-  fullName.vb: Nekoyume.Model.Item.Inventory.AddFungibleItem2(Nekoyume.Model.Item.ItemBase, Integer, Nekoyume.Model.Item.ILock)
-  nameWithType: Inventory.AddFungibleItem2(ItemBase, int, ILock)
-  nameWithType.vb: Inventory.AddFungibleItem2(ItemBase, Integer, ILock)
-- uid: Nekoyume.Model.Item.Inventory.AddFungibleItem2*
-  name: AddFungibleItem2
-  href: api/Nekoyume.Model.Item.Inventory.html#Nekoyume_Model_Item_Inventory_AddFungibleItem2_
-  commentId: Overload:Nekoyume.Model.Item.Inventory.AddFungibleItem2
-  isSpec: "True"
-  fullName: Nekoyume.Model.Item.Inventory.AddFungibleItem2
-  nameWithType: Inventory.AddFungibleItem2
 - uid: Nekoyume.Model.Item.Inventory.AddItem(Nekoyume.Model.Item.ItemBase,System.Int32,Nekoyume.Model.Item.ILock)
   name: AddItem(ItemBase, int, ILock)
   href: api/Nekoyume.Model.Item.Inventory.html#Nekoyume_Model_Item_Inventory_AddItem_Nekoyume_Model_Item_ItemBase_System_Int32_Nekoyume_Model_Item_ILock_
@@ -50848,22 +50832,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.Item.Inventory.AddItem
   nameWithType: Inventory.AddItem
-- uid: Nekoyume.Model.Item.Inventory.AddItem2(Nekoyume.Model.Item.ItemBase,System.Int32,Nekoyume.Model.Item.ILock)
-  name: AddItem2(ItemBase, int, ILock)
-  href: api/Nekoyume.Model.Item.Inventory.html#Nekoyume_Model_Item_Inventory_AddItem2_Nekoyume_Model_Item_ItemBase_System_Int32_Nekoyume_Model_Item_ILock_
-  commentId: M:Nekoyume.Model.Item.Inventory.AddItem2(Nekoyume.Model.Item.ItemBase,System.Int32,Nekoyume.Model.Item.ILock)
-  name.vb: AddItem2(ItemBase, Integer, ILock)
-  fullName: Nekoyume.Model.Item.Inventory.AddItem2(Nekoyume.Model.Item.ItemBase, int, Nekoyume.Model.Item.ILock)
-  fullName.vb: Nekoyume.Model.Item.Inventory.AddItem2(Nekoyume.Model.Item.ItemBase, Integer, Nekoyume.Model.Item.ILock)
-  nameWithType: Inventory.AddItem2(ItemBase, int, ILock)
-  nameWithType.vb: Inventory.AddItem2(ItemBase, Integer, ILock)
-- uid: Nekoyume.Model.Item.Inventory.AddItem2*
-  name: AddItem2
-  href: api/Nekoyume.Model.Item.Inventory.html#Nekoyume_Model_Item_Inventory_AddItem2_
-  commentId: Overload:Nekoyume.Model.Item.Inventory.AddItem2
-  isSpec: "True"
-  fullName: Nekoyume.Model.Item.Inventory.AddItem2
-  nameWithType: Inventory.AddItem2
 - uid: Nekoyume.Model.Item.Inventory.AddNonFungibleItem(Nekoyume.Model.Item.ItemBase,Nekoyume.Model.Item.ILock)
   name: AddNonFungibleItem(ItemBase, ILock)
   href: api/Nekoyume.Model.Item.Inventory.html#Nekoyume_Model_Item_Inventory_AddNonFungibleItem_Nekoyume_Model_Item_ItemBase_Nekoyume_Model_Item_ILock_
@@ -56499,22 +56467,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.Player.GetRewards
   nameWithType: Player.GetRewards
-- uid: Nekoyume.Model.Player.GetRewards2(System.Collections.Generic.List{Nekoyume.Model.Item.ItemBase})
-  name: GetRewards2(List<ItemBase>)
-  href: api/Nekoyume.Model.Player.html#Nekoyume_Model_Player_GetRewards2_System_Collections_Generic_List_Nekoyume_Model_Item_ItemBase__
-  commentId: M:Nekoyume.Model.Player.GetRewards2(System.Collections.Generic.List{Nekoyume.Model.Item.ItemBase})
-  name.vb: GetRewards2(List(Of ItemBase))
-  fullName: Nekoyume.Model.Player.GetRewards2(System.Collections.Generic.List<Nekoyume.Model.Item.ItemBase>)
-  fullName.vb: Nekoyume.Model.Player.GetRewards2(System.Collections.Generic.List(Of Nekoyume.Model.Item.ItemBase))
-  nameWithType: Player.GetRewards2(List<ItemBase>)
-  nameWithType.vb: Player.GetRewards2(List(Of ItemBase))
-- uid: Nekoyume.Model.Player.GetRewards2*
-  name: GetRewards2
-  href: api/Nekoyume.Model.Player.html#Nekoyume_Model_Player_GetRewards2_
-  commentId: Overload:Nekoyume.Model.Player.GetRewards2
-  isSpec: "True"
-  fullName: Nekoyume.Model.Player.GetRewards2
-  nameWithType: Player.GetRewards2
 - uid: Nekoyume.Model.Player.Grimoire
   name: Grimoire
   href: api/Nekoyume.Model.Player.html#Nekoyume_Model_Player_Grimoire
@@ -67727,31 +67679,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.State.AvatarState.UpdateFromAddItem
   nameWithType: AvatarState.UpdateFromAddItem
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromAddItem2(Nekoyume.Model.Item.ItemBase,System.Int32,System.Boolean)
-  name: UpdateFromAddItem2(ItemBase, int, bool)
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromAddItem2_Nekoyume_Model_Item_ItemBase_System_Int32_System_Boolean_
-  commentId: M:Nekoyume.Model.State.AvatarState.UpdateFromAddItem2(Nekoyume.Model.Item.ItemBase,System.Int32,System.Boolean)
-  name.vb: UpdateFromAddItem2(ItemBase, Integer, Boolean)
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromAddItem2(Nekoyume.Model.Item.ItemBase, int, bool)
-  fullName.vb: Nekoyume.Model.State.AvatarState.UpdateFromAddItem2(Nekoyume.Model.Item.ItemBase, Integer, Boolean)
-  nameWithType: AvatarState.UpdateFromAddItem2(ItemBase, int, bool)
-  nameWithType.vb: AvatarState.UpdateFromAddItem2(ItemBase, Integer, Boolean)
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromAddItem2(Nekoyume.Model.Item.ItemUsable,System.Boolean)
-  name: UpdateFromAddItem2(ItemUsable, bool)
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromAddItem2_Nekoyume_Model_Item_ItemUsable_System_Boolean_
-  commentId: M:Nekoyume.Model.State.AvatarState.UpdateFromAddItem2(Nekoyume.Model.Item.ItemUsable,System.Boolean)
-  name.vb: UpdateFromAddItem2(ItemUsable, Boolean)
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromAddItem2(Nekoyume.Model.Item.ItemUsable, bool)
-  fullName.vb: Nekoyume.Model.State.AvatarState.UpdateFromAddItem2(Nekoyume.Model.Item.ItemUsable, Boolean)
-  nameWithType: AvatarState.UpdateFromAddItem2(ItemUsable, bool)
-  nameWithType.vb: AvatarState.UpdateFromAddItem2(ItemUsable, Boolean)
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromAddItem2*
-  name: UpdateFromAddItem2
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromAddItem2_
-  commentId: Overload:Nekoyume.Model.State.AvatarState.UpdateFromAddItem2
-  isSpec: "True"
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromAddItem2
-  nameWithType: AvatarState.UpdateFromAddItem2
 - uid: Nekoyume.Model.State.AvatarState.UpdateFromCombination(Nekoyume.Model.Item.ItemUsable)
   name: UpdateFromCombination(ItemUsable)
   href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromCombination_Nekoyume_Model_Item_ItemUsable_
@@ -67765,19 +67692,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.State.AvatarState.UpdateFromCombination
   nameWithType: AvatarState.UpdateFromCombination
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromCombination2(Nekoyume.Model.Item.ItemUsable)
-  name: UpdateFromCombination2(ItemUsable)
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromCombination2_Nekoyume_Model_Item_ItemUsable_
-  commentId: M:Nekoyume.Model.State.AvatarState.UpdateFromCombination2(Nekoyume.Model.Item.ItemUsable)
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromCombination2(Nekoyume.Model.Item.ItemUsable)
-  nameWithType: AvatarState.UpdateFromCombination2(ItemUsable)
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromCombination2*
-  name: UpdateFromCombination2
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromCombination2_
-  commentId: Overload:Nekoyume.Model.State.AvatarState.UpdateFromCombination2
-  isSpec: "True"
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromCombination2
-  nameWithType: AvatarState.UpdateFromCombination2
 - uid: Nekoyume.Model.State.AvatarState.UpdateFromItemEnhancement(Nekoyume.Model.Item.Equipment)
   name: UpdateFromItemEnhancement(Equipment)
   href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromItemEnhancement_Nekoyume_Model_Item_Equipment_
@@ -67791,19 +67705,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.State.AvatarState.UpdateFromItemEnhancement
   nameWithType: AvatarState.UpdateFromItemEnhancement
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromItemEnhancement2(Nekoyume.Model.Item.Equipment)
-  name: UpdateFromItemEnhancement2(Equipment)
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromItemEnhancement2_Nekoyume_Model_Item_Equipment_
-  commentId: M:Nekoyume.Model.State.AvatarState.UpdateFromItemEnhancement2(Nekoyume.Model.Item.Equipment)
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromItemEnhancement2(Nekoyume.Model.Item.Equipment)
-  nameWithType: AvatarState.UpdateFromItemEnhancement2(Equipment)
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromItemEnhancement2*
-  name: UpdateFromItemEnhancement2
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromItemEnhancement2_
-  commentId: Overload:Nekoyume.Model.State.AvatarState.UpdateFromItemEnhancement2
-  isSpec: "True"
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromItemEnhancement2
-  nameWithType: AvatarState.UpdateFromItemEnhancement2
 - uid: Nekoyume.Model.State.AvatarState.UpdateFromQuestReward(Nekoyume.Model.Quest.Quest,Nekoyume.TableData.MaterialItemSheet)
   name: UpdateFromQuestReward(Quest, MaterialItemSheet)
   href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromQuestReward_Nekoyume_Model_Quest_Quest_Nekoyume_TableData_MaterialItemSheet_
@@ -67817,19 +67718,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.State.AvatarState.UpdateFromQuestReward
   nameWithType: AvatarState.UpdateFromQuestReward
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromQuestReward2(Nekoyume.Model.Quest.Quest,Nekoyume.TableData.MaterialItemSheet)
-  name: UpdateFromQuestReward2(Quest, MaterialItemSheet)
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromQuestReward2_Nekoyume_Model_Quest_Quest_Nekoyume_TableData_MaterialItemSheet_
-  commentId: M:Nekoyume.Model.State.AvatarState.UpdateFromQuestReward2(Nekoyume.Model.Quest.Quest,Nekoyume.TableData.MaterialItemSheet)
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromQuestReward2(Nekoyume.Model.Quest.Quest, Nekoyume.TableData.MaterialItemSheet)
-  nameWithType: AvatarState.UpdateFromQuestReward2(Quest, MaterialItemSheet)
-- uid: Nekoyume.Model.State.AvatarState.UpdateFromQuestReward2*
-  name: UpdateFromQuestReward2
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromQuestReward2_
-  commentId: Overload:Nekoyume.Model.State.AvatarState.UpdateFromQuestReward2
-  isSpec: "True"
-  fullName: Nekoyume.Model.State.AvatarState.UpdateFromQuestReward2
-  nameWithType: AvatarState.UpdateFromQuestReward2
 - uid: Nekoyume.Model.State.AvatarState.UpdateFromRapidCombination(Nekoyume.Action.CombinationConsumable5.ResultModel,System.Int64)
   name: UpdateFromRapidCombination(ResultModel, long)
   href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateFromRapidCombination_Nekoyume_Action_CombinationConsumable5_ResultModel_System_Int64_
@@ -67891,19 +67779,6 @@ references:
   isSpec: "True"
   fullName: Nekoyume.Model.State.AvatarState.UpdateQuestRewards
   nameWithType: AvatarState.UpdateQuestRewards
-- uid: Nekoyume.Model.State.AvatarState.UpdateQuestRewards2(Nekoyume.TableData.MaterialItemSheet)
-  name: UpdateQuestRewards2(MaterialItemSheet)
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateQuestRewards2_Nekoyume_TableData_MaterialItemSheet_
-  commentId: M:Nekoyume.Model.State.AvatarState.UpdateQuestRewards2(Nekoyume.TableData.MaterialItemSheet)
-  fullName: Nekoyume.Model.State.AvatarState.UpdateQuestRewards2(Nekoyume.TableData.MaterialItemSheet)
-  nameWithType: AvatarState.UpdateQuestRewards2(MaterialItemSheet)
-- uid: Nekoyume.Model.State.AvatarState.UpdateQuestRewards2*
-  name: UpdateQuestRewards2
-  href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateQuestRewards2_
-  commentId: Overload:Nekoyume.Model.State.AvatarState.UpdateQuestRewards2
-  isSpec: "True"
-  fullName: Nekoyume.Model.State.AvatarState.UpdateQuestRewards2
-  nameWithType: AvatarState.UpdateQuestRewards2
 - uid: Nekoyume.Model.State.AvatarState.UpdateTemp(Nekoyume.Model.Mail.Mail,System.Int64)
   name: UpdateTemp(Mail, long)
   href: api/Nekoyume.Model.State.AvatarState.html#Nekoyume_Model_State_AvatarState_UpdateTemp_Nekoyume_Model_Mail_Mail_System_Int64_
